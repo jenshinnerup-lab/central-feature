@@ -9,6 +9,10 @@ table 91100 "Business Central Version"
         {
             Caption = 'Code';
         }
+        field(2; "Description"; Text[100])
+        {
+            Caption = 'Description';
+        }
     }
     keys
     {

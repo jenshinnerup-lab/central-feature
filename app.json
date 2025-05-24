@@ -20,11 +20,13 @@
       "to": 91149
     }
   ],
+  
   "resourceExposurePolicy": {
     "allowDebugging": true,
     "allowDownloadingSource": true,
     "includeSourceInSymbolFile": true
   },
+  "resourceFolders": ["features"],
   "runtime": "15.0",
   "features": [
     "NoImplicitWith"

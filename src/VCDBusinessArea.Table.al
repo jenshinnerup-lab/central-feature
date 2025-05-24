@@ -5,15 +5,11 @@ table 91101 "Business Area"
 
     fields
     {
-        field(1; "Area"; Code[20])
-        {
-            Caption = 'Area';
-        }
-        field(2; Description; Text[80])
+        field(1; Description; Text[100])
         {
             Caption = 'Description';
         }
-        field(3; "Feature Count"; Integer)
+        field(2; "Feature Count"; Integer)
         {
             Caption = 'Feature Count';
             //todo: Add logic to calculate the number of features associated with this business area
@@ -22,7 +18,7 @@ table 91101 "Business Area"
     }
     keys
     {
-        key(PK; "Area")
+        key(PK; "Description")
         {
             Clustered = true;
         }
