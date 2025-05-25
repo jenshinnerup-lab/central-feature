@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="VCD features in feature">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 1305645851 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BusinessArea</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BusinessArea - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1305645851 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BusinessArea - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1305645851 - Control 3857960337 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Feature Count field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BusinessArea - Control Feature Count - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 409448870 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BusinessFeature</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BusinessFeature - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 409448870 - Control 3532935625 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Area field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BusinessFeature - Control Area - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 409448870 - Control 3637563145 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Business Central Version field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BusinessFeature - Control Business Central Version - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 409448870 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BusinessFeature - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 409448870 - Control 329424276 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Title field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BusinessFeature - Control Title - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 87745811 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Business Area</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Business Area - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 87745811 - Field 3637563145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Business Central Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Business Area - Field Business Central Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 87745811 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Business Area - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 87745811 - Field 3857960337 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Feature Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Business Area - Field Feature Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3637563145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Business Central Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Business Central Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3637563145 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Business Central Version - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3637563145 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Business Central Version - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1351352100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Feature Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Feature Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1351352100 - Field 3532935625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Area</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Feature Entry - Field Area - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1351352100 - Field 3637563145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Business Central Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Feature Entry - Field Business Central Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1351352100 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Feature Entry - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1351352100 - Field 329424276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Feature Entry - Field Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3637563145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Business Central Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Business Central Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3637563145 - Control 2739642348 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Business Areas</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Business Central Version - Control buisinessarea - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3637563145 - Control 3650642145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Features</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Business Central Version - Control Features - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3637563145 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Code field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Business Central Version - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3637563145 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Business Central Version - Control Description - Property ToolTip</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

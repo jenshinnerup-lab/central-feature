@@ -22,6 +22,20 @@ table 91102 "Feature Entry"
             Caption = 'Business Central Version';
             TableRelation = "Business Central Version";
         }
+        field(5; Link; Text[250])
+        {
+            Caption = 'Link';
+        }
+        field(6; PublicPreview; Boolean)
+        {
+            Caption = 'Public Preview';
+            DataClassification = SystemMetadata;
+        }
+        field(7; GeneralAvailability; Date)
+        {
+            Caption = 'General Availability';
+            DataClassification = SystemMetadata;
+        }
 
     }
 

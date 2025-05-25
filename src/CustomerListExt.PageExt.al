@@ -11,9 +11,11 @@ pageextension 91100 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     var
+        Datamanagement: Codeunit "DataManagement";
         Resource: Text;
         InS: InStream;
         data: Text;
+        
     begin
         foreach Resource in NavApp.ListResources() do begin
             //Message('%1', NavApp.GetResourceAsText(Resource));
@@ -21,5 +23,6 @@ pageextension 91100 CustomerListExt extends "Customer List"
             InS.Read(data);
             message(data);
         end;
+        Datamanagement.InitializeDefaultData();
     end;
 }

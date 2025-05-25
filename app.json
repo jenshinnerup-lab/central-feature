@@ -14,7 +14,7 @@
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "25.0.0.0",
-  "idRanges": [
+    "idRanges": [
     {
       "from": 91100,
       "to": 91149
@@ -25,10 +25,12 @@
     "allowDebugging": true,
     "allowDownloadingSource": true,
     "includeSourceInSymbolFile": true
-  },
+      },
   "resourceFolders": ["features"],
   "runtime": "15.0",
   "features": [
-    "NoImplicitWith"
+    "NoImplicitWith",
+        "TranslationFile"
   ]
+
 }

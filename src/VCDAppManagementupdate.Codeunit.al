@@ -5,17 +5,9 @@ codeunit 91101 "App Management update"
     // Kør logik ved opdatering
     trigger OnUpgradePerCompany()
     var
-
+        DataManagement: Codeunit "DataManagement";
     begin
-        MigrateData();
+        DataManagement.InitializeDefaultData();
     end;
 
-    // Migrer data ved opdatering
-    procedure MigrateData()
-    begin
-        // Eksempel: Tilføj ny logik baseret på versionsændringer
-        //
-
-
-    end;
 }
