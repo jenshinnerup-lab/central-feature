@@ -98,6 +98,21 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Feature Entry - Field Description - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 1351352100 - Field 188490665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General Availability</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Feature Entry - Field GeneralAvailability - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1351352100 - Field 3817506388 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Link</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Feature Entry - Field Link - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1351352100 - Field 4054736309 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Public Preview</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Feature Entry - Field PublicPreview - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 1351352100 - Field 329424276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Title</source>
           <note from="Developer" annotates="general" priority="2"></note>
