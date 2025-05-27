@@ -15,9 +15,10 @@ page 91101 BusinessArea
             {
                 field(Description; Rec.Description)
                 {
+                    
                     ToolTip = 'Specifies the value of the Description field.', Comment = '%';
                 }
-                field("Feature Count"; Rec."Feature Count")
+                field("Feature Count"; Rec.FeatureCount)
                 {
                     ToolTip = 'Specifies the value of the Feature Count field.', Comment = '%';
                 }

@@ -58,10 +58,15 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Business Area - Field Description - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 87745811 - Field 3857960337 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Table 87745811 - Field 575044457 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of features in this business area for the specified Business Central version.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Business Area - Field FeatureCount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 87745811 - Field 575044457 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Feature Count</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Business Area - Field Feature Count - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Business Area - Field FeatureCount - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3637563145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Business Central Version</source>
@@ -77,6 +82,16 @@
           <source>Description</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Business Central Version - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3637563145 - Field 575044457 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of features in this Business Central version.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Business Central Version - Field FeatureCount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3637563145 - Field 575044457 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Feature Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Business Central Version - Field FeatureCount - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 1351352100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Feature Entry</source>
@@ -142,6 +157,11 @@
           <source>Specifies the value of the Description field.</source>
           <note from="Developer" annotates="general" priority="2">%</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Business Central Version - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3637563145 - Control 3857960337 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Feature Count field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Business Central Version - Control Feature Count - Property ToolTip</note>
         </trans-unit>
       </group>
     </body>

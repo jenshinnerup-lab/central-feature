@@ -24,12 +24,13 @@ codeunit 91102 DataManagement
         InStream: InStream;
         Readdata: Text;
     begin
-        foreach Resource in NavApp.ListResources() do
-            NavApp.GetResource(Resource, InStream);
-        InStream.Read(ReadData);
-        //Message('Reading JSON data from resource: %1', Resource);
-        //Message('JSON Data: %1', ReadData);
-        ReadJSON(ReadData);
+        foreach Resource in NavApp.ListResources() do begin
+            NavApp.GetResource(Resource, InStream, TextEncoding::UTF8);
+            InStream.Read(ReadData);
+            //Message('Reading JSON data from resource: %1', Resource);
+            //Message('JSON Data: %1', ReadData);
+            ReadJSON(ReadData);
+        end;
     end;
 
     local procedure ReadJSON(JsonObjectText: Text)
@@ -74,7 +75,7 @@ codeunit 91102 DataManagement
                     //Handle Area Entry
                     BusinessArea.Init();
                     ObjectJSONManagement.GetStringPropertyValueByName('Area', CodeText);
-                    if not BusinessArea.Get(CodeText,BusinessCentralVersion.Code) then begin
+                    if not BusinessArea.Get(CodeText, BusinessCentralVersion.Code) then begin
                         BusinessArea.Validate(Description, CopyStr(CodeText, 1, MaxStrLen(BusinessArea.Description)));
                         BusinessArea.Validate("Business Central Version", BusinessCentralVersion.Code);
                         BusinessArea.Insert();

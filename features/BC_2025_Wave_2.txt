@@ -1,8 +1,8 @@
 {
-  "BusinessCentralVersion": { 
-  "Version": "BC 25.2",
-  "VersionII": "Business Central Version 2024 Wave 2",
-  "Feature": [
+  "BusinessCentralVersion": {
+    "Version": "BC 25.2",
+    "VersionII": "Business Central Version 2024 Wave 2",
+    "Feature": [
       {
         "Area": "Applikationsfunktioner",
         "Title": "Automatisk anvendelse af skabeloner ved synkronisering af data med Dataverse",
@@ -685,7 +685,7 @@
       },
       {
         "Area": "Brugeroplevelser",
-        "Title": "Ændr størrelse på kolonner, selv når personalisering ikke er aktiveret",
+        "Title": "ændre størrelse på kolonner, selv når personalisering ikke er aktiveret",
         "description": "Denne funktion giver dig mulighed for at ændre størrelse på kolonner, selv når personalisering ikke er aktiveret. Dette giver en bedre visuel oplevelse og tilpasning af lister.",
         "link": "resize-columns-even-when-personalization-isnt-enabled",
         "publicPreview": null,
