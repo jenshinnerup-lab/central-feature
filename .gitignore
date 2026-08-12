@@ -1,6 +1,7 @@
 # Build
 *.app
 *.sym
+.txt
 .build/
 output/
 
