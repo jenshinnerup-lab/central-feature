@@ -1,4 +1,4 @@
-namespace VCD_featuresinfeature.VCD_featuresinfeature;
+namespace CentralFeature;
 
 page 91102 BusinessFeature
 {

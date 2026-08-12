@@ -1,0 +1,29 @@
+# Build
+*.app
+*.sym
+.build/
+output/
+
+# Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+
+# VS Code (keep only essential)
+.vscode/*.json
+!.vscode/settings.json
+!.vscode/launch.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.bak
