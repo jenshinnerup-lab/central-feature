@@ -174,12 +174,12 @@ def main():
     print("\n🌐 Scraping Microsoft Learn...")
     
     versions_to_scrape = [
-        ('2026_1', 'Business Central 2026 Wave 1', 'BC 26.1'),
-        ('2025_2', 'Business Central 2025 Wave 2', 'BC 25.2'),
-        ('2025_1', 'Business Central 2025 Wave 1', 'BC 25.1'),
+        ('2026_1', 'Business Central 2026 Wave 1', 'BC 26.1', 'April 2026'),
+        ('2025_2', 'Business Central 2025 Wave 2', 'BC 25.2', 'Oktober 2025'),
+        ('2025_1', 'Business Central 2025 Wave 1', 'BC 25.1', 'April 2025'),
     ]
     
-    for version_key, version_name, version_code in versions_to_scrape:
+    for version_key, version_name, version_code, release_date in versions_to_scrape:
         for lang in languages:
             print(f"\n  Scraping {version_name} ({lang.upper()})...")
             
@@ -188,7 +188,7 @@ def main():
             if features:
                 json_data = create_json_output(
                     features,
-                    f"{version_name} ({lang.upper()})",
+                    f"{version_name} ({lang.upper()}) - {release_date}",
                     f"{version_code} ({lang.upper()})",
                     lang
                 )
