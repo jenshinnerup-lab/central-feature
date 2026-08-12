@@ -80,10 +80,13 @@ python3 scripts/scrape_features.py en
 python3 scripts/scrape_features.py da
 ```
 
-Scriptet vil:
-1. Konvertere eksisterende `.txt` filer til `.json`
-2. Scrape Microsoft Learn for nye features
-3. Gemme resultaterne i `features/` mappen
+**Bemærk:** Microsoft Learn bruger JavaScript til at indlæse features dynamisk.
+Den nuværende scraper kan kun hente begrænset data. Til fuld scraping kræves:
+- Browser automation (Playwright/Selenium), ELLER
+- Manuel download af JSON fra Microsoft Learn
+
+**Eksisterende data:** De medfølgende JSON filer (BC_2023, BC_2024, BC_2025)
+indeholder allerede scraped data og er klar til brug.
 
 ### update_features.sh
 
