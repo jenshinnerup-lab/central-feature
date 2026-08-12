@@ -26,7 +26,7 @@ log "=========================================="
 cd "$REPO_DIR"
 
 log "Pulling latest changes..."
-git pull origin main 2>&1 | tee -a "$LOG_FILE" || log "Warning: Could not pull"
+git pull origin master 2>&1 | tee -a "$LOG_FILE" || log "Warning: Could not pull"
 
 log "Running scraper..."
 PYTHON_CMD="python3"
@@ -54,7 +54,7 @@ Automated update from Microsoft Learn
 Languages: English, Danish" 2>&1 | tee -a "$LOG_FILE" || log "Warning: Could not commit"
         
         log "Pushing changes..."
-        git push origin main 2>&1 | tee -a "$LOG_FILE" || log "Warning: Could not push"
+        git push origin master 2>&1 | tee -a "$LOG_FILE" || log "Warning: Could not push"
     fi
 else
     log "No new files"

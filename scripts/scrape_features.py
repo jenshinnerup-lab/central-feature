@@ -13,22 +13,19 @@ import requests
 from datetime import datetime
 from pathlib import Path
 
-# Microsoft Learn URLs - opdateres når Microsoft ændrer struktur
-# Brug browser til at finde aktuelle URLs da Microsoft ofte ændrer dem
+# Microsoft Learn URLs - opdateret 2026-08-12
+# Business Central specifik: /release-plan/{year}wave{N}/smb/dynamics365-business-central/planned-features
 BC_VERSION_URLS = {
-    # 2025 Wave 2 - Tjek aktuelle URLs
-    '2025_2_en': 'https://learn.microsoft.com/en-us/dynamics365/release-plans/dynamics365-business-central?bc-version=2025-wave-2',
-    '2025_2_da': 'https://learn.microsoft.com/da-dk/dynamics365/release-plans/dynamics365-business-central?bc-version=2025-wave-2',
-    # 2024 Wave 1
-    '2024_1_en': 'https://learn.microsoft.com/en-us/dynamics365/release-plans/dynamics365-business-central?bc-version=2024-wave-1',
-    '2024_1_da': 'https://learn.microsoft.com/da-dk/dynamics365/release-plans/dynamics365-business-central?bc-version=2024-wave-1',
-    # 2023 Wave 1  
-    '2023_1_en': 'https://learn.microsoft.com/en-us/dynamics365/release-plans/dynamics365-business-central?bc-version=2023-wave-1',
-    '2023_1_da': 'https://learn.microsoft.com/da-dk/dynamics365/release-plans/dynamics365-business-central?bc-version=2023-wave-1',
+    # 2026 Wave 1 (nyeste)
+    '2026_1_en': 'https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/planned-features',
+    '2026_1_da': 'https://learn.microsoft.com/da-dk/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/planned-features',
+    # 2025 Wave 2
+    '2025_2_en': 'https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/planned-features',
+    '2025_2_da': 'https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/planned-features',
+    # 2025 Wave 1
+    '2025_1_en': 'https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/planned-features',
+    '2025_1_da': 'https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/planned-features',
 }
-
-# Alternativ: Brug Microsofts API hvis tilgængeligt
-# https://learn.microsoft.com/api/catalog/dynamics365/business-central
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
@@ -52,74 +49,58 @@ def fetch_url(url, max_retries=3):
 
 def parse_feature_page(html, lang='en'):
     """
-    Parse HTML og udtræk features fra Microsoft Learn.
-    Leder efter feature-entries i HTML strukturen.
+    Parse HTML og udtræk features fra Microsoft Learn release plan.
+    Microsoft bruger typisk liste af links til features.
     """
     features = []
+    seen = set()
     
-    # Microsoft Learn bruger ofte article tags eller div med data-attributes
-    # Prøv at finde feature blocks
+    # Find feature links - Microsoft bruger format:
+    # /release-plan/.../planned-features/feature-name
+    pattern = r'href="([^"]*planned-features[^"]*)"[^>]*>([^<]+)</a>'
     
-    # Pattern for feature titler og beskrivelser
-    feature_pattern = r'<a[^>]*href="([^"]*release-plan[^"]*)"[^>]*>\s*<h[23][^>]*>([^<]+)</h[23]>'
-    
-    for match in re.finditer(feature_pattern, html, re.IGNORECASE | re.DOTALL):
+    for match in re.finditer(pattern, html, re.IGNORECASE):
         link = match.group(1)
         title = re.sub(r'\s+', ' ', match.group(2)).strip()
         
-        if title and len(title) > 10:
-            features.append({
-                'Title': title,
-                'Area': 'Applikationsfunktioner' if lang == 'da' else 'Application Features',
-                'description': '',
-                'link': link.rstrip('/').split('/')[-1] if link else '',
-                'publicPreview': None,
-                'generalAvailability': None
-            })
+        # Filtrer ugyldige titler
+        if not title or len(title) < 10 or len(title) > 200:
+            continue
+        
+        # Undgå dubletter
+        title_key = title.lower()
+        if title_key in seen:
+            continue
+        seen.add(title_key)
+        
+        # Udtræk feature slug fra URL
+        slug = link.rstrip('/').split('/')[-1] if link else ''
+        
+        features.append({
+            'Title': title,
+            'Area': 'Applikationsfunktioner' if lang == 'da' else 'Application Features',
+            'description': '',  # Beskrivelse kræver individuel side fetch
+            'link': slug,
+            'publicPreview': None,
+            'generalAvailability': None
+        })
     
-    # Alternativ: Find tabel-rækker
+    # Hvis vi ikke fandt noget med planned-features, prøv generisk pattern
     if not features:
-        row_pattern = r'<tr[^>]*>.*?</tr>'
-        for row_match in re.finditer(row_pattern, html, re.DOTALL):
-            row = row_match.group(0)
-            cell_pattern = r'<td[^>]*>(.*?)</td>'
-            cells = re.findall(cell_pattern, row, re.DOTALL)
+        pattern = r'href="([^"]*feature[^"]*)"[^>]*>\\s*([^<]{10,200})</a>'
+        for match in re.finditer(pattern, html, re.IGNORECASE):
+            link = match.group(1)
+            title = re.sub(r'\s+', ' ', match.group(2)).strip()
             
-            if len(cells) >= 2:
-                title = re.sub(r'<[^>]+>', '', cells[0]).strip()
-                area = re.sub(r'<[^>]+>', '', cells[1]).strip() if len(cells) > 1 else ''
-                
-                if title and len(title) > 10:
-                    features.append({
-                        'Title': title,
-                        'Area': area if area else ('Applikationsfunktioner' if lang == 'da' else 'Application Features'),
-                        'description': '',
-                        'link': '',
-                        'publicPreview': None,
-                        'generalAvailability': None
-                    })
-    
-    return features
-
-def scrape_bc_version(version_key, lang='en'):
-    """Scrape features for en specifik BC version."""
-    url_key = f"{version_key}_{lang}"
-    url = BC_VERSION_URLS.get(url_key)
-    
-    if not url:
-        print(f"Unknown version key: {url_key}")
-        return []
-    
-    print(f"  Fetching: {url}")
-    html = fetch_url(url)
-    
-    if not html:
-        print(f"  ⚠ Could not fetch URL - Microsoft may have changed structure")
-        print(f"     Manual URL update required in scrape_features.py")
-        return []
-    
-    features = parse_feature_page(html, lang)
-    print(f"  Found {len(features)} features")
+            if title and len(title) > 10 and 'microsoft' not in title.lower():
+                features.append({
+                    'Title': title,
+                    'Area': 'Applikationsfunktioner' if lang == 'da' else 'Application Features',
+                    'description': '',
+                    'link': link.rstrip('/').split('/')[-1] if link else '',
+                    'publicPreview': None,
+                    'generalAvailability': None
+                })
     
     return features
 
@@ -193,9 +174,9 @@ def main():
     print("\n🌐 Scraping Microsoft Learn...")
     
     versions_to_scrape = [
+        ('2026_1', 'Business Central 2026 Wave 1', 'BC 26.1'),
         ('2025_2', 'Business Central 2025 Wave 2', 'BC 25.2'),
-        ('2024_1', 'Business Central 2024 Wave 1', 'BC 24.1'),
-        ('2023_1', 'Business Central 2023 Wave 1', 'BC 23.1'),
+        ('2025_1', 'Business Central 2025 Wave 1', 'BC 25.1'),
     ]
     
     for version_key, version_name, version_code in versions_to_scrape:
@@ -216,7 +197,7 @@ def main():
                 filepath = output_dir / filename
                 save_json(json_data, filepath)
             else:
-                print(f"  ⚠ No features found")
+                print(f"  ⚠ No features found - URL may need update")
     
     print(f"\n{'='*60}")
     print(f"✓ Completed at {datetime.now().strftime('%H:%M')}")
@@ -225,6 +206,28 @@ def main():
     print("their URL structure. Update BC_VERSION_URLS in scrape_features.py")
     print("or manually download JSON from Microsoft Learn.")
     print("\nExisting JSON files in features/ are still valid and will be used.")
+
+def scrape_bc_version(version_key, lang='en'):
+    """Scrape features for en specifik BC version."""
+    url_key = f"{version_key}_{lang}"
+    url = BC_VERSION_URLS.get(url_key)
+    
+    if not url:
+        print(f"Unknown version key: {url_key}")
+        return []
+    
+    print(f"  Fetching: {url}")
+    html = fetch_url(url)
+    
+    if not html:
+        print(f"  ⚠ Could not fetch URL - Microsoft may have changed structure")
+        print(f"     Manual URL update required in scrape_features.py")
+        return []
+    
+    features = parse_feature_page(html, lang)
+    print(f"  Found {len(features)} features")
+    
+    return features
 
 if __name__ == '__main__':
     try:
