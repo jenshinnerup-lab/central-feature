@@ -13,15 +13,22 @@ import requests
 from datetime import datetime
 from pathlib import Path
 
-# Microsoft Learn URLs for BC release plans
+# Microsoft Learn URLs - opdateres når Microsoft ændrer struktur
+# Brug browser til at finde aktuelle URLs da Microsoft ofte ændrer dem
 BC_VERSION_URLS = {
-    '2025_2_en': 'https://learn.microsoft.com/en-us/dynamics365/release-plans/dynamics365-business-central/2025-wave-2',
-    '2025_2_da': 'https://learn.microsoft.com/da-dk/dynamics365/release-plans/dynamics365-business-central/2025-wave-2',
-    '2024_1_en': 'https://learn.microsoft.com/en-us/dynamics365/release-plans/dynamics365-business-central/2024-wave-1',
-    '2024_1_da': 'https://learn.microsoft.com/da-dk/dynamics365/release-plans/dynamics365-business-central/2024-wave-1',
-    '2023_1_en': 'https://learn.microsoft.com/en-us/dynamics365/release-plans/dynamics365-business-central/2023-wave-1',
-    '2023_1_da': 'https://learn.microsoft.com/da-dk/dynamics365/release-plans/dynamics365-business-central/2023-wave-1',
+    # 2025 Wave 2 - Tjek aktuelle URLs
+    '2025_2_en': 'https://learn.microsoft.com/en-us/dynamics365/release-plans/dynamics365-business-central?bc-version=2025-wave-2',
+    '2025_2_da': 'https://learn.microsoft.com/da-dk/dynamics365/release-plans/dynamics365-business-central?bc-version=2025-wave-2',
+    # 2024 Wave 1
+    '2024_1_en': 'https://learn.microsoft.com/en-us/dynamics365/release-plans/dynamics365-business-central?bc-version=2024-wave-1',
+    '2024_1_da': 'https://learn.microsoft.com/da-dk/dynamics365/release-plans/dynamics365-business-central?bc-version=2024-wave-1',
+    # 2023 Wave 1  
+    '2023_1_en': 'https://learn.microsoft.com/en-us/dynamics365/release-plans/dynamics365-business-central?bc-version=2023-wave-1',
+    '2023_1_da': 'https://learn.microsoft.com/da-dk/dynamics365/release-plans/dynamics365-business-central?bc-version=2023-wave-1',
 }
+
+# Alternativ: Brug Microsofts API hvis tilgængeligt
+# https://learn.microsoft.com/api/catalog/dynamics365/business-central
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
@@ -107,6 +114,8 @@ def scrape_bc_version(version_key, lang='en'):
     html = fetch_url(url)
     
     if not html:
+        print(f"  ⚠ Could not fetch URL - Microsoft may have changed structure")
+        print(f"     Manual URL update required in scrape_features.py")
         return []
     
     features = parse_feature_page(html, lang)
@@ -212,6 +221,10 @@ def main():
     print(f"\n{'='*60}")
     print(f"✓ Completed at {datetime.now().strftime('%H:%M')}")
     print('='*60)
+    print("\n📝 NOTE: If scraping found no features, Microsoft may have changed")
+    print("their URL structure. Update BC_VERSION_URLS in scrape_features.py")
+    print("or manually download JSON from Microsoft Learn.")
+    print("\nExisting JSON files in features/ are still valid and will be used.")
 
 if __name__ == '__main__':
     try:
