@@ -1,0 +1,16 @@
+{
+  "BusinessCentralVersion": {
+    "Version": "BC 25.1 (DA)",
+    "VersionII": "Business Central 2025 Wave 1 (DA) - April 2025",
+    "Feature": [
+      {
+        "Title": "udgivelsesbÃ¸lge 2-planen for 2025",
+        "Area": "Applikationsfunktioner",
+        "description": "",
+        "link": "planned-features",
+        "publicPreview": null,
+        "generalAvailability": null
+      }
+    ]
+  }
+}
