@@ -6,7 +6,7 @@
       {
         "Area": "Application features",
         "Title": "Get started with more sample Power Automate templates and Power Apps",
-        "description": "",
+        "description": "Access multiple Power Automate templates and Power Apps to automate your business processes. This makes it easier to integrate and extend the functionality of Business Central, so you can save time and streamline tasks.",
         "link": "get-started-more-sample-power-automate-templates-power-apps",
         "publicPreview": "May 15, 2023",
         "generalAvailability": null
@@ -14,7 +14,7 @@
       {
         "Area": "Application features",
         "Title": "Use business events to notify and trigger external systems",
-        "description": "",
+        "description": "This feature allows you to use business events in Business Central to trigger notifications and actions in external systems. It improves the integration and automation of your workflows across platforms.",
         "link": "use-business-events-notify-trigger-external-systems",
         "publicPreview": "Jun 1, 2023",
         "generalAvailability": null
@@ -22,7 +22,7 @@
       {
         "Area": "Application features",
         "Title": "Select a Dataverse environment used for actions based on Power Automate flows",
-        "description": "",
+        "description": "You can now select a specific Dataverse environment to use for actions based on your Power Automate flows. This gives you greater flexibility and control over the data flow between Business Central and Dataverse.",
         "link": "select-dataverse-environment-used-actions-based-power-automate-flows",
         "publicPreview": "Mar 2, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -30,7 +30,7 @@
       {
         "Area": "Application features",
         "Title": "Use Power Automate to post adaptive card or link to Business Central record",
-        "description": "",
+        "description": "This feature allows you to use Power Automate to send adaptive cards or direct links to Business Central records. It improves communication and provides quick access to relevant information from external systems.",
         "link": "use-power-automate-post-adaptive-card-or-link-business-central-record",
         "publicPreview": "Mar 15, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -38,7 +38,7 @@
       {
         "Area": "Application features",
         "Title": "New approval workflow experience with Power Automate templates",
-        "description": "",
+        "description": "Get an improved approval workflow using new Power Automate templates. This streamlines approval processes and makes it easier to adapt them to specific business needs.",
         "link": "new-approval-workflow-experience-templates-power-automate",
         "publicPreview": "Apr 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -46,7 +46,7 @@
       {
         "Area": "Application features",
         "Title": "Turn off event-based sync for specific integration table mappings",
-        "description": "",
+        "description": "You can now disable event-based synchronization for selected integration table mappings. This gives you more granular control over data synchronization, which can optimize performance and data handling.",
         "link": "turn-off-event-based-synch-specific-integration-table-mappings",
         "publicPreview": "Apr 4, 2023",
         "generalAvailability": "May 1, 2023"
@@ -54,7 +54,7 @@
       {
         "Area": "Application features",
         "Title": "Connect to Dataverse despite different currencies",
-        "description": "",
+        "description": "This feature enables connection to Dataverse even when there are different currencies in Business Central and Dataverse. It removes a previous barrier to integration and supports international business scenarios.",
         "link": "connect-dataverse-when-business-central-local-currency-if-different-dataverse-base-transaction-currency",
         "publicPreview": null,
         "generalAvailability": "Jun 2, 2023"
@@ -62,7 +62,7 @@
       {
         "Area": "Application features",
         "Title": "Use realized gain or loss entries to reverse ledger entries",
-        "description": "",
+        "description": "You can now use realized gain or loss entries to reverse general ledger entries. This provides increased flexibility in bookkeeping and helps to correct errors more efficiently.",
         "link": "reverse-customer-vendor-ledger-entry-realized-gain-or-loss-entry",
         "publicPreview": "Sep 1, 2023",
         "generalAvailability": null
@@ -70,7 +70,7 @@
       {
         "Area": "Application features",
         "Title": "Add more columns to pages for better insight",
-        "description": "",
+        "description": "Customize your pages by adding more columns, giving you a better overview and insight into your data. This improves your ability to analyze and make informed decisions right in the system.",
         "link": "add-more-columns-through-personalization-gain-more-insight-more-pages",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -78,7 +78,7 @@
       {
         "Area": "Application features",
         "Title": "Avoid document number errors when you post item journals",
-        "description": "",
+        "description": "This function helps to avoid errors in document numbers when you post material journals. This ensures greater data accuracy and reduces the need for manual correction, saving time and resources.",
         "link": "avoid-document-number-errors-when-post-item-journals",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -86,7 +86,7 @@
       {
         "Area": "Application features",
         "Title": "Bin Code and Zone Code fields are dynamically shown on warehouse documents",
-        "description": "",
+        "description": "The Location Code and Zone Code fields are now dynamically displayed on warehouse documents, improving visibility and efficiency in inventory management. This gives you faster access to important information.",
         "link": "bin-code-zone-code-fields-are-dynamically-shown-warehouse-documents",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -94,7 +94,7 @@
       {
         "Area": "Application features",
         "Title": "Catalog items use standard number series, can include in blanket sales orders",
-        "description": "",
+        "description": "Catalog items using standard number ranges can now be included in frame sales orders. This simplifies the process of handling large orders and ensures consistency in your merchandise management.",
         "link": "catalog-items-use-standard-number-series-be-included-blanket-sales-orders",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -102,7 +102,7 @@
       {
         "Area": "Application features",
         "Title": "Define an invoice posting policy for various users",
-        "description": "",
+        "description": "You can now define specific invoice posting policies for different users. This provides greater control and flexibility in the accounting process, ensuring compliance with internal guidelines.",
         "link": "define-invoice-posting-policy-various-users",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -110,7 +110,7 @@
       {
         "Area": "Application features",
         "Title": "Define content of created warehouse documents with filters",
-        "description": "",
+        "description": "Precisely define the content of created warehouse documents using filters. This improves the accuracy and relevance of your inventory documents, contributing to more efficient inventory management.",
         "link": "define-content-created-warehouse-documents-filters",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -118,7 +118,7 @@
       {
         "Area": "Application features",
         "Title": "Demo tool and data for warehouse and inventory scenarios",
-        "description": "",
+        "description": "Access a demo tool and data specifically designed for warehouse and storage scenarios. This makes it easier to test and understand the system's functions before implementation.",
         "link": "demo-tool-data-warehouse-inventory-scenarios",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -126,7 +126,7 @@
       {
         "Area": "Application features",
         "Title": "Easier to create opening balances for item tracked inventory",
-        "description": "",
+        "description": "The process of creating opening balances for tracked inventory has been simplified. This reduces the time and effort required to initiate inventory management for new or existing items.",
         "link": "easier-create-opening-balances-item-tracked-inventory",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -134,7 +134,7 @@
       {
         "Area": "Application features",
         "Title": "Easier to set up price synchronization for Shopify",
-        "description": "",
+        "description": "Setting up price sync with Shopify is now easier. This streamlines the integration between your Business Central solution and your Shopify web store, ensuring accurate pricing across platforms.",
         "link": "easier-setup-price-synchronization-shopify",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -142,7 +142,7 @@
       {
         "Area": "Application features",
         "Title": "Intercompany posting provides a one-stop-shop setup experience",
-        "description": "",
+        "description": "Internal accounting now offers a unified setup experience that simplifies the configuration of transactions between different companies. This reduces complexity and improves efficiency.",
         "link": "intercompany-posting-setup-supports-more-transaction-types-streamlines-flows",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -150,7 +150,7 @@
       {
         "Area": "Application features",
         "Title": "Navigate easier between warehouse and inventory documents",
-        "description": "",
+        "description": "Navigating between warehouse and warehouse documents is now easier, improving usability and day-to-day efficiency. This provides faster access to related information.",
         "link": "navigate-easier-between-warehouse-inventory-documents",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -158,7 +158,7 @@
       {
         "Area": "Application features",
         "Title": "Post multiple transfer orders at the same time",
-        "description": "",
+        "description": "You can now post multiple transfer orders simultaneously, streamlining the process and saving time. This is particularly useful for companies with large volumes of internal goods movements.",
         "link": "post-multiple-transfer-orders-at-same-time",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -166,7 +166,7 @@
       {
         "Area": "Application features",
         "Title": "Preview item journals and 20 other journals and documents before posting",
-        "description": "",
+        "description": "Get a preview of goods journals and many other journals and documents before you post them. This helps catch errors and ensure accuracy before data is sent to finance.",
         "link": "preview-item-journals-before-posting",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -174,7 +174,7 @@
       {
         "Area": "Application features",
         "Title": "Review general ledger accounts faster",
-        "description": "",
+        "description": "The review of financial accounts has been optimized so that you can work faster and more efficiently. This improves your ability to analyze financial data and keep an overview of the accounts.",
         "link": "review-general-ledger-accounts-faster",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -182,7 +182,7 @@
       {
         "Area": "Application features",
         "Title": "Set default dimensions on locations, inventory documents, and journals",
-        "description": "",
+        "description": "You can now set default dimensions on locations, warehouse documents, and drafts. This simplifies data entry and ensures consistency in your sizing, improving reporting and analysis.",
         "link": "set-default-dimensions-locations-inventory-documents-journals",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -190,7 +190,7 @@
       {
         "Area": "Application features",
         "Title": "Set up and sync master data across companies",
-        "description": "",
+        "description": "It is now possible to set up and synchronize master data across several companies. This ensures uniformity in master data and simplifies the management of information in group structures.",
         "link": "set-up-sync-master-data-across-companies",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -198,7 +198,7 @@
       {
         "Area": "Application features",
         "Title": "Ship and receive non-inventory items on warehouse documents",
-        "description": "",
+        "description": "You can now send and receive non-stock items directly on warehouse documents. This extends the functionality of stock management and allows you to handle several types of goods in the same workflow.",
         "link": "ship-receive-non-inventory-items-warehouse-documents",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -206,7 +206,7 @@
       {
         "Area": "Application features",
         "Title": "Shopify connector becomes extensible",
-        "description": "",
+        "description": "The Shopify connector is now extensible, allowing you to customize and add functionality to suit your specific needs. This provides greater flexibility in the integration with your Shopify webshop.",
         "link": "shopify-connector-becomes-extensible",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -214,7 +214,7 @@
       {
         "Area": "Application features",
         "Title": "Undo transfer shipments",
-        "description": "",
+        "description": "You can now undo transfer deliveries, allowing you to correct errors or change plans more flexibly. This contributes to a more robust and fail-safe warehouse management.",
         "link": "undo-transfer-shipments",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -222,7 +222,7 @@
       {
         "Area": "Application features",
         "Title": "Usability improvements to Financial Reporting pages",
-        "description": "",
+        "description": "The usability of Financial Reporting pages has been improved, making it easier to navigate and generate financial reports. This contributes to a more intuitive and efficient reporting experience.",
         "link": "usability-improvements-financial-reporting-pages",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -230,7 +230,7 @@
       {
         "Area": "Application features",
         "Title": "Usability improves for item tracking codes visibility, creation of new entries",
-        "description": "",
+        "description": "Improvements in the usability of item tracking codes make it easier to view, create and manage new records. This streamlines the item tracking process and ensures accuracy.",
         "link": "usability-improves-item-tracking-codes-visibility-creation-new-entries",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -238,7 +238,7 @@
       {
         "Area": "Application features",
         "Title": "Usability improves for transfer order select multiple items, mandatory fields",
-        "description": "",
+        "description": "Ease of use for transfer orders has been improved, including the ability to select multiple items and handle mandatory fields. This simplifies the process of creating and processing transfer orders.",
         "link": "usability-improves-transfer-order-select-multiple-items-mandatory-fields",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -246,7 +246,7 @@
       {
         "Area": "Application features",
         "Title": "Usability improves for warehouse, inventory, and tracking areas",
-        "description": "",
+        "description": "Ease of use improvements for warehouse, storage and tracking areas make it easier to navigate and work with these features. This contributes to more efficient and intuitive inventory management.",
         "link": "usability-improves-warehouse-inventory-tracking-areas",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -254,7 +254,7 @@
       {
         "Area": "Application features",
         "Title": "Use advanced warehouse functionality with minimal complexity",
-        "description": "",
+        "description": "This feature allows you to use advanced repository functionality without increasing complexity. It simplifies advanced inventory management and makes it accessible to a wider range of users.",
         "link": "use-advanced-warehouse-functionality-minimal-complexity",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -262,7 +262,7 @@
       {
         "Area": "Application features",
         "Title": "Use enhanced mail merge with Word templates",
-        "description": "",
+        "description": "Use improved mail merge with Word templates to generate documents more efficiently. This streamlines the creation of personalized documents and reduces manual work.",
         "link": "use-enhanced-mail-merge-word-templates",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -270,7 +270,7 @@
       {
         "Area": "Application features",
         "Title": "Use statistical accounts to collect data for financial reports",
-        "description": "",
+        "description": "This feature allows you to use statistical accounts to collect specific data for financial reports. This provides more detailed insight and flexibility in your reporting.",
         "link": "use-statistical-accounts-collect-data-financial-reports",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -278,7 +278,7 @@
       {
         "Area": "Application features",
         "Title": "Usability improves for Shopify Connector",
-        "description": "",
+        "description": "The usability of the Shopify connector has been improved, making the integration and management of your Shopify webshop more intuitive. This ensures smoother operation and fewer errors.",
         "link": "usability-improves-shopify-connector",
         "publicPreview": "Mar 15, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -286,7 +286,7 @@
       {
         "Area": "Application features",
         "Title": "Use attachments from document lines while sending emails",
-        "description": "",
+        "description": "You can now include attachments directly from document lines when sending emails. This simplifies communication and ensures that all relevant documents are attached without manual work.",
         "link": "use-attachments-document-lines-while-sending-emails",
         "publicPreview": null,
         "generalAvailability": "Jun 2, 2023"
@@ -294,7 +294,7 @@
       {
         "Area": "Application features",
         "Title": "Synchronize returns and refunds from Shopify",
-        "description": "",
+        "description": "Synchronization of returns and refunds from Shopify is now possible, providing a more complete and accurate view of transactions. This improves your accounting and customer service.",
         "link": "synchronize-returns-refunds-shopify",
         "publicPreview": null,
         "generalAvailability": "Jun 12, 2023"
@@ -302,7 +302,7 @@
       {
         "Area": "Application features",
         "Title": "Create and resume interactions using guided experience",
-        "description": "",
+        "description": "This feature allows you to create and resume interactions using a guided experience. This streamlines the process and makes it easier to handle customer contact and business interactions.",
         "link": "create-resume-interactions-using-guided-experience",
         "publicPreview": null,
         "generalAvailability": "Jul 14, 2023"
@@ -310,7 +310,7 @@
       {
         "Area": "Application features",
         "Title": "Copy links when posting general journals",
-        "description": "",
+        "description": "You can now copy links when posting general drafts, simplifying referencing and tracking information. This improves data handling and traceability in your financial processes.",
         "link": "copy-links-when-posting-general-journals",
         "publicPreview": null,
         "generalAvailability": "Sep 11, 2023"
@@ -318,7 +318,7 @@
       {
         "Area": "Application features",
         "Title": "Get more info about customer ledger entries when posting",
-        "description": "",
+        "description": "Access more detailed information about customer postings directly during the posting process. This gives you better insight and control over debtor relationships and financial transactions.",
         "link": "get-reference-information-customer-ledger-entry-through-posting",
         "publicPreview": null,
         "generalAvailability": "Sep 11, 2023"
@@ -326,7 +326,7 @@
       {
         "Area": "Application features",
         "Title": "Drive sales with AI-generated product descriptions",
-        "description": "",
+        "description": "This feature makes it possible to increase sales by using AI to generate product descriptions. It saves time and ensures engaging and optimized descriptions that appeal to customers.",
         "link": "drive-sales-ai-generated-product-descriptions",
         "publicPreview": "Apr 3, 2023",
         "generalAvailability": null
@@ -334,7 +334,7 @@
       {
         "Area": "Application features",
         "Title": "Bulk release of CZ documents - Czechia",
-        "description": "",
+        "description": "This feature enables the mass release of CZ documents for the Czech Republic. It streamlines document handling and ensures compliance with local regulations for Czech companies.",
         "link": "bulk-release-cz-documents--czechia",
         "publicPreview": null,
         "generalAvailability": "Apr 1, 2023"
@@ -342,7 +342,7 @@
       {
         "Area": "Application features",
         "Title": "Find posted and non-posted CZ document lines in search - Czechia",
-        "description": "",
+        "description": "You can now find both posted and non-posted CZ document lines via search in the Czech Republic. This improves traceability and provides quick access to relevant information, which is important for financial reporting.",
         "link": "find-posted-non-posted-cz-document-lines-search--czechia",
         "publicPreview": null,
         "generalAvailability": "Apr 1, 2023"
@@ -350,7 +350,7 @@
       {
         "Area": "Application features",
         "Title": "Modern Action Bar in CZ localization apps - Czechia",
-        "description": "",
+        "description": "A modern action bar is introduced in CZ location apps for Czech Republic. This improves usability and the overall visual experience for users in the Czech Republic.",
         "link": "modern-action-bar-cz-localization-apps--czechia",
         "publicPreview": null,
         "generalAvailability": "Apr 1, 2023"
@@ -358,7 +358,7 @@
       {
         "Area": "Application features",
         "Title": "New blanket purchase order report in CZ design - Czechia",
-        "description": "",
+        "description": "A new frame purchase order report in CZ design is available for the Czech Republic. This provides improved reporting and overview of framework purchase orders, adapted to Czech standards.",
         "link": "new-blanket-purchase-order-report-cz-design--czechia",
         "publicPreview": null,
         "generalAvailability": "Apr 1, 2023"
@@ -366,7 +366,7 @@
       {
         "Area": "Application features",
         "Title": "Replace VAT Date CZ with VAT Reporting Date - Czechia",
-        "description": "",
+        "description": "The VAT date in the Czech Republic has been replaced with a VAT reporting date, ensuring correct and up-to-date VAT reporting. This contributes to compliance with local tax regulations.",
         "link": "replace-vat-date-cz-vat-reporting-date--czechia",
         "publicPreview": null,
         "generalAvailability": "Apr 1, 2023"
@@ -374,7 +374,7 @@
       {
         "Area": "Application features",
         "Title": "Save time with automatic account codes",
-        "description": "",
+        "description": "Save time by using automatic account codes. This feature streamlines the bookkeeping process and reduces manual entry, improving the efficiency of your accounting.",
         "link": "automatic-account-codes",
         "publicPreview": "Apr 1, 2023",
         "generalAvailability": "May 1, 2023"
@@ -382,7 +382,7 @@
       {
         "Area": "Application features",
         "Title": "Swedish localization delivered as extension",
-        "description": "",
+        "description": "The Swedish localization is now delivered as an extension, which provides greater flexibility and easier implementation. This supports Swedish companies with specific legislative requirements.",
         "link": "swedish-localization-app--delocalization",
         "publicPreview": "Apr 1, 2023",
         "generalAvailability": "May 1, 2023"
@@ -390,7 +390,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Andorra",
-        "description": "",
+        "description": "Business Central is now available in Andorra, expanding its global reach. This gives companies in Andorra access to a complete ERP solution.",
         "link": "countryregional-expansion--andorra",
         "publicPreview": "May 1, 2023",
         "generalAvailability": "Jun 1, 2023"
@@ -398,7 +398,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Guernsey",
-        "description": "",
+        "description": "Business Central is now available in Guernsey, extending its global reach. This gives businesses in Guernsey access to a complete ERP solution.",
         "link": "countryregional-expansion--guernsey",
         "publicPreview": "May 1, 2023",
         "generalAvailability": "Jun 1, 2023"
@@ -406,7 +406,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Isle of Man",
-        "description": "",
+        "description": "Business Central is now available in the Isle of Man, extending its global reach. This gives businesses on the Isle of Man access to a complete ERP solution.",
         "link": "countryregional-expansion--isle-man",
         "publicPreview": "May 1, 2023",
         "generalAvailability": "Jun 1, 2023"
@@ -414,7 +414,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Jersey",
-        "description": "",
+        "description": "Business Central is now available in Jersey, extending its global reach. This gives businesses in Jersey access to a complete ERP solution.",
         "link": "countryregional-expansion--jersey",
         "publicPreview": "May 1, 2023",
         "generalAvailability": "Jun 1, 2023"
@@ -422,7 +422,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Liechtenstein",
-        "description": "",
+        "description": "Business Central is now available in Liechtenstein, expanding its global reach. This gives companies in Liechtenstein access to a complete ERP solution.",
         "link": "countryregional-expansion--liechtenstein",
         "publicPreview": "May 1, 2023",
         "generalAvailability": "Jun 1, 2023"
@@ -430,7 +430,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - San Marino",
-        "description": "",
+        "description": "Business Central is now available in San Marino, expanding its global reach. This gives companies in San Marino access to a complete ERP solution.",
         "link": "countryregional-expansion--san-marino",
         "publicPreview": "May 1, 2023",
         "generalAvailability": "Jun 1, 2023"
@@ -438,7 +438,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Armenia",
-        "description": "",
+        "description": "Business Central is now available in Armenia, expanding its global reach. This gives companies in Armenia access to a complete ERP solution.",
         "link": "countryregional-expansion--armenia",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -446,7 +446,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Azerbaijan",
-        "description": "",
+        "description": "Business Central is now available in Azerbaijan, expanding its global reach. This gives companies in Azerbaijan access to a complete ERP solution.",
         "link": "countryregional-expansion--azerbaijan",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -454,7 +454,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Bahamas",
-        "description": "",
+        "description": "Business Central is now available in the Bahamas, expanding its global reach. This gives businesses in the Bahamas access to a complete ERP solution.",
         "link": "countryregional-expansion--bahamas",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -462,7 +462,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Bermuda",
-        "description": "",
+        "description": "Business Central is now available in Bermuda, expanding its global reach. This gives businesses in Bermuda access to a complete ERP solution.",
         "link": "countryregional-expansion--bermuda",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -470,7 +470,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Bolivia",
-        "description": "",
+        "description": "Business Central is now available in Bolivia, expanding its global reach. This gives companies in Bolivia access to a complete ERP solution.",
         "link": "countryregional-expansion--bolivia",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -478,7 +478,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - British Virgin Islands",
-        "description": "",
+        "description": "Business Central is now available in the British Virgin Islands, expanding its global reach. This gives businesses in the British Virgin Islands access to a complete ERP solution.",
         "link": "countryregional-expansion--british-virgin-islands",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -486,7 +486,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Cambodia",
-        "description": "",
+        "description": "Business Central is now available in Cambodia, expanding its global reach. This gives companies in Cambodia access to a complete ERP solution.",
         "link": "countryregional-expansion--cambodia",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -494,7 +494,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Cameroon",
-        "description": "",
+        "description": "Business Central is now available in Cameroon, expanding its global reach. This gives businesses in Cameroon access to a complete ERP solution.",
         "link": "countryregional-expansion--cameroon",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -502,7 +502,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Cayman Islands",
-        "description": "",
+        "description": "Business Central is now available in the Cayman Islands, expanding its global reach. This gives companies in the Cayman Islands access to a complete ERP solution.",
         "link": "countryregional-expansion--cayman-islands",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -510,7 +510,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Ethiopia",
-        "description": "",
+        "description": "Business Central is now available in Ethiopia, expanding its global reach. This gives companies in Ethiopia access to a complete ERP solution.",
         "link": "countryregional-expansion--ethiopia",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -518,7 +518,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Fiji",
-        "description": "",
+        "description": "Business Central is now available in Fiji, expanding its global reach. This gives businesses in Fiji access to a complete ERP solution.",
         "link": "countryregional-expansion--fiji",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -526,7 +526,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Ghana",
-        "description": "",
+        "description": "Business Central is now available in Ghana, expanding its global reach. This gives companies in Ghana access to a complete ERP solution.",
         "link": "countryregional-expansion--ghana",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -534,7 +534,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Kazakhstan",
-        "description": "",
+        "description": "Business Central is now available in Kazakhstan, expanding its global reach. This gives companies in Kazakhstan access to a complete ERP solution.",
         "link": "countryregional-expansion--kazakhstan",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -542,7 +542,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Kosovo",
-        "description": "",
+        "description": "Business Central is now available in Kosovo, expanding its global reach. This gives companies in Kosovo access to a complete ERP solution.",
         "link": "countryregional-expansion--kosovo",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -550,7 +550,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Macau (SAR China)",
-        "description": "",
+        "description": "Business Central is now available in SAR Macau, expanding its global reach. This gives businesses in SAR Macau access to a complete ERP solution.",
         "link": "countryregional-expansion--macau-sar-china",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -558,7 +558,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Madagascar",
-        "description": "",
+        "description": "Business Central is now available in Madagascar, expanding its global reach. This gives companies in Madagascar access to a complete ERP solution.",
         "link": "countryregional-expansion--madagascar",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -566,7 +566,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Malawi",
-        "description": "",
+        "description": "Business Central is now available in Malawi, expanding its global reach. This gives businesses in Malawi access to a complete ERP solution.",
         "link": "countryregional-expansion--malawi",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -574,7 +574,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Mozambique",
-        "description": "",
+        "description": "Business Central is now available in Mozambique, expanding its global reach. This gives companies in Mozambique access to a complete ERP solution.",
         "link": "countryregional-expansion--mozambique",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -582,7 +582,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Namibia",
-        "description": "",
+        "description": "Business Central is now available in Namibia, expanding its global reach. This gives companies in Namibia access to a complete ERP solution.",
         "link": "countryregional-expansion--namibia",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -590,7 +590,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Nepal",
-        "description": "",
+        "description": "Business Central is now available in Nepal, expanding its global reach. This gives companies in Nepal access to a complete ERP solution.",
         "link": "countryregional-expansion--nepal",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -598,7 +598,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Sao Tome & Principe",
-        "description": "",
+        "description": "Business Central is now available in Sao Tome & Principe, expanding its global reach. This gives companies in Sao Tome & Principe access to a complete ERP solution.",
         "link": "countryregional-expansion--sao-tome-principe",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -606,7 +606,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Senegal",
-        "description": "",
+        "description": "Business Central is now available in Senegal, expanding its global reach. This gives companies in Senegal access to a complete ERP solution.",
         "link": "countryregional-expansion--senegal",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -614,7 +614,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Tanzania",
-        "description": "",
+        "description": "Business Central is now available in Tanzania, expanding its global reach. This gives companies in Tanzania access to a complete ERP solution.",
         "link": "countryregional-expansion--tanzania",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -622,7 +622,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Uganda",
-        "description": "",
+        "description": "Business Central is now available in Uganda, expanding its global reach. This gives companies in Uganda access to a complete ERP solution.",
         "link": "countryregional-expansion--uganda",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -630,7 +630,7 @@
       {
         "Area": "Application features",
         "Title": "Country/regional expansion - Zambia",
-        "description": "",
+        "description": "Business Central is now available in Zambia, expanding its global reach. This gives companies in Zambia access to a complete ERP solution.",
         "link": "countryregional-expansion--zambia",
         "publicPreview": null,
         "generalAvailability": "Jul 1, 2023"
@@ -638,7 +638,7 @@
       {
         "Area": "Application features",
         "Title": "Supporting more countries and regions",
-        "description": "",
+        "description": "This update includes support for more countries/regions, making Business Central available to an even wider global audience. It helps companies to operate in new markets.",
         "link": "supporting-more-countriesregions",
         "publicPreview": "May 1, 2023",
         "generalAvailability": "Jul 1, 2023"
@@ -646,7 +646,7 @@
       {
         "Area": "Application features",
         "Title": "AL Explorer and AL Home in Visual Studio Code AL extension",
-        "description": "",
+        "description": "AL Explorer and AL Home are now integrated into the Visual Studio Code AL extension, providing developers with a more comprehensive and user-friendly environment for AL development. This significantly improves productivity.",
         "link": "al-explorer-al-home-visual-studio-code-al-extension",
         "publicPreview": "Feb 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -654,7 +654,7 @@
       {
         "Area": "Application features",
         "Title": "Better InStream support",
-        "description": "",
+        "description": "There is now better InStream support, improving the handling of data streams in Business Central. This optimizes the performance and stability of integrations and data transfers.",
         "link": "better-instream-support",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -662,7 +662,7 @@
       {
         "Area": "Application features",
         "Title": "Code action for removing ApplicationArea on fields when same as page level",
-        "description": "",
+        "description": "A new code action allows removing the ApplicationArea on fields when it matches the page level. This streamlines the code base and improves efficiency for developers.",
         "link": "code-action-removing-applicationarea-fields-when-same-as-page-level",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -670,7 +670,7 @@
       {
         "Area": "Application features",
         "Title": "Code navigability on event subscribers",
-        "description": "",
+        "description": "Code navigability on event subscribers is improved, making it easier for developers to trace and understand code flow. This contributes to faster troubleshooting and development.",
         "link": "code-navigability-event-subscribers",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -678,7 +678,7 @@
       {
         "Area": "Application features",
         "Title": "Control database locking behavior",
-        "description": "",
+        "description": "You can now control database locking behavior, giving greater control over database performance and resource utilization. This is important to optimize the response and stability of the application.",
         "link": "control-database-locking-behavior",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -686,7 +686,7 @@
       {
         "Area": "Application features",
         "Title": "Define regional settings per report using a region property",
-        "description": "",
+        "description": "It is now possible to define regional settings per report using a dedicated region property. This ensures correct formatting of dates, numbers and currencies according to local standards.",
         "link": "define-regional-settings-per-report-using-region-property",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -694,7 +694,7 @@
       {
         "Area": "Application features",
         "Title": "Developers can write faster install code",
-        "description": "",
+        "description": "Developers can now write faster installation code, reducing the time it takes to install and update extensions. This improves the development process and shortens implementation times.",
         "link": "developers-write-faster-install-code",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -702,7 +702,7 @@
       {
         "Area": "Application features",
         "Title": "Folder paths for control add-in resources",
-        "description": "",
+        "description": "There are now folder paths for controlling add-on resources, providing better organization and management of resources. This improves the development workflow and ensures a more structured approach.",
         "link": "folder-paths-control-add-in-resources",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -710,7 +710,7 @@
       {
         "Area": "Application features",
         "Title": "Go to implementation for interfaces",
-        "description": "",
+        "description": "Go to implementation for interfaces is now possible, improving code navigation. This makes it easier for developers to understand and maintain complex AL applications.",
         "link": "go-implementation-interfaces",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -718,7 +718,7 @@
       {
         "Area": "Application features",
         "Title": "Improved compiler resource handling and faster code analyzers",
-        "description": "",
+        "description": "Compiler resource management has been improved and code analyzers have become faster. This results in a more efficient and faster development process, saving time for developers.",
         "link": "improved-compiler-resource-handling-faster-code-analyzers",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -726,7 +726,7 @@
       {
         "Area": "Application features",
         "Title": "IntelliSense indicator for temporary tables",
-        "description": "",
+        "description": "An IntelliSense indicator is now available for temporary tables, improving developer productivity. This allows for faster and more accurate code completion and debugging.",
         "link": "intellisense-indicator-temporary-tables",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -734,7 +734,7 @@
       {
         "Area": "Application features",
         "Title": "IntelliSense suggestion for enum ordinal value",
-        "description": "",
+        "description": "IntelliSense now suggests enum ordinal values, simplifying code development. This reduces errors and speeds up the coding process for developers.",
         "link": "intellisense-suggestion-enum-ordinal-value",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -742,7 +742,7 @@
       {
         "Area": "Application features",
         "Title": "Iterating with foreach on Text variables",
-        "description": "",
+        "description": "You can now iterate with foreach on text variables, giving more flexibility in AL programming. This simplifies handling of text data and improves code efficiency.",
         "link": "iterating-foreach-text-variables",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -750,7 +750,7 @@
       {
         "Area": "Application features",
         "Title": "New rule to enforce pragma warning specifying a disabled rule",
-        "description": "",
+        "description": "A new rule enforces pragma warnings that indicate a disabled rule, improving code quality and compliance with coding standards. This helps developers write more robust code.",
         "link": "new-rule-enforce-pragma-warning-disable-specifying-disabled-rule",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -758,7 +758,7 @@
       {
         "Area": "Application features",
         "Title": "New telemetry events from validating uploaded PTEs",
-        "description": "",
+        "description": "There are new telemetry events from validating uploaded PTEs, providing better insight into extension performance. This helps developers identify and fix potential problems faster.",
         "link": "new-telemetry-events-validating-uploaded-ptes",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -766,7 +766,7 @@
       {
         "Area": "Application features",
         "Title": "Provide Title and custom actions to Error dialogs",
-        "description": "",
+        "description": "You can now specify title and custom actions for error dialogs, improving the error handling user experience. This makes error messages more informative and actionable.",
         "link": "provide-title-custom-actions-error-dialogs",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -774,7 +774,7 @@
       {
         "Area": "Application features",
         "Title": "Publishers can use existing custom licensing while moving to AppSource transactability",
-        "description": "",
+        "description": "Publishers can now use existing custom licenses when transitioning to AppSource tradability. This simplifies the process for publishing apps and ensures continuity in licensing models.",
         "link": "publishers-use-existing-custom-licensing-while-moving-appsource-transactability",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -782,7 +782,7 @@
       {
         "Area": "Application features",
         "Title": "Support for multiple .al package cache paths for symbols",
-        "description": "",
+        "description": "There is now support for more .al package cache paths for symbols, providing more flexibility in the development environment. This improves the efficiency and performance of AL development.",
         "link": "support-multiple-al-package-cache-symbols-paths",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -790,7 +790,7 @@
       {
         "Area": "Application features",
         "Title": "Support for overriding the PublicWebBaseURL server setting on-premises",
-        "description": "",
+        "description": "There is now support for overriding the PublicWebBaseURL server setting in local environments. This provides greater control and flexibility in the configuration of on-premise installations.",
         "link": "support-overriding-publicwebbaseurl-server-setting-on-premise",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -798,7 +798,7 @@
       {
         "Area": "Application features",
         "Title": "URLs in includeRuleSets",
-        "description": "",
+        "description": "URL addresses can now be included in includeRuleSets, providing more flexibility in handling rules. This is useful for defining and managing external resources in your AL projects.",
         "link": "urls-includerulesets",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -806,7 +806,7 @@
       {
         "Area": "Application features",
         "Title": "Deploy hotfixes for older AppSource apps",
-        "description": "",
+        "description": "It is now possible to roll out patches to older AppSource apps, ensuring that older versions remain stable and up-to-date. This improves maintainability and longevity of your apps.",
         "link": "hotfix-older-appsource-apps",
         "publicPreview": "Mar 13, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -814,7 +814,7 @@
       {
         "Area": "Application features",
         "Title": "AL-Go for GitHub modern DevOps for partners",
-        "description": "",
+        "description": "AL-Go for GitHub offers modern DevOps functionality to partners, streamlining development and deployment processes. This promotes effective collaboration and automation in software development.",
         "link": "al-go-github--modern-devops-partners",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 3, 2023"
@@ -822,7 +822,7 @@
       {
         "Area": "Application features",
         "Title": "Attach AL debugger to active session or next session",
-        "description": "",
+        "description": "You can now attach the AL debugger to an active session or to the next session for a specific user. This improves the debugging process and provides greater control over debugging code.",
         "link": "attach-al-debugger-active-session-or-next-session-specific-user",
         "publicPreview": "Apr 4, 2023",
         "generalAvailability": "Apr 4, 2023"
@@ -830,7 +830,7 @@
       {
         "Area": "Application features",
         "Title": "Feature Management updates for 2023 release wave 1",
-        "description": "",
+        "description": "Feature management updates have arrived in release wave 1 for 2023, giving administrators better control over new features. This makes it easier to manage and implement new features step by step.",
         "link": "feature-management-updates-2023-release-wave-1",
         "publicPreview": null,
         "generalAvailability": "Apr 1, 2023"
@@ -838,7 +838,7 @@
       {
         "Area": "Application features",
         "Title": "Delegated adminâs job queue entries are run by user",
-        "description": "",
+        "description": "Deputy Administrator job queues are now run by the user, improving the traceability and security of administrative tasks. This ensures a clear division of responsibility for automated processes.",
         "link": "delegated-admins-job-queue-entries-are-run-user",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -846,7 +846,7 @@
       {
         "Area": "Application features",
         "Title": "Get an improved cloud migration status overview",
-        "description": "",
+        "description": "You get an improved overview of the status of cloud migration, which makes it easier to follow and manage the migration process. This provides greater transparency and control over migration to the cloud.",
         "link": "get-improved-cloud-migration-status-overview",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -854,7 +854,7 @@
       {
         "Area": "Application features",
         "Title": "Manage user permissions using security groups",
-        "description": "",
+        "description": "Manage user permissions more efficiently using security groups. This simplifies the assignment of rights and ensures that users only have access to the necessary functions and data.",
         "link": "manage-user-permissions-using-security-groups",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -862,7 +862,7 @@
       {
         "Area": "Application features",
         "Title": "Get telemetry on cloud migration setup and replication runs",
-        "description": "",
+        "description": "Access telemetry on cloud migration and replication setup, providing deeper insight into process performance. This helps optimize and debug migration and replication workflows.",
         "link": "get-telemetry-cloud-migration-setup-replication-runs",
         "publicPreview": null,
         "generalAvailability": "May 1, 2023"
@@ -870,7 +870,7 @@
       {
         "Area": "Application features",
         "Title": "Migrate more companies per replication run",
-        "description": "",
+        "description": "You can now migrate several companies per replication run, speeding up the migration process. This is especially useful for larger deployments and consolidations of data.",
         "link": "migrate-more-companies-per-replication-run",
         "publicPreview": null,
         "generalAvailability": "May 1, 2023"
@@ -878,7 +878,7 @@
       {
         "Area": "Application features",
         "Title": "Audit file export eases SAF-T compliance",
-        "description": "",
+        "description": "Exporting audit files is now easier, supporting SAF-T compliance. This simplifies the process of generating audit reports and ensures you meet regulatory requirements.",
         "link": "audit-file-export",
         "publicPreview": null,
         "generalAvailability": "Apr 1, 2023"
@@ -886,7 +886,7 @@
       {
         "Area": "Application features",
         "Title": "Non-deductible, partly deductible VAT expands functionality",
-        "description": "",
+        "description": "The functionality for non-deductible and partially deductible VAT has been expanded. This provides greater accuracy in VAT accounting and ensures compliance with complex VAT rules.",
         "link": "non-deductible-partly-deductible-vat-expands-functionality",
         "publicPreview": "May 1, 2023",
         "generalAvailability": "May 1, 2023"
@@ -894,7 +894,7 @@
       {
         "Area": "Application features",
         "Title": "Create engaging partner-specific trial and onboarding experiences",
-        "description": "",
+        "description": "Create engaging and partner-specific trial and onboarding experiences. This helps attract new customers and ensures they quickly get started using Business Central effectively.",
         "link": "create-engaging-partner-specific-trial-onboarding-experiences",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -902,7 +902,7 @@
       {
         "Area": "Application features",
         "Title": "Experience enhanced adaptive cards in Teams",
-        "description": "",
+        "description": "Experience improved adaptive maps in Teams, enriching communication and collaboration. This allows you to interact with Business Central data directly from Teams.",
         "link": "experience-enhanced-adaptive-cards-teams",
         "publicPreview": null,
         "generalAvailability": "Apr 1, 2023"
@@ -910,7 +910,7 @@
       {
         "Area": "Application features",
         "Title": "Configure security controls for Teams cards",
-        "description": "",
+        "description": "Set up security controls for Teams cards, allowing you to control access to sensitive data. This ensures that information is shared securely and only with authorized users.",
         "link": "configure-security-controls-teams-cards",
         "publicPreview": null,
         "generalAvailability": "Apr 3, 2023"
@@ -918,7 +918,7 @@
       {
         "Area": "Application features",
         "Title": "Easily set up access with Microsoft 365 licenses",
-        "description": "",
+        "description": "Easily set up access with your existing Microsoft 365 licenses. This simplifies user management and integration between Business Central and the Microsoft 365 ecosystem.",
         "link": "easily-set-up-access-365-licenses",
         "publicPreview": null,
         "generalAvailability": "Apr 3, 2023"
@@ -926,7 +926,7 @@
       {
         "Area": "Application features",
         "Title": "Analyze, group, and pivot data on list pages using multiple tabs",
-        "description": "",
+        "description": "You can now analyze, group, and pivot data directly on list pages using multiple tabs. This gives you flexible and advanced options for data analysis without exporting data.",
         "link": "analyze-group-pivot-data-list-pages-using-multiple-tabs",
         "publicPreview": "Apr 1, 2023",
         "generalAvailability": null
@@ -934,7 +934,7 @@
       {
         "Area": "Application features",
         "Title": "Allow application and tenant databases to differ in collation",
-        "description": "",
+        "description": "This feature allows application and tenant databases to have different collations. This provides greater flexibility in the database structure and supports different regional settings.",
         "link": "allow-application-tenant-databases-differ-collation",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -942,7 +942,7 @@
       {
         "Area": "Application features",
         "Title": "Business Central server runs on .NET 6",
-        "description": "",
+        "description": "Business Central Server now runs on .NET 6, improving performance and security. This update provides a more robust and modern platform for your Business Central solution.",
         "link": "business-central-server-runs-net-6",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -950,7 +950,7 @@
       {
         "Area": "Application features",
         "Title": "Control max time a task can run on the service",
-        "description": "",
+        "description": "You can now control the maximum time a task can run on the service. This helps prevent long-running processes from affecting performance and ensures more stable operation.",
         "link": "control-max-time-task-run-service",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -958,7 +958,7 @@
       {
         "Area": "Application features",
         "Title": "New telemetry events and data",
-        "description": "",
+        "description": "New telemetry events and data are available, providing deeper insight into system performance and usage. This is essential for monitoring and optimizing your Business Central installation.",
         "link": "new-telemetry-events-data",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -966,7 +966,7 @@
       {
         "Area": "Application features",
         "Title": "Performance - OData calls are now faster",
-        "description": "",
+        "description": "The performance of OData calls has been improved, resulting in faster data exchange. This optimizes integrations with external systems and improves overall system responsiveness.",
         "link": "performance--odata-calls-are-now-faster",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -974,7 +974,7 @@
       {
         "Area": "Application features",
         "Title": "Performance - Opening pages is faster",
-        "description": "",
+        "description": "Performance has been improved, so opening pages is now faster. This provides a more responsive and fluid user experience, increasing productivity for all users.",
         "link": "performance--opening-pages-faster",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -982,7 +982,7 @@
       {
         "Area": "Application features",
         "Title": "Search in company data",
-        "description": "",
+        "description": "You can now search directly in company data, making it quick and easy to find specific information. This feature improves data availability and efficiency in your daily operations.",
         "link": "search-company-data",
         "publicPreview": "Apr 1, 2023",
         "generalAvailability": null
@@ -990,7 +990,7 @@
       {
         "Area": "Application features",
         "Title": "Drag and drop files onto the file upload dialog",
-        "description": "",
+        "description": "It is now possible to drag and drop files directly into the File Upload dialog box, simplifying the process of uploading documents. This improves usability and saves time.",
         "link": "drag-drop-files-onto-file-upload-dialog",
         "publicPreview": "Jan 19, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -998,7 +998,7 @@
       {
         "Area": "Application features",
         "Title": "Access actions and navigation menu efficiently with keyboard",
-        "description": "",
+        "description": "Access actions and the navigation menu efficiently using the keyboard. This improves productivity for power users and those who prefer keyboard shortcuts.",
         "link": "access-actions-navigation-menu-efficiently-keyboard",
         "publicPreview": "Feb 10, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -1006,7 +1006,7 @@
       {
         "Area": "Application features",
         "Title": "Get more productivity out of an optimized Action Bar on all app pages",
-        "description": "",
+        "description": "An optimized action bar on all app pages gives you more productivity. This streamlines access to important functions and makes your workflow more efficient and intuitive.",
         "link": "get-more-productivity-out-optimized-action-bar-all-app-pages",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -1014,7 +1014,7 @@
       {
         "Area": "Application features",
         "Title": "Tailor the action bar to fit your needs on document lines",
-        "description": "",
+        "description": "You can now customize the action bar on document lines to suit your specific needs. This provides greater flexibility and a more personalized user experience that optimizes your workflow.",
         "link": "tailor-action-bar-fit-needs-document-lines",
         "publicPreview": "Mar 1, 2023",
         "generalAvailability": "Apr 1, 2023"
@@ -1022,7 +1022,7 @@
       {
         "Area": "Application features",
         "Title": "Improved alignment of headers in statistics pages",
-        "description": "",
+        "description": "The alignment of headers on statistics pages has been improved, giving a cleaner and more professional look. This makes it easier to read and understand your statistical data.",
         "link": "improved-alignment-headers-statistics-pages",
         "publicPreview": "Feb 1, 2023",
         "generalAvailability": "Apr 3, 2023"
@@ -1030,7 +1030,7 @@
       {
         "Area": "Application features",
         "Title": "Fix errors yourself with actionable error messages",
-        "description": "",
+        "description": "You can now fix errors yourself with actionable error messages that guide you to a solution. This reduces the need for support and allows you to get on with your work faster.",
         "link": "get-unblocked-using-actionable-error-messages-select-application-areas",
         "publicPreview": "Apr 1, 2023",
         "generalAvailability": "Jul 7, 2023"

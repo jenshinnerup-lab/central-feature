@@ -6,7 +6,7 @@
       {
         "Area": "Application features",
         "Title": "Use synthetic relationships to expose more Business Central data in Dataverse",
-        "description": "",
+        "description": "This feature allows you to expose multiple Business Central data in Dataverse using synthetic relationships, improving data integration between systems.",
         "link": "use-virtual-tables-expose-more-business-central-data-dataverse",
         "publicPreview": "Mar 4, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -14,7 +14,7 @@
       {
         "Area": "Application features",
         "Title": "Improve approval processes via Power Automate",
-        "description": "",
+        "description": "Improve your approval processes by integrating with Power Automate, streamlining workflows and increasing efficiency.",
         "link": "improve-approval-processes-via-power-automate",
         "publicPreview": "Apr 2, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -22,7 +22,7 @@
       {
         "Area": "Application features",
         "Title": "Add table and field mappings to existing integration tables",
-        "description": "",
+        "description": "Easily add table and field mappings to your existing integration tables, providing greater flexibility in your data integration.",
         "link": "add-table-field-mappings-existing-integration-tables",
         "publicPreview": "Apr 5, 2024",
         "generalAvailability": null
@@ -30,7 +30,7 @@
       {
         "Area": "Application features",
         "Title": "Find a matching record in a Power Automate flow",
-        "description": "",
+        "description": "Quickly find matching records in your Power Automate flows, improving the accuracy and efficiency of your automated processes.",
         "link": "find-matching-record-power-automate",
         "publicPreview": "Apr 2, 2024",
         "generalAvailability": "May 6, 2024"
@@ -38,7 +38,7 @@
       {
         "Area": "Application features",
         "Title": "Archive projects",
-        "description": "",
+        "description": "Archive completed projects to keep your system tidy and improve performance while preserving historical data.",
         "link": "archive-projects",
         "publicPreview": "Mar 1, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -46,7 +46,7 @@
       {
         "Area": "Application features",
         "Title": "Usability improves for service and projects",
-        "description": "",
+        "description": "This update improves the usability of service and project management, making work more intuitive and efficient.",
         "link": "usability-improves-service-projects",
         "publicPreview": "Mar 1, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -54,7 +54,7 @@
       {
         "Area": "Application features",
         "Title": "Specify dimensions on posted entries applications with realized gains or losses",
-        "description": "",
+        "description": "Specify dimensions on posted entries for realized gains or losses, providing more detailed financial analysis.",
         "link": "specify-dimensions-posted-entries-applications-realized-gains-or-losses",
         "publicPreview": null,
         "generalAvailability": "Apr 1, 2024"
@@ -62,7 +62,7 @@
       {
         "Area": "Application features",
         "Title": "Use deferral codes in purchase and sales journals",
-        "description": "",
+        "description": "Apply deferral codes in purchase and sales journals to improve the management of revenue and expense deferrals.",
         "link": "use-deferral-codes-purchase-sales-journals",
         "publicPreview": "Mar 1, 2024",
         "generalAvailability": "Apr 1, 2024"
@@ -70,7 +70,7 @@
       {
         "Area": "Application features",
         "Title": "Manage subscription billing and revenue and expense recognition",
-        "description": "",
+        "description": "Manage subscription invoicing as well as revenue and expense tracking efficiently, providing better control over recurring revenue.",
         "link": "manage-subscription-billing-revenue-expense-recognition",
         "publicPreview": "Sep 2, 2024",
         "generalAvailability": "Oct 2, 2024"
@@ -78,7 +78,7 @@
       {
         "Area": "Application features",
         "Title": "Integrate Field Service and Business Central",
-        "description": "",
+        "description": "Integrate Field Service with Business Central to streamline workflows and improve data exchange between service and finance departments.",
         "link": "manage-work-orders-field-service-invoice-them-business-central",
         "publicPreview": "Mar 4, 2024",
         "generalAvailability": "Apr 5, 2024"
@@ -86,7 +86,7 @@
       {
         "Area": "Application features",
         "Title": "Define a service invoice posting policy for various users",
-        "description": "",
+        "description": "Define specific policies for posting service invoices for different users, ensuring correct and consistent posting.",
         "link": "define-service-invoice-posting-policy-various-users",
         "publicPreview": "Mar 1, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -94,7 +94,7 @@
       {
         "Area": "Application features",
         "Title": "Manage document attachments in service items and documents",
-        "description": "",
+        "description": "Easily manage document attachments directly in service articles and documents to keep all relevant information together.",
         "link": "manage-document-attachments-service-items-documents",
         "publicPreview": "Mar 2, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -102,7 +102,7 @@
       {
         "Area": "Application features",
         "Title": "Define default location for project or project phase",
-        "description": "",
+        "description": "Define default locations for projects or project phases, streamlining the creation of new projects and improving data consistency.",
         "link": "define-default-location-project-or-project-phase",
         "publicPreview": "Mar 1, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -110,7 +110,7 @@
       {
         "Area": "Application features",
         "Title": "Block items or variants from service transactions",
-        "description": "",
+        "description": "Block specific items or variants from being used in service transactions, preventing errors and ensuring proper usage.",
         "link": "block-item-item-variant-or-service-item-being-used-service-management-transactions",
         "publicPreview": "Mar 1, 2024",
         "generalAvailability": "Apr 1, 2024"
@@ -118,7 +118,7 @@
       {
         "Area": "Application features",
         "Title": "Connect Business Central with Shopify B2B",
-        "description": "",
+        "description": "Connect Business Central and Shopify B2B to streamline B2B sales processes and centralize data.",
         "link": "connect-business-central-shopify-b2b",
         "publicPreview": "Mar 1, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -126,7 +126,7 @@
       {
         "Area": "Application features",
         "Title": "Set up financial consolidation runs more efficiently",
-        "description": "",
+        "description": "Set up financial consolidation more efficiently with improved tools that simplify and speed up the process.",
         "link": "set-up-financial-consolidation-runs-more-efficiently",
         "publicPreview": "Mar 1, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -134,7 +134,7 @@
       {
         "Area": "Application features",
         "Title": "Use Excel reports for consolidation and fixed assets",
-        "description": "",
+        "description": "Use Excel reports to consolidate and manage fixed assets, providing flexible reporting options.",
         "link": "use-excel-reports-consolidation-fixed-assets",
         "publicPreview": "Sep 2, 2024",
         "generalAvailability": "Oct 2, 2024"
@@ -142,7 +142,7 @@
       {
         "Area": "Application features",
         "Title": "Include multiline texts in configuration packages",
-        "description": "",
+        "description": "Export and import multi-line text using configuration packages, simplifying data transfer and setup.",
         "link": "export-import-multiline-text-using-configuration-packages",
         "publicPreview": "Mar 4, 2024",
         "generalAvailability": "Apr 5, 2024"
@@ -150,7 +150,7 @@
       {
         "Area": "Application features",
         "Title": "Simpler Shopify connection",
-        "description": "",
+        "description": "Experience a simpler connection to Shopify, streamlining the integration between your e-commerce and Business Central.",
         "link": "simpler-shopify-connection",
         "publicPreview": "Mar 2, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -158,7 +158,7 @@
       {
         "Area": "Application features",
         "Title": "Enable sustainability features for integrations with APIs",
-        "description": "",
+        "description": "Enable sustainability features for integrations via APIs, supporting your company's green initiatives.",
         "link": "enable-sustainability-features-integrations-apis",
         "publicPreview": "Jun 1, 2024",
         "generalAvailability": "Jul 1, 2024"
@@ -166,7 +166,7 @@
       {
         "Area": "Application features",
         "Title": "Correct errors in service invoices",
-        "description": "",
+        "description": "Eliminate errors easily in service invoices, improving the accuracy and efficiency of your invoicing process.",
         "link": "correct-errors-service-invoices",
         "publicPreview": "Mar 1, 2024",
         "generalAvailability": "Apr 1, 2024"
@@ -174,7 +174,7 @@
       {
         "Area": "Application features",
         "Title": "Prevent editing number series on service documents, cards",
-        "description": "",
+        "description": "Prevent unwanted editing of number ranges on service documents and cards, ensuring data integrity.",
         "link": "prevent-editing-number-series-service-documents-cards",
         "publicPreview": "Mar 2, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -182,7 +182,7 @@
       {
         "Area": "Application features",
         "Title": "Improve accuracy with general ledger account revaluation",
-        "description": "",
+        "description": "Improve the accuracy of your financial statements with improved financial account valuation.",
         "link": "use-general-ledger-account-revaluation-more-accurate-financial-statements",
         "publicPreview": "Mar 1, 2024",
         "generalAvailability": "Apr 1, 2024"
@@ -190,7 +190,7 @@
       {
         "Area": "Application features",
         "Title": "Allow lines with amounts of zero on recurring general journals",
-        "description": "",
+        "description": "Allow lines with zero quantities in recurring general journals, allowing more flexibility in posting.",
         "link": "allow-lines-amounts-zero-recurring-general-journals",
         "publicPreview": "Mar 1, 2024",
         "generalAvailability": "Apr 1, 2024"
@@ -198,7 +198,7 @@
       {
         "Area": "Application features",
         "Title": "Be more productive when entering time sheets",
-        "description": "",
+        "description": "Increase your productivity when entering timesheets with improved features that make the process faster and easier.",
         "link": "get-more-productive-while-entering-time-sheets",
         "publicPreview": "Mar 4, 2024",
         "generalAvailability": "Apr 5, 2024"
@@ -206,7 +206,7 @@
       {
         "Area": "Application features",
         "Title": "Be more productive when approving time sheets",
-        "description": "",
+        "description": "Be more productive when approving timesheets thanks to enhanced features that streamline the approval process.",
         "link": "get-more-productive-while-approving-time-sheets",
         "publicPreview": "Mar 4, 2024",
         "generalAvailability": "Apr 5, 2024"
@@ -214,7 +214,7 @@
       {
         "Area": "Application features",
         "Title": "Automate the reminders process in collections",
-        "description": "",
+        "description": "Automate the dunning process to improve the efficiency of your collections and ensure timely payments.",
         "link": "automate-reminders-process-collections",
         "publicPreview": "Mar 1, 2024",
         "generalAvailability": "Apr 1, 2024"
@@ -222,7 +222,7 @@
       {
         "Area": "Application features",
         "Title": "Use package numbers as item tracking dimensions",
-        "description": "",
+        "description": "Warehouse parcel numbers now act as item tracking dimensions, providing more detailed control and tracking of items.",
         "link": "package-numbers-physical-inventory-lines-work-like-other-item-tracking-dimensions",
         "publicPreview": "Mar 2, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -230,7 +230,7 @@
       {
         "Area": "Application features",
         "Title": "Create projects you can invoice to multiple customers",
-        "description": "",
+        "description": "Create projects that can be invoiced to multiple customers, providing greater flexibility in project invoicing.",
         "link": "create-projects-that-be-invoiced-multiple-customers",
         "publicPreview": "Mar 1, 2024",
         "generalAvailability": "Apr 1, 2024"
@@ -238,7 +238,7 @@
       {
         "Area": "Application features",
         "Title": "Assign salesperson to customer ship-to addresses",
-        "description": "",
+        "description": "Assign salespeople to customer delivery addresses to improve customer management and logistics coordination.",
         "link": "assign-salesperson-customer-ship-to-addresses",
         "publicPreview": "Mar 4, 2024",
         "generalAvailability": "Apr 5, 2024"
@@ -246,7 +246,7 @@
       {
         "Area": "Application features",
         "Title": "View incoming documents in archived quotes and orders",
-        "description": "",
+        "description": "View incoming documents directly in archived quotes and orders, giving you a comprehensive overview of historical transactions.",
         "link": "view-incoming-documents-archived-quotes-orders",
         "publicPreview": "Mar 4, 2024",
         "generalAvailability": "Apr 5, 2024"
@@ -254,7 +254,7 @@
       {
         "Area": "Application features",
         "Title": "Assemble to project",
-        "description": "",
+        "description": "Integrate assembly processes with project management to streamline manufacturing and project delivery.",
         "link": "assemble-project",
         "publicPreview": "Mar 1, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -262,7 +262,7 @@
       {
         "Area": "Application features",
         "Title": "Invoice a customer for multiple projects",
-        "description": "",
+        "description": "Invoice a single customer for multiple projects simultaneously, simplifying the invoicing process and improving efficiency.",
         "link": "invoice-customer-multiple-projects",
         "publicPreview": "Mar 1, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -270,7 +270,7 @@
       {
         "Area": "Application features",
         "Title": "Use new Excel layouts for 35 selected reports",
-        "description": "",
+        "description": "Apply new Excel layouts to 35 select reports, providing improved reporting capabilities and visual clarity.",
         "link": "use-new-excel-layouts-35-selected-reports",
         "publicPreview": "Mar 4, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -278,7 +278,7 @@
       {
         "Area": "Application features",
         "Title": "Use standard terminology for project management",
-        "description": "",
+        "description": "Use standard terminology for project management, ensuring clear communication and consistency across projects.",
         "link": "use-standard-terminology-project-management",
         "publicPreview": "Mar 1, 2024",
         "generalAvailability": "Apr 1, 2024"
@@ -286,7 +286,7 @@
       {
         "Area": "Application features",
         "Title": "See improved usability for warehouse and inventory",
-        "description": "",
+        "description": "Experience improved ease of use for warehouse and warehouse management, making warehouse processes more intuitive and efficient.",
         "link": "usability-improves-warehouse-inventory",
         "publicPreview": "Mar 2, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -294,7 +294,7 @@
       {
         "Area": "Application features",
         "Title": "Ensure accurate inventory valuation by controlling cost adjustment",
-        "description": "",
+        "description": "Ensure accurate inventory valuation by controlling cost adjustments, providing accurate financial reporting.",
         "link": "ensure-accurate-inventory-valuation-controlling-cost-adjustment",
         "publicPreview": "Mar 2, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -302,7 +302,7 @@
       {
         "Area": "Application features",
         "Title": "Use a default quantity of 1 for accounts on documents",
-        "description": "",
+        "description": "Deploy a new role center dedicated to collections management, providing specialized tools and visibility for the collections team.",
         "link": "use-default-quantity-1-accounts-documents",
         "publicPreview": "Sep 6, 2024",
         "generalAvailability": "Oct 1, 2024"
@@ -310,7 +310,7 @@
       {
         "Area": "Application features",
         "Title": "Use a new role center for collection management",
-        "description": "",
+        "description": "Post employee transactions in different currencies, providing flexibility in international operations.",
         "link": "use-new-rolecenter-collection-management",
         "publicPreview": "Mar 1, 2024",
         "generalAvailability": "Apr 1, 2024"
@@ -318,7 +318,7 @@
       {
         "Area": "Application features",
         "Title": "Use currencies when posting employee transactions",
-        "description": "",
+        "description": "Install the Field Service integration directly from AppSource to connect Field Service with Business Central easily and quickly.",
         "link": "use-currencies-when-posting-employee-transactions",
         "publicPreview": "Mar 1, 2024",
         "generalAvailability": "Apr 1, 2024"
@@ -326,7 +326,7 @@
       {
         "Area": "Application features",
         "Title": "Install Field Service Integration with Business Central from AppSource",
-        "description": "",
+        "description": "Interact with Copilot via chat for assistance and insights, improving your productivity.",
         "link": "install-field-service-integration-business-central-appsource",
         "publicPreview": null,
         "generalAvailability": "Jul 5, 2024"
@@ -334,7 +334,7 @@
       {
         "Area": "Application features",
         "Title": "Chat with Copilot to find records or learn new skills",
-        "description": "",
+        "description": "Link e-documents to purchase order lines using Copilot, streamlining document management and matching.",
         "link": "chat-copilot",
         "publicPreview": "Apr 2, 2024",
         "generalAvailability": null
@@ -342,7 +342,7 @@
       {
         "Area": "Application features",
         "Title": "Map e-documents to purchase order lines with Copilot",
-        "description": "",
+        "description": "Extend Copilot with comprehensive development tools, allowing for deeper customization and integrations.",
         "link": "map-e-documents-purchase-order-lines-copilot",
         "publicPreview": "Apr 1, 2024",
         "generalAvailability": null
@@ -350,7 +350,7 @@
       {
         "Area": "Application features",
         "Title": "Extend Copilot using richer development tools",
-        "description": "",
+        "description": "Get quick insight into your data with Copilot-created analytics tabs, improving decision-making and overview.",
         "link": "extend-copilot-using-richer-development-tools",
         "publicPreview": null,
         "generalAvailability": "Apr 2, 2024"
@@ -358,7 +358,7 @@
       {
         "Area": "Application features",
         "Title": "Get to insights fast with Copilot-created analysis tabs",
-        "description": "",
+        "description": "Simplify collections with Copilot for Finance and Business Central, which makes the process more efficient and less time-consuming.",
         "link": "get-insights-faster-copilot-generated-analysis-tabs",
         "publicPreview": "Apr 2, 2024",
         "generalAvailability": null
@@ -366,7 +366,7 @@
       {
         "Area": "Application features",
         "Title": "Simplify collections with Copilot for Finance and Business Central",
-        "description": "",
+        "description": "Ask Copilot for help on specific fields, giving you instant support and information right in the application.",
         "link": "empower-collections-team-copilot-finance-business-central",
         "publicPreview": "Jun 30, 2024",
         "generalAvailability": null
@@ -374,7 +374,7 @@
       {
         "Area": "Application features",
         "Title": "Ask Copilot for help with fields",
-        "description": "",
+        "description": "Automate the submission of IRS 1099 forms, reducing manual work and ensuring compliance.",
         "link": "learn-more-about-fields-copilot",
         "publicPreview": "Apr 1, 2024",
         "generalAvailability": null
@@ -382,7 +382,7 @@
       {
         "Area": "Application features",
         "Title": "Automate IRS 1099 form submission",
-        "description": "",
+        "description": "Enable Business Central in additional countries/territories and regions, expanding availability globally.",
         "link": "automate-irs-1099-form-submission-us",
         "publicPreview": null,
         "generalAvailability": "Apr 1, 2024"
@@ -390,7 +390,7 @@
       {
         "Area": "Application features",
         "Title": "Enable additional countries and regions",
-        "description": "",
+        "description": "Process Czech bank statements and payment orders more productively with improved tools and processes.",
         "link": "enable-additional-countries-regions",
         "publicPreview": "Jul 1, 2024",
         "generalAvailability": "Aug 1, 2024"
@@ -398,7 +398,7 @@
       {
         "Area": "Application features",
         "Title": "Process Czech bank statements and payment orders more productively",
-        "description": "",
+        "description": "Experience improved Czech localization reports that better support local requirements and standards.",
         "link": "more-productive-processing-czech-bank-statements-payment-orders",
         "publicPreview": null,
         "generalAvailability": "Apr 1, 2024"
@@ -406,7 +406,7 @@
       {
         "Area": "Application features",
         "Title": "Improvement of Czech localization reports",
-        "description": "",
+        "description": "Report Explorer offers additional output in the Czech version, providing more detailed reporting capabilities.",
         "link": "improvement-czech-localization-reports",
         "publicPreview": null,
         "generalAvailability": "Apr 1, 2024"
@@ -414,7 +414,7 @@
       {
         "Area": "Application features",
         "Title": "Report explorer has additional outputs in the Czech version",
-        "description": "",
+        "description": "Get improved updates of ARES data in the Czech version, ensuring more accurate and up-to-date information.",
         "link": "report-explorer-has-additional-outputs-czech-version",
         "publicPreview": null,
         "generalAvailability": "Apr 1, 2024"
@@ -422,7 +422,7 @@
       {
         "Area": "Application features",
         "Title": "Improved updates of ARES data in the Czech version",
-        "description": "",
+        "description": "Allow greater flexibility in extending prepayments in the Czech version, supporting different business needs.",
         "link": "improved-updates-ares-data-czech-version",
         "publicPreview": null,
         "generalAvailability": "Apr 1, 2024"
@@ -430,7 +430,7 @@
       {
         "Area": "Application features",
         "Title": "Allow more extendability of advance payments in the Czech version",
-        "description": "",
+        "description": "Print QR codes directly on sales invoices in the Czech version, simplifying payment and tracking.",
         "link": "allow-more-extendibility-advance-payments-czech-version",
         "publicPreview": null,
         "generalAvailability": "Apr 1, 2024"
@@ -438,7 +438,7 @@
       {
         "Area": "Application features",
         "Title": "Print QR codes on sales invoices in the Czech version",
-        "description": "",
+        "description": "Apply Excel layouts to Czech reports, providing greater flexibility and customization options for reporting.",
         "link": "print-qr-codes-sales-invoices-czech-version",
         "publicPreview": null,
         "generalAvailability": "Apr 1, 2024"
@@ -446,7 +446,7 @@
       {
         "Area": "Application features",
         "Title": "Use Excel layouts for Czech reports",
-        "description": "",
+        "description": "Use the client-side scripting tool for acceptance testing, which streamlines testing processes and ensures quality.",
         "link": "excel-layouts-czech-reports",
         "publicPreview": null,
         "generalAvailability": "Apr 1, 2024"
@@ -454,7 +454,7 @@
       {
         "Area": "Application features",
         "Title": "Use in-client page scripting tool for acceptance testing",
-        "description": "",
+        "description": "Apply AL-guided barcode scanning in all scenarios, improving the accuracy and efficiency of data collection.",
         "link": "use-in-client-page-scripting-tool-acceptance-testing",
         "publicPreview": "Apr 1, 2024",
         "generalAvailability": null
@@ -462,7 +462,7 @@
       {
         "Area": "Application features",
         "Title": "Use AL-controlled barcode scanning for all scenarios",
-        "description": "",
+        "description": "Write more flexible and efficient code using NumberSequences, optimizing numbering processes in your application.",
         "link": "use-al-controlled-barcode-scanning-all-scenarios-business-central-online",
         "publicPreview": "Apr 2, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -470,7 +470,7 @@
       {
         "Area": "Application features",
         "Title": "Write flexible and performant code with NumberSequences",
-        "description": "",
+        "description": "Easily handle multiple file uploads, improving ease of use and efficiency when transferring many files.",
         "link": "write-more-flexible-performant-code-using-numbersequences",
         "publicPreview": "Apr 1, 2024",
         "generalAvailability": "Apr 1, 2024"
@@ -478,7 +478,7 @@
       {
         "Area": "Application features",
         "Title": "Handle multiple file uploads",
-        "description": "",
+        "description": "Troubleshoot the system application effectively to identify and resolve issues, ensuring stable operation.",
         "link": "handle-multiple-file-uploads-file-drop-zones",
         "publicPreview": "Apr 5, 2024",
         "generalAvailability": null
@@ -486,7 +486,7 @@
       {
         "Area": "Application features",
         "Title": "Debug the System application",
-        "description": "",
+        "description": "Reduce friction when working with external app dependencies, simplifying the development process and integration.",
         "link": "debug-system-application",
         "publicPreview": "Apr 1, 2024",
         "generalAvailability": "Apr 1, 2024"
@@ -494,7 +494,7 @@
       {
         "Area": "Application features",
         "Title": "Use cookies in HTTP calls from Business Central",
-        "description": "",
+        "description": "Use cookies in HTTP calls from Business Central, improving functionality and integration with web applications.",
         "link": "use-cookies-http-calls-business-central",
         "publicPreview": "Mar 1, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -502,7 +502,7 @@
       {
         "Area": "Application features",
         "Title": "Define tooltips on table fields",
-        "description": "",
+        "description": "Define tooltips on table fields to provide users with more information and context, improving usability.",
         "link": "define-tooltips-table-fields",
         "publicPreview": "Apr 1, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -510,7 +510,7 @@
       {
         "Area": "Application features",
         "Title": "Use the OData V4 IN operator in web service queries",
-        "description": "",
+        "description": "Apply the OData V4 IN operator in web service queries, providing more powerful and flexible data queries.",
         "link": "use-odata-v4-operator-web-service-queries",
         "publicPreview": "Apr 1, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -518,7 +518,7 @@
       {
         "Area": "Application features",
         "Title": "Define extension objects in same app as their base object",
-        "description": "",
+        "description": "Define extension objects in the same app as their base object, streamlining application development and maintenance.",
         "link": "define-extension-objects-same-app-as-their-base-object",
         "publicPreview": "Apr 1, 2024",
         "generalAvailability": "Apr 1, 2024"
@@ -526,7 +526,7 @@
       {
         "Area": "Application features",
         "Title": "Use linked environments in Dataverse integration",
-        "description": "",
+        "description": "Use linked environments in Dataverse integration, providing more flexible management of data across systems.",
         "link": "use-linked-environment-dataverse-integration",
         "publicPreview": null,
         "generalAvailability": "Jun 18, 2024"
@@ -534,7 +534,7 @@
       {
         "Area": "Application features",
         "Title": "Copy companies with Dataverse integration safely",
-        "description": "",
+        "description": "Securely copy companies with Dataverse integration, ensuring data integrity during the copy process.",
         "link": "copy-companies-dataverse-integration-safely",
         "publicPreview": "Mar 4, 2024",
         "generalAvailability": "Apr 1, 2024"
@@ -542,7 +542,7 @@
       {
         "Area": "Application features",
         "Title": "Audit Business Central operations in Microsoft Purview",
-        "description": "",
+        "description": "Audit Business Central operations in Microsoft Purview, providing improved compliance and data event monitoring.",
         "link": "audit-business-central-operations-purview",
         "publicPreview": "May 15, 2024",
         "generalAvailability": null
@@ -550,7 +550,7 @@
       {
         "Area": "Application features",
         "Title": "Analyze telemetry events across browser and server for a session or user",
-        "description": "",
+        "description": "Analyze cross-browser and server telemetry events for a session or user, providing detailed insight into application usage.",
         "link": "analyze-telemetry-events-across-browser-server-session-or-user",
         "publicPreview": "Mar 31, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -558,7 +558,7 @@
       {
         "Area": "Application features",
         "Title": "View and filter users with additional user details",
-        "description": "",
+        "description": "Migrate record associations and notes using cloud migration tools, simplifying the transfer of data to the cloud.",
         "link": "view-filter-users-using-additional-user-details",
         "publicPreview": "Mar 4, 2024",
         "generalAvailability": "Apr 5, 2024"
@@ -566,7 +566,7 @@
       {
         "Area": "Application features",
         "Title": "Use Premium license to sign in to environment with Essentials licenses",
-        "description": "",
+        "description": "View and filter users with additional user information, which provides better control and overview of user access.",
         "link": "use-premium-license-log-into-environment-essentials-licenses",
         "publicPreview": null,
         "generalAvailability": "Apr 5, 2024"
@@ -574,7 +574,7 @@
       {
         "Area": "Application features",
         "Title": "Experience the new embedded AppSource marketplace page",
-        "description": "",
+        "description": "Use Premium licenses to log into environments that normally require Essentials licenses, providing greater flexibility in license management.",
         "link": "experience-new-embedded-appsource-marketplace-page",
         "publicPreview": "Apr 1, 2024",
         "generalAvailability": "Apr 1, 2024"
@@ -582,7 +582,7 @@
       {
         "Area": "Application features",
         "Title": "Allow customers to consent to Microsoft Support accessing their data",
-        "description": "",
+        "description": "Experience the new integrated AppSource marketplace page that makes it easier to find and install apps directly from Business Central.",
         "link": "allow-customers-consent-support-accessing-their-data",
         "publicPreview": null,
         "generalAvailability": "May 15, 2024"
@@ -590,7 +590,7 @@
       {
         "Area": "Application features",
         "Title": "Link Business Central environments to Power Platform environments",
-        "description": "",
+        "description": "Enables debtors to consent to Microsoft Support accessing their data, streamlining support processes.",
         "link": "link-business-central-environments-power-platform-environments",
         "publicPreview": null,
         "generalAvailability": "May 15, 2024"
@@ -598,7 +598,7 @@
       {
         "Area": "Application features",
         "Title": "See VAT date in posting previews",
-        "description": "",
+        "description": "Link Business Central environments to Power Platform environments to enable seamless data integration and automation.",
         "link": "see-vat-date-posting-previews",
         "publicPreview": null,
         "generalAvailability": "Apr 1, 2024"
@@ -606,7 +606,7 @@
       {
         "Area": "Application features",
         "Title": "Automate country of origin listed for item tracking code in Intrastat reporting",
-        "description": "",
+        "description": "Control partner access per environment to ensure data governance and security, providing granular control.",
         "link": "automate-country-origin-listed-item-tracking-code-intrastat-reporting",
         "publicPreview": null,
         "generalAvailability": "Sep 1, 2024"
@@ -614,7 +614,7 @@
       {
         "Area": "Application features",
         "Title": "Achieve sustainable compliance with Business Central",
-        "description": "",
+        "description": "See the VAT date in posting of advance versions, which improves the overview of VAT-related transactions.",
         "link": "achieving-sustainable-compliance-business-central",
         "publicPreview": "Mar 1, 2024",
         "generalAvailability": "Apr 1, 2024"
@@ -622,7 +622,7 @@
       {
         "Area": "Application features",
         "Title": "Enable sustainability features for integrations with APIs",
-        "description": "",
+        "description": "Automate country of origin/territory specified for item tracking code in Intrastat reporting, simplifying compliance.",
         "link": "enable-sustainability-features-integrations-apis",
         "publicPreview": "Jun 1, 2024",
         "generalAvailability": "Sep 1, 2024"
@@ -630,7 +630,7 @@
       {
         "Area": "Application features",
         "Title": "Go to pages that contain a field that's causing a platform error",
-        "description": "",
+        "description": "Achieve sustainable compliance with Business Central, ensuring your business meets the latest regulatory requirements.",
         "link": "use-actions-navigate-highlight-or-fix-platform-generated-errors",
         "publicPreview": "Mar 4, 2024",
         "generalAvailability": "Apr 1, 2024"
@@ -638,7 +638,7 @@
       {
         "Area": "Application features",
         "Title": "Access worksheet pages from mobile phones",
-        "description": "",
+        "description": "Enable sustainability features for integrations with APIs, supporting greener operations and reporting.",
         "link": "access-worksheet-pages-mobile-phones",
         "publicPreview": "Apr 2, 2024",
         "generalAvailability": "Apr 2, 2024"
@@ -646,7 +646,7 @@
       {
         "Area": "Application features",
         "Title": "Boost productivity with the modern action bar",
-        "description": "",
+        "description": "Navigate directly to pages that contain a field that causes a platform error, simplifying troubleshooting and fixing.",
         "link": "boost-productivity-modern-action-bar",
         "publicPreview": null,
         "generalAvailability": "Apr 5, 2024"
@@ -654,7 +654,7 @@
       {
         "Area": "Application features",
         "Title": "Share error details to get help from another user",
-        "description": "",
+        "description": "Access worksheet pages directly from mobile phones, giving you the flexibility to work on the go.",
         "link": "share-error-details-get-help-another-user",
         "publicPreview": "Mar 4, 2024",
         "generalAvailability": "Apr 1, 2024"
@@ -662,7 +662,7 @@
       {
         "Area": "Application features",
         "Title": "Enhance user interface for better experience",
-        "description": "",
+        "description": "Increase your productivity with the modern action bar that provides quick access to frequently used functions and actions.",
         "link": "enhancements-user-experience",
         "publicPreview": null,
         "generalAvailability": "Apr 2, 2024"

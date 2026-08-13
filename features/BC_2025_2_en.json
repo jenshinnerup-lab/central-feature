@@ -6,7 +6,7 @@
       {
         "Area": "Application features",
         "Title": "Give more instructions for the agent when you review its tasks",
-        "description": "",
+        "description": "This feature allows you to automatically apply templates when you sync data with Dataverse. It streamlines your data entry and ensures consistency across your systems, saving time and reducing errors.",
         "link": "give-more-instructions-agent-when-review-its-tasks",
         "publicPreview": "Oct 1, 2025",
         "generalAvailability": "Nov 7, 2025"
@@ -14,7 +14,7 @@
       {
         "Area": "Application features",
         "Title": "Capture more sales with enhanced Sales Order Agent",
-        "description": "",
+        "description": "With this feature, multiple users can now post inventory entries simultaneously. This significantly improves the efficiency and productivity of your warehouse operations, especially during busy periods.",
         "link": "capture-more-sales-enhanced-sales-order-agent",
         "publicPreview": "Sep 2, 2025",
         "generalAvailability": "Nov 7, 2025"
@@ -22,7 +22,7 @@
       {
         "Area": "Application features",
         "Title": "Use Sales Order Agent to automate sales order-taking",
-        "description": "",
+        "description": "You get access to new reports and demo data for financial reporting, making it easier to analyze and understand your financial data. This helps in making better and more informed decisions.",
         "link": "use-copilot-agent-capabilities-automate-sales-order-taking-process",
         "publicPreview": "Mar 7, 2025",
         "generalAvailability": "Nov 10, 2025"
@@ -30,7 +30,7 @@
       {
         "Area": "Application features",
         "Title": "Find pages and reports with advanced Tell Me search",
-        "description": "",
+        "description": "This update ensures that your Shopify connector is always up to date. This means a more stable and seamless integration between Business Central and your Shopify webshop, improving your e-commerce experience.",
         "link": "find-pages-reports-advanced-tell-me-search",
         "publicPreview": "Oct 1, 2025",
         "generalAvailability": "Oct 1, 2025"
@@ -38,7 +38,7 @@
       {
         "Area": "Application features",
         "Title": "Get more contextual invoice drafts with Payables Agent",
-        "description": "",
+        "description": "Gain better control over subscription billing and revenue and expense recognition. This feature gives you more accurate financial overviews and streamlines your invoicing process.",
         "link": "get-more-contextual-invoice-drafts-payables-agent",
         "publicPreview": "Nov 7, 2025",
         "generalAvailability": "Nov 7, 2025"
@@ -46,7 +46,7 @@
       {
         "Area": "Application features",
         "Title": "Match purchase invoices to orders with Payables Agent",
-        "description": "",
+        "description": "Now you can easily add an item number as a variant in Shopify directly from Business Central. This simplifies the administration of your products and variants on your webshop.",
         "link": "match-purchase-invoices-orders-payables-agent",
         "publicPreview": null,
         "generalAvailability": "Feb 6, 2026"
@@ -54,7 +54,7 @@
       {
         "Area": "Application features",
         "Title": "Prioritize invoice draft changes using Payables Agent confidence level",
-        "description": "",
+        "description": "This feature allows you to archive service management documents. It helps keep your system organized and clear by removing old or completed documents from the active view.",
         "link": "prioritize-invoice-draft-changes-using-payables-agent-confidence-level",
         "publicPreview": "Jan 9, 2026",
         "generalAvailability": "Jan 9, 2026"
@@ -62,7 +62,7 @@
       {
         "Area": "Application features",
         "Title": "Use Payables Agent in more countries and regions",
-        "description": "",
+        "description": "Benefit from improved Excel reports for consolidating and managing fixed assets. This gives you greater flexibility in your financial reporting and analysis.",
         "link": "use-payables-agent-more-countries-regions",
         "publicPreview": "Jan 9, 2026",
         "generalAvailability": "Jan 9, 2026"
@@ -70,7 +70,7 @@
       {
         "Area": "Application features",
         "Title": "Use enhanced chat with Copilot",
-        "description": "",
+        "description": "This feature allows you to sync product translations directly to Shopify. It is ideal for businesses that operate across multiple markets and want to offer multilingual content.",
         "link": "use-enhanced-chat-copilot",
         "publicPreview": "Oct 1, 2025",
         "generalAvailability": null
@@ -78,7 +78,7 @@
       {
         "Area": "Application features",
         "Title": "Autofill contact details with Copilot",
-        "description": "",
+        "description": "You can now apply specific prices and discounts when you sync prices in Shopify. This gives you more granular control over your pricing strategies in your webshop.",
         "link": "get-better-field-suggestions-using-autofill-copilot",
         "publicPreview": "Oct 1, 2025",
         "generalAvailability": null
@@ -86,7 +86,7 @@
       {
         "Area": "Application features",
         "Title": "Connect AI agents to Business Central through MCP server",
-        "description": "",
+        "description": "This feature allows you to define detailed shipping information for calculating shipping fees in Shopify. This ensures more accurate shipping costs and a better customer experience.",
         "link": "connect-ai-agents-business-central-through-mcp-server",
         "publicPreview": "Oct 31, 2025",
         "generalAvailability": null
@@ -94,7 +94,7 @@
       {
         "Area": "Application features",
         "Title": "Understand how each Copilot and agent capability is billed",
-        "description": "",
+        "description": "Now you can add extended text to project schedule lines. This allows you to include more detailed descriptions and notes in your project plans.",
         "link": "understand-how-each-copilot-agent-capability-billed",
         "publicPreview": "Oct 3, 2025",
         "generalAvailability": "Oct 3, 2025"
@@ -102,7 +102,7 @@
       {
         "Area": "Application features",
         "Title": "Automate payables processes with the Payables Agent",
-        "description": "",
+        "description": "This feature makes it easy to export posted sales invoices directly to Shopify. It simplifies your bookkeeping and ensures consistency between your systems.",
         "link": "automate-payables-processes-payables-agent",
         "publicPreview": "Jul 4, 2025",
         "generalAvailability": "Nov 7, 2025"
@@ -110,7 +110,7 @@
       {
         "Area": "Application features",
         "Title": "Use enhanced analysis assist with Copilot",
-        "description": "",
+        "description": "To streamline data entry, you can now use a default quantity of 1 for accounts on documents. This reduces the need for manual entry for items that are often ordered individually.",
         "link": "use-enhanced-analysis-assist-copilot",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -118,7 +118,7 @@
       {
         "Area": "Application features",
         "Title": "Summarize with Copilot enhancements",
-        "description": "",
+        "description": "This feature helps you replenish items specifically for your projects. This ensures that you always have the necessary materials available when you need them.",
         "link": "summarize-copilot-enhancements",
         "publicPreview": "Oct 1, 2025",
         "generalAvailability": null
@@ -126,7 +126,7 @@
       {
         "Area": "Application features",
         "Title": "Envision and design AI agents in Business Central",
-        "description": "",
+        "description": "You can now easily reconcile payment transactions from Shopify with your invoices in Business Central. This simplifies your financial reconciliation process and ensures accuracy.",
         "link": "envision-prototype-custom-ai-agents-using-agent-designer",
         "publicPreview": "Feb 6, 2026",
         "generalAvailability": "Oct 2026"
@@ -134,7 +134,7 @@
       {
         "Area": "Application features",
         "Title": "Get started with clearer user setup controls for Czechia",
-        "description": "",
+        "description": "This function allows you to use directed put-away and pick stocks in connection with projects. It optimizes your warehouse processes and increases the efficiency of warehouse management.",
         "link": "get-started-clearer-user-setup-controls-czechia",
         "publicPreview": "Mar 1, 2026",
         "generalAvailability": "Apr 1, 2026"
@@ -142,7 +142,7 @@
       {
         "Area": "Application features",
         "Title": "Delete companies from production environments in Denmark",
-        "description": "",
+        "description": "You can now enable locations in Shopify refunds, providing more accurate tracking and management of returns from different locations.",
         "link": "delete-companies-production-environments-denmark",
         "publicPreview": null,
         "generalAvailability": "Nov 1, 2025"
@@ -150,7 +150,7 @@
       {
         "Area": "Application features",
         "Title": "Print IRS 1099 form copies in bulk in the US",
-        "description": "",
+        "description": "This update delivers improved usability for both the service and project modules, making it easier for users to navigate and complete tasks.",
         "link": "print-irs-1099-form-copies-bulk-usa",
         "publicPreview": null,
         "generalAvailability": "Jan 1, 2026"
@@ -158,7 +158,7 @@
       {
         "Area": "Application features",
         "Title": "Enable additional countries and regions",
-        "description": "",
+        "description": "This feature offers improved debugging capabilities for cost adjustments. It helps you quickly identify and resolve any issues that may arise during cost adjustments.",
         "link": "enable-additional-countries-regions",
         "publicPreview": null,
         "generalAvailability": "Dec 1, 2025"
@@ -166,7 +166,7 @@
       {
         "Area": "Application features",
         "Title": "Install UK localization as an extension to the base app",
-        "description": "",
+        "description": "You can now import and export product information using Shopify Metafields. This provides a flexible way to exchange specific product data between Business Central and Shopify.",
         "link": "install-uk-localization-as-app",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -174,7 +174,7 @@
       {
         "Area": "Application features",
         "Title": "Get UI improvements for Unreliable Payer for Czechia",
-        "description": "",
+        "description": "Copilot can now suggest number ranges, streamlining the creation of new records and reducing manual entry.",
         "link": "unreliable-payer-user-interface-improvements-czechia",
         "publicPreview": "Sep 1, 2025",
         "generalAvailability": "Oct 1, 2025"
@@ -182,7 +182,7 @@
       {
         "Area": "Application features",
         "Title": "Align VAT periods with Microsoft standards for Czechia",
-        "description": "",
+        "description": "This feature increases the visibility of Copilot actions on different pages in Business Central. This makes it easier for users to discover and utilize Copilot's automated options.",
         "link": "align-vat-periods-standards-czechia",
         "publicPreview": "Mar 1, 2026",
         "generalAvailability": "Apr 1, 2026"
@@ -190,7 +190,7 @@
       {
         "Area": "Application features",
         "Title": "Submit IRS 1099 forms electronically to IRIS in the US localization",
-        "description": "",
+        "description": "Copilot makes it easier to create sales lines, speeding up order processing and minimizing errors.",
         "link": "submit-irs1099-forms-electronically-iris",
         "publicPreview": "Oct 1, 2025",
         "generalAvailability": "Nov 1, 2025"
@@ -198,7 +198,7 @@
       {
         "Area": "Application features",
         "Title": "Enable embedded Verifactu mode in Spain",
-        "description": "",
+        "description": "This feature improves feedback from Copilot by displaying errors and messages directly in prompt dialogs. This makes troubleshooting and understanding Copilot's responses more intuitive.",
         "link": "enable-embedded-verifactu-mode-spain",
         "publicPreview": "Jan 1, 2026",
         "generalAvailability": "Sep 2026"
@@ -206,7 +206,7 @@
       {
         "Area": "Application features",
         "Title": "Add drill-down links to VAT entries in the VAT return lines for Czechia",
-        "description": "",
+        "description": "Copilot helps you perform bank reconciliation faster, saving time and reducing manual work in the finance department.",
         "link": "add-drill-down-links-vat-entries-vat-return-lines-czechia",
         "publicPreview": "Dec 4, 2025",
         "generalAvailability": "Dec 4, 2025"
@@ -214,7 +214,7 @@
       {
         "Area": "Application features",
         "Title": "Check total amounts on purchase advances for Czechia",
-        "description": "",
+        "description": "Get help from Copilot to create product information faster. This accelerates the process of adding new products and updating existing ones.",
         "link": "check-total-amounts-purchase-advances-czechia",
         "publicPreview": "Sep 1, 2025",
         "generalAvailability": "Oct 1, 2025"
@@ -222,7 +222,7 @@
       {
         "Area": "Application features",
         "Title": "Reconciliation feature in cash documents for Czechia",
-        "description": "",
+        "description": "The chat function with Copilot has been improved for a more fluid and helpful interaction.",
         "link": "reconciliation-feature-cash-documents-czechia",
         "publicPreview": "Sep 1, 2025",
         "generalAvailability": "Oct 1, 2025"
@@ -230,7 +230,7 @@
       {
         "Area": "Application features",
         "Title": "Change original document VAT date in VAT entries for Czechia",
-        "description": "",
+        "description": "The Sales Order Agent leverages Copilot features to automate the sales order capture process. This reduces manual work and increases the speed of order processing.",
         "link": "change-original-document-vat-date-vat-entries-czechia",
         "publicPreview": "Mar 1, 2026",
         "generalAvailability": "Apr 1, 2026"
@@ -238,7 +238,7 @@
       {
         "Area": "Application features",
         "Title": "New Contoso Coffee Demo Dataset for Intrastat in Czechia",
-        "description": "",
+        "description": "The analysis assistant with Copilot has been improved to give you deeper insights and more efficient data analyses.",
         "link": "new-contoso-coffee-demo-dataset-intrastat-czechia",
         "publicPreview": "Sep 1, 2025",
         "generalAvailability": "Oct 1, 2025"
@@ -246,7 +246,7 @@
       {
         "Area": "Application features",
         "Title": "New pages for purchase and sales advance entries for Czechia",
-        "description": "",
+        "description": "This feature makes it easier to get started with Copilot, as you don't need to do extensive setup to start using it.",
         "link": "new-pages-purchase-sales-advance-lines-czechia",
         "publicPreview": "Sep 1, 2025",
         "generalAvailability": "Oct 1, 2025"
@@ -254,7 +254,7 @@
       {
         "Area": "Application features",
         "Title": "Transfer journal line descriptions to bank statements for Czechia",
-        "description": "",
+        "description": "As an ISV, you can now access usage telemetry for Copilot extensions. This provides valuable insight into how your extensions are being used.",
         "link": "transfer-journal-line-descriptions-bank-statements",
         "publicPreview": "Mar 2, 2026",
         "generalAvailability": "Apr 1, 2026"
@@ -262,7 +262,7 @@
       {
         "Area": "Application features",
         "Title": "Alternative posting groups for employees in Czechia",
-        "description": "",
+        "description": "For Czech users, postponing posting is now supported, where the original amount is posted as a correction. This ensures correct accounting treatment of deferred income and expenses.",
         "link": "alternative-posting-groups-employees-czechia",
         "publicPreview": "Sep 1, 2025",
         "generalAvailability": "Oct 1, 2025"
@@ -270,7 +270,7 @@
       {
         "Area": "Application features",
         "Title": "Adjust VAT in local currency on sales documents in Czechia",
-        "description": "",
+        "description": "This feature allows Czech users to post alternative customer and vendor posting groups, providing greater flexibility in accounting setup.",
         "link": "adjust-vat-local-currency-sales-documents-czechia",
         "publicPreview": "Mar 1, 2026",
         "generalAvailability": "Apr 1, 2026"
@@ -278,7 +278,7 @@
       {
         "Area": "Application features",
         "Title": "Cancel build and publish from Visual Studio Code",
-        "description": "",
+        "description": "Germany now gets access to the E-document framework, including support for XRechnung, to streamline electronic invoicing and document exchange.",
         "link": "cancel-build-publish-visual-studio-code",
         "publicPreview": "Oct 3, 2025",
         "generalAvailability": "Oct 3, 2025"
@@ -286,7 +286,7 @@
       {
         "Area": "Application features",
         "Title": "Hide Copilot summaries",
-        "description": "",
+        "description": "This feature allows Czech users to create reverse charge preview letters. This is important for correct handling of VAT in specific transactions.",
         "link": "hide-copilot-summaries",
         "publicPreview": "Oct 1, 2025",
         "generalAvailability": null
@@ -294,7 +294,7 @@
       {
         "Area": "Application features",
         "Title": "Record and edit easier with enhanced page scripting tool",
-        "description": "",
+        "description": "VAT declaration functionality is now available for the Czech Republic, making it easier to generate and submit VAT returns in accordance with local regulations.",
         "link": "record-edit-easier-enhanced-page-scripting-tool",
         "publicPreview": "Oct 3, 2025",
         "generalAvailability": "Oct 3, 2025"
@@ -302,7 +302,7 @@
       {
         "Area": "Application features",
         "Title": "Truncate table data with new AL method",
-        "description": "",
+        "description": "This update includes demo data for the Czech Republic, making it easier for new users to explore and understand the local features and setups.",
         "link": "truncate-table-data-new-al-method",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -310,7 +310,7 @@
       {
         "Area": "Application features",
         "Title": "View SQL call information in performance profiles",
-        "description": "",
+        "description": "Czech Republic now gets the option to include employee transactions in the exchange rate adjustment report. This provides a more complete picture of financial adjustments.",
         "link": "view-sql-call-information-performance-profiles",
         "publicPreview": "Oct 3, 2025",
         "generalAvailability": "Oct 3, 2025"
@@ -318,7 +318,7 @@
       {
         "Area": "Application features",
         "Title": "Use the latest update for the Shopify Connector",
-        "description": "",
+        "description": "The Spanish version of Business Central now supports the e-document framework, enabling electronic document exchange in accordance with Spanish regulations.",
         "link": "use-latest-update-shopify-connector",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -326,7 +326,7 @@
       {
         "Area": "Application features",
         "Title": "Troubleshoot the Shopify Connector",
-        "description": "",
+        "description": "This feature improves VAT reporting and adjustments for the Czech Republic, including the handling of non-deductible VAT, ensuring more accurate compliance.",
         "link": "troubleshoot-shopify-connector",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -334,7 +334,7 @@
       {
         "Area": "Application features",
         "Title": "Enable staff-to-salesperson mapping for Shopify orders",
-        "description": "",
+        "description": "Czech Republic now gets allocation functionality in cash registers, improving cash flow management and reconciliation.",
         "link": "enable-staff-to-salesperson-mapping-shopify-orders",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -342,7 +342,7 @@
       {
         "Area": "Application features",
         "Title": "Synchronize market-specific prices with Shopify",
-        "description": "",
+        "description": "This feature enables advance sales directly from the project module for Czech users, streamlining invoicing and payment processes for projects.",
         "link": "synchronize-market-specific-prices-shopify",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -350,7 +350,7 @@
       {
         "Area": "Application features",
         "Title": "Define sell-to and bill-to customer details per company location",
-        "description": "",
+        "description": "Norway now supports the updated SAF-T 1.3 standard, which ensures compliance with the latest requirements for digital reporting of accounting data.",
         "link": "define-sell-to-bill-to-customer-details-per-company-location",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -358,7 +358,7 @@
       {
         "Area": "Application features",
         "Title": "Use the E-Documents framework with Power Automate and other solutions",
-        "description": "",
+        "description": "You can now e-file IRS 1099 forms without the need for additional integrations, simplifying tax reporting for US businesses.",
         "link": "use-e-documents-power-automate",
         "publicPreview": "Oct 1, 2025",
         "generalAvailability": "Nov 1, 2025"
@@ -366,7 +366,7 @@
       {
         "Area": "Application features",
         "Title": "Send e-documents via a service and email simultaneously",
-        "description": "",
+        "description": "The Czech Republic will be able to use other currencies as functional currency, which provides greater flexibility for companies that trade internationally.",
         "link": "send-e-documents-via-service-email-simultaneously",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -374,7 +374,7 @@
       {
         "Area": "Application features",
         "Title": "Use the ForNAV Peppol connector for e-documents",
-        "description": "",
+        "description": "Developers can now easily set up in-client performance profiling with schemas. This helps identify and optimize performance issues in the application.",
         "link": "use-fornav-peppol-connector-e-documents",
         "publicPreview": "Nov 1, 2025",
         "generalAvailability": "Dec 1, 2025"
@@ -382,7 +382,7 @@
       {
         "Area": "Application features",
         "Title": "Create e-documents from posted sales invoices",
-        "description": "",
+        "description": "AL developers can now use the ternary operator, which provides more compact and readable code in certain scenarios.",
         "link": "create-e-documents-posted-sales-invoices",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -390,7 +390,7 @@
       {
         "Area": "Application features",
         "Title": "Export reminders and finance charges as PEPPOL files",
-        "description": "",
+        "description": "Developers can now pull extension source code directly from GitHub when opening Visual Studio Code from the web client. This streamlines the development process.",
         "link": "export-reminders-finance-charges-as-peppol-files",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -398,7 +398,7 @@
       {
         "Area": "Application features",
         "Title": "Set up Service Participants to Company Information",
-        "description": "",
+        "description": "This feature reduces the friction associated with working with external app dependencies, making the development process smoother.",
         "link": "set-up-service-participants-company-information",
         "publicPreview": "Mar 1, 2026",
         "generalAvailability": "Apr 1, 2026"
@@ -406,7 +406,7 @@
       {
         "Area": "Application features",
         "Title": "Use the Admin permission set with e-documents",
-        "description": "",
+        "description": "AL developers can now use the 'this' keyword for codeunit self-reference, improving code clarity and consistency.",
         "link": "use-admin-permission-set-e-documents",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -414,7 +414,7 @@
       {
         "Area": "Application features",
         "Title": "Use e-documents for shipment and transfer shipment document types",
-        "description": "",
+        "description": "This feature allows developers to run page scripts in pipelines for automated testing. This supports a more robust and efficient testing process.",
         "link": "use-e-documents-shipment-transfer-shipment-document-types",
         "publicPreview": "Oct 1, 2025",
         "generalAvailability": "Dec 1, 2025"
@@ -422,7 +422,7 @@
       {
         "Area": "Application features",
         "Title": "Set up the Clearance model in the E-Documents framework",
-        "description": "",
+        "description": "Developers can now specify and use full-text search indexes on table fields. This improves the search performance of the application.",
         "link": "set-up-clearance-model-e-documents-framework",
         "publicPreview": "Oct 1, 2025",
         "generalAvailability": "Dec 1, 2025"
@@ -430,7 +430,7 @@
       {
         "Area": "Application features",
         "Title": "Process sales e-documents in two steps",
-        "description": "",
+        "description": "This feature ensures that extensions can be recovered if publishing from Visual Studio Code fails, reducing the risk of data loss and errors.",
         "link": "process-sales-e-documents-two-steps",
         "publicPreview": null,
         "generalAvailability": "Nov 1, 2025"
@@ -438,7 +438,7 @@
       {
         "Area": "Application features",
         "Title": "Use alternative posting groups for employees",
-        "description": "",
+        "description": "This update includes enhanced features for document reports, providing more flexibility and control over the design and content of reports.",
         "link": "use-alternative-posting-groups-employees",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -446,7 +446,7 @@
       {
         "Area": "Application features",
         "Title": "Use new SEPA file CAMT0530008",
-        "description": "",
+        "description": "Developers can now package resources into extensions and access them from AL. This simplifies handling of static files and assets.",
         "link": "use-new-sepa-file-camt0530008",
         "publicPreview": "Nov 1, 2025",
         "generalAvailability": "Dec 1, 2025"
@@ -454,7 +454,7 @@
       {
         "Area": "Application features",
         "Title": "Use new Contoso Coffee Demo dataset for Intrastat",
-        "description": "",
+        "description": "This feature provides the ability to run code actions for 'with' expressions at the file, project or workspace level, improving code maintenance and refactoring.",
         "link": "new-contoso-coffee-demo-dataset-intrastat",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -462,7 +462,7 @@
       {
         "Area": "Application features",
         "Title": "Create multiple fixed asset cards",
-        "description": "",
+        "description": "The AL language now supports type testing and casting operators for interfaces. This provides more robust and flexible code when working with interfaces.",
         "link": "create-multiple-fixed-asset-cards",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -470,7 +470,7 @@
       {
         "Area": "Application features",
         "Title": "Print the Audit Trail report",
-        "description": "",
+        "description": "This feature allows developers to extend AL interfaces, increasing the flexibility and reusability of code.",
         "link": "print-audit-trail-report",
         "publicPreview": null,
         "generalAvailability": "Nov 1, 2025"
@@ -478,7 +478,7 @@
       {
         "Area": "Application features",
         "Title": "Use the Account Payable Role Center",
-        "description": "",
+        "description": "Developers can now extend and customize profiles from other extensions. This provides greater flexibility in customizing the user interface.",
         "link": "use-account-payables-administrator-role-center",
         "publicPreview": null,
         "generalAvailability": "Nov 1, 2025"
@@ -486,7 +486,7 @@
       {
         "Area": "Application features",
         "Title": "Calculate excise taxes",
-        "description": "",
+        "description": "Administrators get more flexibility in handling environment updates. This gives you more control over when and how updates are deployed.",
         "link": "calculate-excise-taxes",
         "publicPreview": "Oct 1, 2025",
         "generalAvailability": "May 8, 2026"
@@ -494,7 +494,7 @@
       {
         "Area": "Application features",
         "Title": "Get early access preview versions as a partner",
-        "description": "",
+        "description": "You can now manage per tenant extensions directly from the admin center. This simplifies the administration of your customized solutions.",
         "link": "get-early-access-preview-versions-as-partner",
         "publicPreview": null,
         "generalAvailability": "Oct 15, 2025"
@@ -502,7 +502,7 @@
       {
         "Area": "Application features",
         "Title": "Create more sandbox environments with partner sandbox licenses",
-        "description": "",
+        "description": "This feature allows you to encrypt data at rest using your own customer-managed encryption key. This increases data security and compliance with compliance requirements.",
         "link": "create-more-sandbox-environments-partner-sandbox-licenses",
         "publicPreview": null,
         "generalAvailability": "Nov 5, 2025"
@@ -510,7 +510,7 @@
       {
         "Area": "Application features",
         "Title": "Migrate record links and notes with cloud migration tooling",
-        "description": "",
+        "description": "You can now receive external notifications when job queue entries fail. This ensures that you quickly become aware of problems and can act promptly.",
         "link": "migrate-record-links-notes-cloud-migration-tooling",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -518,7 +518,7 @@
       {
         "Area": "Application features",
         "Title": "Export sandbox environment databases",
-        "description": "",
+        "description": "Administrators can now control partner access per environment, providing greater security and control over who has access to your Business Central instances.",
         "link": "export-sandbox-environment-databases",
         "publicPreview": null,
         "generalAvailability": "Jan 31, 2026"
@@ -526,7 +526,7 @@
       {
         "Area": "Application features",
         "Title": "Migrate to the cloud from any SQL database",
-        "description": "",
+        "description": "You will receive notifications directly in the product when problems occur with job queue background processing. This helps you maintain a stable operation.",
         "link": "migrate-cloud-sql-database",
         "publicPreview": "Mar 2, 2026",
         "generalAvailability": "Apr 1, 2026"
@@ -534,7 +534,7 @@
       {
         "Area": "Application features",
         "Title": "Tenant administrators can set Feature Management switches with an API",
-        "description": "",
+        "description": "This feature provides administrators with a list of all manageable environments for Microsoft Entra apps, simplifying application and permission management.",
         "link": "tenant-administrators-set-feature-management-switches-api",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -542,7 +542,7 @@
       {
         "Area": "Application features",
         "Title": "Consume available Copilot Credits with no extra setup",
-        "description": "",
+        "description": "For customers using Dynamics SL, there is now the option to migrate their data and functionality to the cloud with Business Central.",
         "link": "consume-copilot-credits-no-extra-setup",
         "publicPreview": null,
         "generalAvailability": "Oct 15, 2025"
@@ -550,7 +550,7 @@
       {
         "Area": "Application features",
         "Title": "Cancel running environment update",
-        "description": "",
+        "description": "You can now link to Power Platform to use Copilot Studio messages, expanding your capabilities to automate and improve communications.",
         "link": "cancel-running-environment-update",
         "publicPreview": null,
         "generalAvailability": "Nov 30, 2025"
@@ -558,7 +558,7 @@
       {
         "Area": "Application features",
         "Title": "Use enhanced Financial Reporting",
-        "description": "",
+        "description": "This function allows you to handle several VAT numbers per customer, which is crucial for companies dealing with customers in different countries or regions with varying VAT requirements.",
         "link": "use-enhanced-financial-reporting",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -566,7 +566,7 @@
       {
         "Area": "Application features",
         "Title": "Use the enhanced Power BI app for Projects to analyze project profitability",
-        "description": "",
+        "description": "Business Central helps you achieve your sustainability goals by providing you with tools to track and report on key indicators.",
         "link": "use-enhanced-power-bi-app-projects-analyze-project-profitability",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -574,7 +574,7 @@
       {
         "Area": "Application features",
         "Title": "Demo analytics with new enhanced demo data",
-        "description": "",
+        "description": "The sustainability manager role wall has been improved for easier navigation. This provides an intuitive overview of sustainability-related data and tasks.",
         "link": "demo-analytics-new-enhanced-demo-data",
         "publicPreview": null,
         "generalAvailability": "Nov 15, 2025"
@@ -582,7 +582,7 @@
       {
         "Area": "Application features",
         "Title": "Use the enhanced Power BI Manufacturing app and modernized reports in manufacturing analytics",
-        "description": "",
+        "description": "You can now add attachments when sending electronic documents. This improves the completeness of your digital transactions.",
         "link": "use-enhanced-power-bi-manufacturing-app-modernized-reports-manufacturing-analytics",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -590,7 +590,7 @@
       {
         "Area": "Application features",
         "Title": "Use the enhanced Power BI Finance app to improve your cashflow",
-        "description": "",
+        "description": "This function enables greenhouse gas emissions to be recorded directly from purchase invoices. It is an important step towards more accurate reporting of your carbon footprint.",
         "link": "use-enhanced-power-bi-finance-app-improve-cashflow",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -598,7 +598,7 @@
       {
         "Area": "Application features",
         "Title": "Use the enhanced Inventory Power BI app to forecast future inventory flow",
-        "description": "",
+        "description": "You can now include sustainability entries in your financial reports. This provides an integrated approach to financial and sustainability reporting.",
         "link": "use-enhanced-inventory-power-bi-app-forecast-future-inventory",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -606,7 +606,7 @@
       {
         "Area": "Application features",
         "Title": "Get easier editing of document report layouts with the enhanced Word add-in",
-        "description": "",
+        "description": "This feature allows you to use multiple subcategories under one sustainability account, providing a more detailed classification of sustainability data.",
         "link": "get-easier-editing-document-report-layouts-enhanced-word-add-in",
         "publicPreview": "Mar 15, 2026",
         "generalAvailability": "Apr 1, 2026"
@@ -614,7 +614,7 @@
       {
         "Area": "Application features",
         "Title": "Access open-sourced Power BI apps",
-        "description": "",
+        "description": "Business Central now supports the purchase of CO2 allowances, which is relevant for companies that want to offset their emissions as part of their sustainability strategy.",
         "link": "access-open-sourced-power-bi-apps",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -622,7 +622,7 @@
       {
         "Area": "Application features",
         "Title": "Use drill-back and dynamic dimension names in Power BI apps",
-        "description": "",
+        "description": "You can now track sustainability certificates for both goods and suppliers. This helps ensure that your supply chains meet sustainability requirements.",
         "link": "use-drill-back-dynamic-dimension-names-power-bi-apps",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -630,7 +630,7 @@
       {
         "Area": "Application features",
         "Title": "Add data fields to report layouts using Word add-in",
-        "description": "",
+        "description": "This feature enables internal CO2 fee calculation within the sustainability module. It can help companies internalize the costs of CO2 emissions.",
         "link": "add-data-fields-report-layouts-using-word-add-in",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -638,7 +638,7 @@
       {
         "Area": "Application features",
         "Title": "Use the enhanced Purchasing Power BI app to analyze risk related to vendors",
-        "description": "",
+        "description": "You can now use built-in named formulas in Excel layouts, simplifying the creation of complex reports and analyzes in Excel.",
         "link": "use-enhanced-purchasing-analytics",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -646,7 +646,7 @@
       {
         "Area": "Application features",
         "Title": "Use the enhanced Power BI Sales app and modernized reports in sales analytics",
-        "description": "",
+        "description": "This feature allows you to perform ad hoc analysis on fixed assets, projects and services. It gives you quick and flexible insight into your data.",
         "link": "use-enhanced-sales-analytics",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -654,7 +654,7 @@
       {
         "Area": "Application features",
         "Title": "Deferral reporting enhancements",
-        "description": "",
+        "description": "You can now use embedded Power BI reports directly in Business Central without additional setup. This gives you instant access to powerful business insights.",
         "link": "deferral-reporting-enhancements",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -662,7 +662,7 @@
       {
         "Area": "Application features",
         "Title": "Sort lines by type in sales and purchase postings",
-        "description": "",
+        "description": "This feature gives you access to advanced settings in the Power BI connector, giving you more control over how data is exchanged between Business Central and Power BI.",
         "link": "sort-lines-type-number-sales-purchase-postings",
         "publicPreview": "Oct 1, 2025",
         "generalAvailability": "Oct 1, 2025"
@@ -670,7 +670,7 @@
       {
         "Area": "Application features",
         "Title": "Add more fields and columns by personalizing pages",
-        "description": "",
+        "description": "Access keys with key tips are now available in multiple languages, improving ease of use and accessibility for international users.",
         "link": "add-more-fields-columns-personalizing-pages",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -678,7 +678,7 @@
       {
         "Area": "Application features",
         "Title": "Evaluate the quality of goods and materials",
-        "description": "",
+        "description": "You can now easily drag and drop multiple files into the file upload dialog to attach them. This makes the process of attaching documents faster and more intuitive.",
         "link": "evaluate-quality-incoming-goods-materials",
         "publicPreview": "Nov 16, 2025",
         "generalAvailability": "Apr 1, 2026"
@@ -686,7 +686,7 @@
       {
         "Area": "Application features",
         "Title": "Configure the default calculation for the Calculate Consumption report",
-        "description": "",
+        "description": "This feature allows you to resize columns even when personalization is not enabled. This provides a better visual experience and customization of lists.",
         "link": "configure-default-calculation-calculate-consumption-report",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
@@ -694,7 +694,7 @@
       {
         "Area": "Application features",
         "Title": "Generate a CSRD preparation report",
-        "description": "",
+        "description": "You can now change the data search method in lists, giving you more control over how you search and filter data to find the information you need.",
         "link": "generate-csrd-preparation-report",
         "publicPreview": null,
         "generalAvailability": "Oct 1, 2025"
