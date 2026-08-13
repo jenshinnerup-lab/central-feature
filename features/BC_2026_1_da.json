@@ -1,15 +1,863 @@
 {
   "BusinessCentralVersion": {
-    "Version": "BC 26.1 (DA)",
-    "VersionII": "Business Central 2026 Wave 1 (DA) - April 2026",
+    "Version": "BC 26.0",
+    "VersionII": "Business Central Version 2026 Wave 1",
     "Feature": [
       {
-        "Title": "Plan for udgivelsesbÃ¸lge 2 i 2025",
         "Area": "Applikationsfunktioner",
+        "Title": "KortlÃ¦g nye Dataverse-felter i Business Central",
         "description": "",
-        "link": "planned-features",
+        "link": "map-new-dataverse-fields-business-central",
+        "publicPreview": "1. april 2026",
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "FÃ¥ vareindsigt med avancerede KPI'er og oversigt",
+        "description": "",
+        "link": "get-item-insights-advanced-kpis-summary",
         "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Administrer opgaver fra alle agenter i dedikeret opgaverude",
+        "description": "",
+        "link": "manage-tasks-all-agents-dedicated-task-pane",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Tildel projekt i Expense Agents webapp",
+        "description": "",
+        "link": "assign-project-expense-agent-web-app",
+        "publicPreview": "6. juli 2026",
         "generalAvailability": null
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Opret agentbaserede oplevelser med forbedret MCP-server",
+        "description": "",
+        "link": "create-agentic-experiences-enhanced-mcp-server",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "KÃ¸r flere salgsordreagenter pr. virksomhed med bedre matchning af elementer, relevansfiltrering og strÃ¸mlinet konfiguration",
+        "description": "",
+        "link": "run-multiple-sales-order-agents-per-company-smarter-item-matching-relevance-filtering-streamlined-setup",
+        "publicPreview": null,
+        "generalAvailability": "8. juli 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Hurtigere behandling med kendte afsendere i leverandÃ¸ragent",
+        "description": "",
+        "link": "speed-up-processing-known-senders-payables-agent",
+        "publicPreview": null,
+        "generalAvailability": "aug. 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Forbedr matching af indkÃ¸bsordrer i Payables Agent",
+        "description": "",
+        "link": "improve-purchase-order-matching-payables-agent",
+        "publicPreview": null,
+        "generalAvailability": "aug. 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "PrÃ¸v Payables Agent gratis uden at oprette e-mail",
+        "description": "",
+        "link": "try-payables-agent-free-without-setting-up-email",
+        "publicPreview": null,
+        "generalAvailability": "juli 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Udgiftsagent understÃ¸tter godkendelsesproces",
+        "description": "",
+        "link": "expense-agent-supports-approval-process",
+        "publicPreview": "sept. 2026",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Brug AI-ressourcer til dine Copilot-udvidelser",
+        "description": "",
+        "link": "use-business-central-ai-resources-copilot-features-business-central",
+        "publicPreview": "6. juni 2025",
+        "generalAvailability": "sept. 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Vis avatarer for personer, der oprettere og Ã¦ndrer poster pÃ¥ lister",
+        "description": "",
+        "link": "show-avatars-record-creators-modifiers-lists",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "GennemgÃ¥ indhold, der er genereret af agenter direkte pÃ¥ sider",
+        "description": "",
+        "link": "review-content-generated-agents-directly-pages",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Find mails i postkassen, der er behandlet af Payables Agent",
+        "description": "",
+        "link": "discover-emails-mailbox-that-have-been-processed-payables-agent",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Administrer udgifter i Business Central ved hjÃ¦lp af Udgiftsagent",
+        "description": "",
+        "link": "manage-expenses-business-central-using-expense-agent",
+        "publicPreview": "8. maj 2026",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Registrer udgifter med Udgiftsagent i din mobilapp",
+        "description": "",
+        "link": "capture-expenses-expense-agent-mobile-app",
+        "publicPreview": "1. juli 2026",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "LÃ¥s op for mere Business Central-data med MCP-serverforbedringer",
+        "description": "",
+        "link": "unlock-more-business-central-data-mcp-server-enhancements",
+        "publicPreview": null,
+        "generalAvailability": "12. juni 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Administrer rejserekvisitioner med Udgiftsagent",
+        "description": "",
+        "link": "manage-travel-requisitions-expense-agent",
+        "publicPreview": "sept. 2026",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Brug Udgiftsagent pÃ¥ tysk, dansk, fransk og spansk",
+        "description": "",
+        "link": "use-expense-agent-german-danish-french-spanish-languages",
+        "publicPreview": "1. juli 2026",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Stop alle aktive opgaver for den valgte agent",
+        "description": "",
+        "link": "stop-all-active-tasks-selected-agent",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Kom i gang med klarere brugerkonfigurationskontrolelementer for Tjekkiet",
+        "description": "",
+        "link": "get-started-clearer-user-setup-controls-czechia",
+        "publicPreview": "1. marts 2026",
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Brug CO2-fodaftryk med e-faktureringsformatet OIOUBL",
+        "description": "",
+        "link": "use-carbon-footprint-oioubl-e-invoicing-format",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Brug Betalingspraksis i den britiske lokalisering",
+        "description": "",
+        "link": "use-payment-practices-uk-localization",
+        "publicPreview": null,
+        "generalAvailability": "5. juni 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "AktivÃ©r elektronisk fakturering i Frankrig",
+        "description": "",
+        "link": "enable-electronic-invoicing-france",
+        "publicPreview": "5. juni 2026",
+        "generalAvailability": "juli 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Juster momsperioder i overensstemmelse med Microsofts standarder for Tjekkiet",
+        "description": "",
+        "link": "align-vat-periods-standards-czechia",
+        "publicPreview": "1. marts 2026",
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Tag den nye struktur for ikke-fradragsberettiget moms i brug i Belgien",
+        "description": "",
+        "link": "start-using-new-non-deductible-vat-framework-belgium",
+        "publicPreview": null,
+        "generalAvailability": "sept. 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "AktivÃ©r indlejret Verifactu-tilstand i Spanien",
+        "description": "",
+        "link": "enable-embedded-verifactu-mode-spain",
+        "publicPreview": "1. jan. 2026",
+        "generalAvailability": "sept. 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Brug e-fakturaformater til servicefakturaer i Tyskland",
+        "description": "",
+        "link": "use-e-invoice-formats-service-invoices-germany",
+        "publicPreview": "1. april 2026",
+        "generalAvailability": "8. maj 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Ãndr dokumentets oprindelige momsdato i momsposter for Tjekkiet",
+        "description": "",
+        "link": "change-original-document-vat-date-vat-entries-czechia",
+        "publicPreview": "1. marts 2026",
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Overhold australsk betalingstidsrapporteringsregning",
+        "description": "",
+        "link": "comply-australian-payment-time-reporting-bill",
+        "publicPreview": null,
+        "generalAvailability": "5. juni 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "OverfÃ¸r kladdelinjebeskrivelser til bankkontoudtog for Tjekkiet",
+        "description": "",
+        "link": "transfer-journal-line-descriptions-bank-statements",
+        "publicPreview": "2. marts 2026",
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Juster moms i lokal valuta pÃ¥ salgsdokumenter i Tjekkiet",
+        "description": "",
+        "link": "adjust-vat-local-currency-sales-documents-czechia",
+        "publicPreview": "1. marts 2026",
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "AktivÃ©r fejlfinding af MCP-server til AL",
+        "description": "",
+        "link": "enable-troubleshooting-mcp-server-al",
+        "publicPreview": "1. maj 2026",
+        "generalAvailability": "1. maj 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Giv udviklere mulighed for at definere dataanalysedefinitioner i deres apps",
+        "description": "",
+        "link": "allow-developers-define-data-analysis-definitions-their-apps",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "FÃ¥ mere sikre udgÃ¥ende HTTP-kald som standard",
+        "description": "",
+        "link": "get-more-secure-outgoing-http-calls-default",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Find nye funktioner i ALTool",
+        "description": "",
+        "link": "discover-new-altool-features-al-mcp-server-command-line-agentic-al-coding-commands-working-workspaces",
+        "publicPreview": "3. april 2026",
+        "generalAvailability": "3. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Tilslut dig til og foretag fejlfinding af Business Central agent-sessioner",
+        "description": "",
+        "link": "attach-debug-business-central-agent-sessions",
+        "publicPreview": "3. april 2026",
+        "generalAvailability": "3. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "FÃ¥ mere at vide om, hvad AI-evalueringsvÃ¦rktÃ¸jet nu understÃ¸tter",
+        "description": "",
+        "link": "learn-how-ai-evaluation-tool-now-supports-configurations-multi-languages-copilot-credit-use-agents",
+        "publicPreview": "3. april 2026",
+        "generalAvailability": "3. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "KÃ¸r AL-tests fra Visual Studio Code",
+        "description": "",
+        "link": "run-al-tests-visual-studio-code",
+        "publicPreview": "3. april 2026",
+        "generalAvailability": "3. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Hent symboler fra NuGet-feed",
+        "description": "",
+        "link": "download-symbols-nuget-feed",
+        "publicPreview": "3. april 2026",
+        "generalAvailability": "3. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Styr indholdsfiltrering og XPIA, nÃ¥r Copilot udvides i Business Central",
+        "description": "",
+        "link": "control-content-filtering-xpia-when-extending-copilot-business-central-ai-development-toolkit",
+        "publicPreview": "3. april 2026",
+        "generalAvailability": "3. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "KÃ¸r AL-objekter, og Ã¥bn postreferencer ved hjÃ¦lp af fuldt kvalificerede navne",
+        "description": "",
+        "link": "run-al-objects-open-record-references-using-fully-qualified-names",
+        "publicPreview": "3. april 2026",
+        "generalAvailability": "3. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "TilfÃ¸j standardnavneomrÃ¥de og sortÃ©r using-sÃ¦tninger efter navneomrÃ¥de med nye kodehandlinger",
+        "description": "",
+        "link": "add-default-namespace-sort-using-statements-namespace-new-code-actions",
+        "publicPreview": "3. april 2026",
+        "generalAvailability": "3. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "GÃ¸r apps, der bruger Base64-kodning, hurtigere",
+        "description": "",
+        "link": "make-apps-that-use-base-64-encodings-faster",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Brug AI-agentvÃ¦rktÃ¸jer til AL-udvikling",
+        "description": "",
+        "link": "use-ai-agent-tools-al-development",
+        "publicPreview": "3. april 2026",
+        "generalAvailability": "3. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Evaluer AL-kodeagenter med BC-Bench",
+        "description": "",
+        "link": "evaluate-al-coding-agents-bc-bench",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Brug den nyeste opdatering til Shopify-connectoren",
+        "description": "",
+        "link": "use-latest-update-shopify-connector",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "SÃ¦lg til erhvervskunder pÃ¥ flere Shopify-planer med B2B-virksomhedssynkronisering",
+        "description": "",
+        "link": "sell-business-customers-more-shopify-plans-b2b-company-sync",
+        "publicPreview": null,
+        "generalAvailability": "8. juli 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Tildel brugerdefinerede kollektioner til varer, der eksporteres til Shopify",
+        "description": "",
+        "link": "assign-custom-collections-items-exported-shopify",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "EksportÃ©r varer til Shopify med produktindstillinger baseret pÃ¥ vareattributter",
+        "description": "",
+        "link": "export-items-shopify-product-options-based-item-attributes",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Brug betalingsvaluta, nÃ¥r du opretter salgsdokumenter fra Shopify-ordrer",
+        "description": "",
+        "link": "use-checkout-currency-when-create-sales-documents-shopify-orders",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Synkroniser billeder af produktvarianter mellem Business Central og Shopify",
+        "description": "",
+        "link": "sync-images-product-variants-between-business-central-shopify",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Bruge betalinger med e-dokumentstruktur",
+        "description": "",
+        "link": "use-payments-e-document-framework",
+        "publicPreview": null,
+        "generalAvailability": "aug. 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Angiv en standardtype for e-dokument pÃ¥ leverandÃ¸rskabeloner",
+        "description": "",
+        "link": "set-default-e-document-type-vendor-templates",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Konfigurer servicedeltagere til virksomhedsoplysninger",
+        "description": "",
+        "link": "set-up-service-participants-company-information",
+        "publicPreview": "1. marts 2026",
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "SammenkÃ¦d indgÃ¥ende e-dokumenter med kÃ¸bsfakturaer",
+        "description": "",
+        "link": "link-inbound-e-documents-purchase-invoices",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Brug kÃ¸bskladdesiden til at forhÃ¥ndsvise Peppol elektroniske fakturaer",
+        "description": "",
+        "link": "use-purchase-draft-page-preview-peppol-electronic-invoices",
+        "publicPreview": "aug. 2026",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Brug selvfakturerede fakturaer",
+        "description": "",
+        "link": "use-self-billed-invoices",
+        "publicPreview": "1. april 2026",
+        "generalAvailability": "5. juni 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Beregn afgifter pÃ¥ plast og sukker",
+        "description": "",
+        "link": "calculate-taxes-plastic-sugar",
+        "publicPreview": "1. april 2026",
+        "generalAvailability": "juli 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Administrer medarbejderudgifter ved hjÃ¦lp af udgiftsrapporter",
+        "description": "",
+        "link": "manage-employee-expenses-using-expense-reports",
+        "publicPreview": "8. maj 2026",
+        "generalAvailability": "okt. 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "AktivÃ©r metoder til accelereret afskrivning for anlÃ¦gsaktiver",
+        "description": "",
+        "link": "enable-accelerated-depreciation-methods-fixed-assets",
+        "publicPreview": "5. juni 2026",
+        "generalAvailability": "okt. 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Reducer den tid, der bruges pÃ¥ tilbagevendende fakturering i abonnementsfakturering",
+        "description": "",
+        "link": "reduce-time-spent-recurring-invoicing-subscription-billing",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Beregn A-skat for leverandÃ¸rer",
+        "description": "",
+        "link": "calculate-withholding-taxes-vendors",
+        "publicPreview": "1. april 2026",
+        "generalAvailability": "okt. 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Beregn punktafgifter",
+        "description": "",
+        "link": "calculate-excise-taxes",
+        "publicPreview": "1. okt. 2025",
+        "generalAvailability": "8. maj 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "AktivÃ©r investeringsboost for anlÃ¦gsaktiver",
+        "description": "",
+        "link": "enable-investment-boost-fixed-assets",
+        "publicPreview": null,
+        "generalAvailability": "8. maj 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Administrer databaseindeksforbrug og omkostninger pr. virksomhed",
+        "description": "",
+        "link": "manage-database-index-usage-cost-per-company",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "KÃ¸r genimplementeringsprojekter ved hjÃ¦lp af cloudmigreringsvÃ¦rktÃ¸jet",
+        "description": "",
+        "link": "run-reimplementation-projects-using-cloud-migration-tool",
+        "publicPreview": "juni 2026",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Migrer til cloudmiljÃ¸et fra en hvilken som helst SQL-database",
+        "description": "",
+        "link": "migrate-cloud-sql-database",
+        "publicPreview": "2. marts 2026",
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Overhold de lokale krav til dataopbevaring i Italien",
+        "description": "",
+        "link": "local-data-residency-italian-environments",
+        "publicPreview": null,
+        "generalAvailability": "juni 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Upload, installÃ©r og administrer PTE'er i Administration",
+        "description": "",
+        "link": "upload-install-manage-ptes-admin-center",
+        "publicPreview": null,
+        "generalAvailability": "7. juli 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "GennemgÃ¥ bruger- og gruppetilladelser pÃ¥ tvÃ¦rs af apps",
+        "description": "",
+        "link": "audit-user-group-permissions-across-apps",
+        "publicPreview": null,
+        "generalAvailability": "1. maj 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Opret forbindelse fra AI-agenter til Administration via MCP-server",
+        "description": "",
+        "link": "connect-ai-agents-admin-center-through-mcp-server",
+        "publicPreview": "1. april 2026",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Overhold lokale krav til dataopbevaring i Polen",
+        "description": "",
+        "link": "local-data-residency-polish-environments",
+        "publicPreview": null,
+        "generalAvailability": "juni 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Bliv i arbejdsflowet med opdateret Outlook-integration",
+        "description": "",
+        "link": "stay-work-updated-outlook-integration",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Forbedret Power BI-app til abonnementsfakturering",
+        "description": "",
+        "link": "enhanced-subscription-billing-power-bi-app",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Oplev forbedringer af finansiel rapportering",
+        "description": "",
+        "link": "financial-reporting-enhancements",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Brug nye API'er til analyse af godkendelsesworkflow for revisorer og it-medarbejdere",
+        "description": "",
+        "link": "use-new-apis-analyzing-approval-workflows-auditors-it-staff",
+        "publicPreview": null,
+        "generalAvailability": "14. juni 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Brug de forbedrede og hurtigere rapporter til analyse af periodiseringer og rÃ¥balancer",
+        "description": "",
+        "link": "use-enhanced-faster-reports-analysis-deferrals-trial-balances",
+        "publicPreview": null,
+        "generalAvailability": "1. maj 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "AnalysÃ©r kundeloyalitet og andre salgsscenarier",
+        "description": "",
+        "link": "analyze-customer-loyalty-other-sales-scenarios",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Brug nye API'er til analyse af tilladelser for revisorer og it-medarbejdere",
+        "description": "",
+        "link": "use-new-apis-analyzing-permissions-auditors-it-staff",
+        "publicPreview": null,
+        "generalAvailability": "14. juni 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "GÃ¸r det nemmere at redigere rapportlayout med det forbedrede Word-tilfÃ¸jelsesprogram",
+        "description": "",
+        "link": "get-easier-editing-document-report-layouts-enhanced-word-add-in",
+        "publicPreview": "15. marts 2026",
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Modernisering af analyserapporter for lager",
+        "description": "",
+        "link": "modernizing-analytical-reports-inventory",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Angiv standardsprog for dokumenter pÃ¥ virksomhedsniveau",
+        "description": "",
+        "link": "set-default-language-documents-company-level",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Vis analyse med forbedrede demodata",
+        "description": "",
+        "link": "enhanced-demo-data-sales-purchasing-fixed-assets-analytics",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Styr livscyklussen for rapportlayouts",
+        "description": "",
+        "link": "control-lifecycle-report-layouts",
+        "publicPreview": null,
+        "generalAvailability": "1. maj 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "AnalysÃ©r underleverandÃ¸rarbejde med den forbedrede Power BI-app til produktion",
+        "description": "",
+        "link": "analyze-subcontracting-enhanced-manufacturing-power-bi-app",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Brug nye API'er til at hente PDF'en af en dokumentrapport",
+        "description": "",
+        "link": "use-new-apis-getting-pdf-document-report",
+        "publicPreview": null,
+        "generalAvailability": "1. juni 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Se fordelene ved understÃ¸ttelse af ekstern lagring til vedhÃ¦ftede dokumenter",
+        "description": "",
+        "link": "external-storage-support-document-attachments",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Opret kontraktserviceordrer med indstillingen Ãn servicevarelinje/ordre",
+        "description": "",
+        "link": "create-contract-service-orders-respect-one-service-item-lineorder-setting",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "BogfÃ¸r kÃ¸bsfakturaer for direkte leveringer uafhÃ¦ngigt af relaterede salgsfakturaer",
+        "description": "",
+        "link": "post-purchase-invoices-drop-shipments-independently-related-sales-invoices",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Brug datoformler til at styre tilladte bogfÃ¸ringsperioder",
+        "description": "",
+        "link": "use-date-formulas-control-allowed-posting-periods",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Send bogfÃ¸rte salgsforsendelser og returkvitteringer via mail",
+        "description": "",
+        "link": "send-posted-sales-shipments-return-receipts-email",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Filtrer modtagelses- og forsendelseslinjer for hurtigt at finde dokumenter, du vil fakturere",
+        "description": "",
+        "link": "filter-receipt-shipment-lines-quickly-find-documents-want-invoice",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "SammenkÃ¦d indkÃ¸bsfakturaer med flere ordre- og modtagelseslinjer",
+        "description": "",
+        "link": "match-purchase-invoices-multiple-order-receipt-lines",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Fortryd direkte leverancer, nÃ¥r salgs- og kÃ¸bsdokumenter ikke er faktureret",
+        "description": "",
+        "link": "reverse-drop-shipments-when-sales-purchase-documents-arent-invoiced",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Opret kÃ¸bsrekvisitioner til kontakter",
+        "description": "",
+        "link": "create-purchase-quotes-contacts",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "VÃ¦lg planlÃ¦gningsfunktionsmÃ¥de for varer uden SKU'er pÃ¥ en placering",
+        "description": "",
+        "link": "choose-planning-behavior-items-without-skus-at-location",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Godkend rekvisitionskladder og varekladder",
+        "description": "",
+        "link": "approve-requisition-worksheets-item-journals",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Opret indkÃ¸bsordrer fra direkte leverancer",
+        "description": "",
+        "link": "create-purchase-orders-drop-shipments",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Opleve forbedret brugervenlighed i produktion",
+        "description": "",
+        "link": "experience-improved-usability-manufacturing",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Brug funktioner i underleverandÃ¸rarbejde i produktionsprocesser",
+        "description": "",
+        "link": "use-subcontracting-capabilities-production-processes",
+        "publicPreview": null,
+        "generalAvailability": "8. juli 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Evaluer kvaliteten af varer og materialer",
+        "description": "",
+        "link": "evaluate-quality-incoming-goods-materials",
+        "publicPreview": "16. nov. 2025",
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "FÃ¸j billeder til varevarianter for at skelne mellem produktvalg",
+        "description": "",
+        "link": "add-pictures-item-variants-differentiate-product-options",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Definere vareattributter for varevarianter",
+        "description": "",
+        "link": "define-item-attributes-item-variants",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "FÃ¸j feltet Beskrivelse 2 til forskellige sider for at fÃ¥ mere indsigt",
+        "description": "",
+        "link": "add-description-2-field-various-pages-gain-more-insight",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Brug nye API'er i Sustainability for bedre integration",
+        "description": "",
+        "link": "use-new-apis-sustainability-better-integration",
+        "publicPreview": "1. april 2026",
+        "generalAvailability": "5. juni 2026"
+      },
+      {
+        "Area": "Applikationsfunktioner",
+        "Title": "Brug nye rapportlayouts for salgsdokumenter, der viser dit CO2-fodaftryk",
+        "description": "",
+        "link": "use-new-sales-document-reports-layout-that-show-carbon-footprint",
+        "publicPreview": null,
+        "generalAvailability": "1. april 2026"
       }
     ]
   }

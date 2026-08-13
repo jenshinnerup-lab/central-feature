@@ -1,0 +1,1040 @@
+{
+  "BusinessCentralVersion": {
+    "Version": "BC 2023 Wave 1",
+    "VersionII": "Business Central Version 2023 Wave 1",
+    "Feature": [
+      {
+        "Area": "Application features",
+        "Title": "Get started with more sample Power Automate templates and Power Apps",
+        "description": "",
+        "link": "get-started-more-sample-power-automate-templates-power-apps",
+        "publicPreview": "May 15, 2023",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use business events to notify and trigger external systems",
+        "description": "",
+        "link": "use-business-events-notify-trigger-external-systems",
+        "publicPreview": "Jun 1, 2023",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Application features",
+        "Title": "Select a Dataverse environment used for actions based on Power Automate flows",
+        "description": "",
+        "link": "select-dataverse-environment-used-actions-based-power-automate-flows",
+        "publicPreview": "Mar 2, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use Power Automate to post adaptive card or link to Business Central record",
+        "description": "",
+        "link": "use-power-automate-post-adaptive-card-or-link-business-central-record",
+        "publicPreview": "Mar 15, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "New approval workflow experience with Power Automate templates",
+        "description": "",
+        "link": "new-approval-workflow-experience-templates-power-automate",
+        "publicPreview": "Apr 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Turn off event-based sync for specific integration table mappings",
+        "description": "",
+        "link": "turn-off-event-based-synch-specific-integration-table-mappings",
+        "publicPreview": "Apr 4, 2023",
+        "generalAvailability": "May 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Connect to Dataverse despite different currencies",
+        "description": "",
+        "link": "connect-dataverse-when-business-central-local-currency-if-different-dataverse-base-transaction-currency",
+        "publicPreview": null,
+        "generalAvailability": "Jun 2, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use realized gain or loss entries to reverse ledger entries",
+        "description": "",
+        "link": "reverse-customer-vendor-ledger-entry-realized-gain-or-loss-entry",
+        "publicPreview": "Sep 1, 2023",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Application features",
+        "Title": "Add more columns to pages for better insight",
+        "description": "",
+        "link": "add-more-columns-through-personalization-gain-more-insight-more-pages",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Avoid document number errors when you post item journals",
+        "description": "",
+        "link": "avoid-document-number-errors-when-post-item-journals",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Bin Code and Zone Code fields are dynamically shown on warehouse documents",
+        "description": "",
+        "link": "bin-code-zone-code-fields-are-dynamically-shown-warehouse-documents",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Catalog items use standard number series, can include in blanket sales orders",
+        "description": "",
+        "link": "catalog-items-use-standard-number-series-be-included-blanket-sales-orders",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Define an invoice posting policy for various users",
+        "description": "",
+        "link": "define-invoice-posting-policy-various-users",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Define content of created warehouse documents with filters",
+        "description": "",
+        "link": "define-content-created-warehouse-documents-filters",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Demo tool and data for warehouse and inventory scenarios",
+        "description": "",
+        "link": "demo-tool-data-warehouse-inventory-scenarios",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Easier to create opening balances for item tracked inventory",
+        "description": "",
+        "link": "easier-create-opening-balances-item-tracked-inventory",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Easier to set up price synchronization for Shopify",
+        "description": "",
+        "link": "easier-setup-price-synchronization-shopify",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Intercompany posting provides a one-stop-shop setup experience",
+        "description": "",
+        "link": "intercompany-posting-setup-supports-more-transaction-types-streamlines-flows",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Navigate easier between warehouse and inventory documents",
+        "description": "",
+        "link": "navigate-easier-between-warehouse-inventory-documents",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Post multiple transfer orders at the same time",
+        "description": "",
+        "link": "post-multiple-transfer-orders-at-same-time",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Preview item journals and 20 other journals and documents before posting",
+        "description": "",
+        "link": "preview-item-journals-before-posting",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Review general ledger accounts faster",
+        "description": "",
+        "link": "review-general-ledger-accounts-faster",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Set default dimensions on locations, inventory documents, and journals",
+        "description": "",
+        "link": "set-default-dimensions-locations-inventory-documents-journals",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Set up and sync master data across companies",
+        "description": "",
+        "link": "set-up-sync-master-data-across-companies",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Ship and receive non-inventory items on warehouse documents",
+        "description": "",
+        "link": "ship-receive-non-inventory-items-warehouse-documents",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Shopify connector becomes extensible",
+        "description": "",
+        "link": "shopify-connector-becomes-extensible",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Undo transfer shipments",
+        "description": "",
+        "link": "undo-transfer-shipments",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Usability improvements to Financial Reporting pages",
+        "description": "",
+        "link": "usability-improvements-financial-reporting-pages",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Usability improves for item tracking codes visibility, creation of new entries",
+        "description": "",
+        "link": "usability-improves-item-tracking-codes-visibility-creation-new-entries",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Usability improves for transfer order select multiple items, mandatory fields",
+        "description": "",
+        "link": "usability-improves-transfer-order-select-multiple-items-mandatory-fields",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Usability improves for warehouse, inventory, and tracking areas",
+        "description": "",
+        "link": "usability-improves-warehouse-inventory-tracking-areas",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use advanced warehouse functionality with minimal complexity",
+        "description": "",
+        "link": "use-advanced-warehouse-functionality-minimal-complexity",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use enhanced mail merge with Word templates",
+        "description": "",
+        "link": "use-enhanced-mail-merge-word-templates",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use statistical accounts to collect data for financial reports",
+        "description": "",
+        "link": "use-statistical-accounts-collect-data-financial-reports",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Usability improves for Shopify Connector",
+        "description": "",
+        "link": "usability-improves-shopify-connector",
+        "publicPreview": "Mar 15, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use attachments from document lines while sending emails",
+        "description": "",
+        "link": "use-attachments-document-lines-while-sending-emails",
+        "publicPreview": null,
+        "generalAvailability": "Jun 2, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Synchronize returns and refunds from Shopify",
+        "description": "",
+        "link": "synchronize-returns-refunds-shopify",
+        "publicPreview": null,
+        "generalAvailability": "Jun 12, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Create and resume interactions using guided experience",
+        "description": "",
+        "link": "create-resume-interactions-using-guided-experience",
+        "publicPreview": null,
+        "generalAvailability": "Jul 14, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Copy links when posting general journals",
+        "description": "",
+        "link": "copy-links-when-posting-general-journals",
+        "publicPreview": null,
+        "generalAvailability": "Sep 11, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Get more info about customer ledger entries when posting",
+        "description": "",
+        "link": "get-reference-information-customer-ledger-entry-through-posting",
+        "publicPreview": null,
+        "generalAvailability": "Sep 11, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Drive sales with AI-generated product descriptions",
+        "description": "",
+        "link": "drive-sales-ai-generated-product-descriptions",
+        "publicPreview": "Apr 3, 2023",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Application features",
+        "Title": "Bulk release of CZ documents - Czechia",
+        "description": "",
+        "link": "bulk-release-cz-documents--czechia",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Find posted and non-posted CZ document lines in search - Czechia",
+        "description": "",
+        "link": "find-posted-non-posted-cz-document-lines-search--czechia",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Modern Action Bar in CZ localization apps - Czechia",
+        "description": "",
+        "link": "modern-action-bar-cz-localization-apps--czechia",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "New blanket purchase order report in CZ design - Czechia",
+        "description": "",
+        "link": "new-blanket-purchase-order-report-cz-design--czechia",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Replace VAT Date CZ with VAT Reporting Date - Czechia",
+        "description": "",
+        "link": "replace-vat-date-cz-vat-reporting-date--czechia",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Save time with automatic account codes",
+        "description": "",
+        "link": "automatic-account-codes",
+        "publicPreview": "Apr 1, 2023",
+        "generalAvailability": "May 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Swedish localization delivered as extension",
+        "description": "",
+        "link": "swedish-localization-app--delocalization",
+        "publicPreview": "Apr 1, 2023",
+        "generalAvailability": "May 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Andorra",
+        "description": "",
+        "link": "countryregional-expansion--andorra",
+        "publicPreview": "May 1, 2023",
+        "generalAvailability": "Jun 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Guernsey",
+        "description": "",
+        "link": "countryregional-expansion--guernsey",
+        "publicPreview": "May 1, 2023",
+        "generalAvailability": "Jun 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Isle of Man",
+        "description": "",
+        "link": "countryregional-expansion--isle-man",
+        "publicPreview": "May 1, 2023",
+        "generalAvailability": "Jun 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Jersey",
+        "description": "",
+        "link": "countryregional-expansion--jersey",
+        "publicPreview": "May 1, 2023",
+        "generalAvailability": "Jun 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Liechtenstein",
+        "description": "",
+        "link": "countryregional-expansion--liechtenstein",
+        "publicPreview": "May 1, 2023",
+        "generalAvailability": "Jun 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - San Marino",
+        "description": "",
+        "link": "countryregional-expansion--san-marino",
+        "publicPreview": "May 1, 2023",
+        "generalAvailability": "Jun 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Armenia",
+        "description": "",
+        "link": "countryregional-expansion--armenia",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Azerbaijan",
+        "description": "",
+        "link": "countryregional-expansion--azerbaijan",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Bahamas",
+        "description": "",
+        "link": "countryregional-expansion--bahamas",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Bermuda",
+        "description": "",
+        "link": "countryregional-expansion--bermuda",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Bolivia",
+        "description": "",
+        "link": "countryregional-expansion--bolivia",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - British Virgin Islands",
+        "description": "",
+        "link": "countryregional-expansion--british-virgin-islands",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Cambodia",
+        "description": "",
+        "link": "countryregional-expansion--cambodia",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Cameroon",
+        "description": "",
+        "link": "countryregional-expansion--cameroon",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Cayman Islands",
+        "description": "",
+        "link": "countryregional-expansion--cayman-islands",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Ethiopia",
+        "description": "",
+        "link": "countryregional-expansion--ethiopia",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Fiji",
+        "description": "",
+        "link": "countryregional-expansion--fiji",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Ghana",
+        "description": "",
+        "link": "countryregional-expansion--ghana",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Kazakhstan",
+        "description": "",
+        "link": "countryregional-expansion--kazakhstan",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Kosovo",
+        "description": "",
+        "link": "countryregional-expansion--kosovo",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Macau (SAR China)",
+        "description": "",
+        "link": "countryregional-expansion--macau-sar-china",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Madagascar",
+        "description": "",
+        "link": "countryregional-expansion--madagascar",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Malawi",
+        "description": "",
+        "link": "countryregional-expansion--malawi",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Mozambique",
+        "description": "",
+        "link": "countryregional-expansion--mozambique",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Namibia",
+        "description": "",
+        "link": "countryregional-expansion--namibia",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Nepal",
+        "description": "",
+        "link": "countryregional-expansion--nepal",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Sao Tome & Principe",
+        "description": "",
+        "link": "countryregional-expansion--sao-tome-principe",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Senegal",
+        "description": "",
+        "link": "countryregional-expansion--senegal",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Tanzania",
+        "description": "",
+        "link": "countryregional-expansion--tanzania",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Uganda",
+        "description": "",
+        "link": "countryregional-expansion--uganda",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Country/regional expansion - Zambia",
+        "description": "",
+        "link": "countryregional-expansion--zambia",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Supporting more countries and regions",
+        "description": "",
+        "link": "supporting-more-countriesregions",
+        "publicPreview": "May 1, 2023",
+        "generalAvailability": "Jul 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "AL Explorer and AL Home in Visual Studio Code AL extension",
+        "description": "",
+        "link": "al-explorer-al-home-visual-studio-code-al-extension",
+        "publicPreview": "Feb 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Better InStream support",
+        "description": "",
+        "link": "better-instream-support",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Code action for removing ApplicationArea on fields when same as page level",
+        "description": "",
+        "link": "code-action-removing-applicationarea-fields-when-same-as-page-level",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Code navigability on event subscribers",
+        "description": "",
+        "link": "code-navigability-event-subscribers",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Control database locking behavior",
+        "description": "",
+        "link": "control-database-locking-behavior",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Define regional settings per report using a region property",
+        "description": "",
+        "link": "define-regional-settings-per-report-using-region-property",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Developers can write faster install code",
+        "description": "",
+        "link": "developers-write-faster-install-code",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Folder paths for control add-in resources",
+        "description": "",
+        "link": "folder-paths-control-add-in-resources",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Go to implementation for interfaces",
+        "description": "",
+        "link": "go-implementation-interfaces",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Improved compiler resource handling and faster code analyzers",
+        "description": "",
+        "link": "improved-compiler-resource-handling-faster-code-analyzers",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "IntelliSense indicator for temporary tables",
+        "description": "",
+        "link": "intellisense-indicator-temporary-tables",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "IntelliSense suggestion for enum ordinal value",
+        "description": "",
+        "link": "intellisense-suggestion-enum-ordinal-value",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Iterating with foreach on Text variables",
+        "description": "",
+        "link": "iterating-foreach-text-variables",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "New rule to enforce pragma warning specifying a disabled rule",
+        "description": "",
+        "link": "new-rule-enforce-pragma-warning-disable-specifying-disabled-rule",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "New telemetry events from validating uploaded PTEs",
+        "description": "",
+        "link": "new-telemetry-events-validating-uploaded-ptes",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Provide Title and custom actions to Error dialogs",
+        "description": "",
+        "link": "provide-title-custom-actions-error-dialogs",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Publishers can use existing custom licensing while moving to AppSource transactability",
+        "description": "",
+        "link": "publishers-use-existing-custom-licensing-while-moving-appsource-transactability",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Support for multiple .al package cache paths for symbols",
+        "description": "",
+        "link": "support-multiple-al-package-cache-symbols-paths",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Support for overriding the PublicWebBaseURL server setting on-premises",
+        "description": "",
+        "link": "support-overriding-publicwebbaseurl-server-setting-on-premise",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "URLs in includeRuleSets",
+        "description": "",
+        "link": "urls-includerulesets",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Deploy hotfixes for older AppSource apps",
+        "description": "",
+        "link": "hotfix-older-appsource-apps",
+        "publicPreview": "Mar 13, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "AL-Go for GitHub modern DevOps for partners",
+        "description": "",
+        "link": "al-go-github--modern-devops-partners",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 3, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Attach AL debugger to active session or next session",
+        "description": "",
+        "link": "attach-al-debugger-active-session-or-next-session-specific-user",
+        "publicPreview": "Apr 4, 2023",
+        "generalAvailability": "Apr 4, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Feature Management updates for 2023 release wave 1",
+        "description": "",
+        "link": "feature-management-updates-2023-release-wave-1",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Delegated adminâs job queue entries are run by user",
+        "description": "",
+        "link": "delegated-admins-job-queue-entries-are-run-user",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Get an improved cloud migration status overview",
+        "description": "",
+        "link": "get-improved-cloud-migration-status-overview",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Manage user permissions using security groups",
+        "description": "",
+        "link": "manage-user-permissions-using-security-groups",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Get telemetry on cloud migration setup and replication runs",
+        "description": "",
+        "link": "get-telemetry-cloud-migration-setup-replication-runs",
+        "publicPreview": null,
+        "generalAvailability": "May 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Migrate more companies per replication run",
+        "description": "",
+        "link": "migrate-more-companies-per-replication-run",
+        "publicPreview": null,
+        "generalAvailability": "May 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Audit file export eases SAF-T compliance",
+        "description": "",
+        "link": "audit-file-export",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Non-deductible, partly deductible VAT expands functionality",
+        "description": "",
+        "link": "non-deductible-partly-deductible-vat-expands-functionality",
+        "publicPreview": "May 1, 2023",
+        "generalAvailability": "May 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Create engaging partner-specific trial and onboarding experiences",
+        "description": "",
+        "link": "create-engaging-partner-specific-trial-onboarding-experiences",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Experience enhanced adaptive cards in Teams",
+        "description": "",
+        "link": "experience-enhanced-adaptive-cards-teams",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Configure security controls for Teams cards",
+        "description": "",
+        "link": "configure-security-controls-teams-cards",
+        "publicPreview": null,
+        "generalAvailability": "Apr 3, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Easily set up access with Microsoft 365 licenses",
+        "description": "",
+        "link": "easily-set-up-access-365-licenses",
+        "publicPreview": null,
+        "generalAvailability": "Apr 3, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Analyze, group, and pivot data on list pages using multiple tabs",
+        "description": "",
+        "link": "analyze-group-pivot-data-list-pages-using-multiple-tabs",
+        "publicPreview": "Apr 1, 2023",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Application features",
+        "Title": "Allow application and tenant databases to differ in collation",
+        "description": "",
+        "link": "allow-application-tenant-databases-differ-collation",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Business Central server runs on .NET 6",
+        "description": "",
+        "link": "business-central-server-runs-net-6",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Control max time a task can run on the service",
+        "description": "",
+        "link": "control-max-time-task-run-service",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "New telemetry events and data",
+        "description": "",
+        "link": "new-telemetry-events-data",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Performance - OData calls are now faster",
+        "description": "",
+        "link": "performance--odata-calls-are-now-faster",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Performance - Opening pages is faster",
+        "description": "",
+        "link": "performance--opening-pages-faster",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Search in company data",
+        "description": "",
+        "link": "search-company-data",
+        "publicPreview": "Apr 1, 2023",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Application features",
+        "Title": "Drag and drop files onto the file upload dialog",
+        "description": "",
+        "link": "drag-drop-files-onto-file-upload-dialog",
+        "publicPreview": "Jan 19, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Access actions and navigation menu efficiently with keyboard",
+        "description": "",
+        "link": "access-actions-navigation-menu-efficiently-keyboard",
+        "publicPreview": "Feb 10, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Get more productivity out of an optimized Action Bar on all app pages",
+        "description": "",
+        "link": "get-more-productivity-out-optimized-action-bar-all-app-pages",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Tailor the action bar to fit your needs on document lines",
+        "description": "",
+        "link": "tailor-action-bar-fit-needs-document-lines",
+        "publicPreview": "Mar 1, 2023",
+        "generalAvailability": "Apr 1, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Improved alignment of headers in statistics pages",
+        "description": "",
+        "link": "improved-alignment-headers-statistics-pages",
+        "publicPreview": "Feb 1, 2023",
+        "generalAvailability": "Apr 3, 2023"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Fix errors yourself with actionable error messages",
+        "description": "",
+        "link": "get-unblocked-using-actionable-error-messages-select-application-areas",
+        "publicPreview": "Apr 1, 2023",
+        "generalAvailability": "Jul 7, 2023"
+      }
+    ]
+  }
+}

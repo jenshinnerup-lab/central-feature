@@ -1,0 +1,672 @@
+{
+  "BusinessCentralVersion": {
+    "Version": "BC 25.1",
+    "VersionII": "Business Central Version 2024 Wave 1",
+    "Feature": [
+      {
+        "Area": "Application features",
+        "Title": "Use synthetic relationships to expose more Business Central data in Dataverse",
+        "description": "",
+        "link": "use-virtual-tables-expose-more-business-central-data-dataverse",
+        "publicPreview": "Mar 4, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Improve approval processes via Power Automate",
+        "description": "",
+        "link": "improve-approval-processes-via-power-automate",
+        "publicPreview": "Apr 2, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Add table and field mappings to existing integration tables",
+        "description": "",
+        "link": "add-table-field-mappings-existing-integration-tables",
+        "publicPreview": "Apr 5, 2024",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Application features",
+        "Title": "Find a matching record in a Power Automate flow",
+        "description": "",
+        "link": "find-matching-record-power-automate",
+        "publicPreview": "Apr 2, 2024",
+        "generalAvailability": "May 6, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Archive projects",
+        "description": "",
+        "link": "archive-projects",
+        "publicPreview": "Mar 1, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Usability improves for service and projects",
+        "description": "",
+        "link": "usability-improves-service-projects",
+        "publicPreview": "Mar 1, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Specify dimensions on posted entries applications with realized gains or losses",
+        "description": "",
+        "link": "specify-dimensions-posted-entries-applications-realized-gains-or-losses",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use deferral codes in purchase and sales journals",
+        "description": "",
+        "link": "use-deferral-codes-purchase-sales-journals",
+        "publicPreview": "Mar 1, 2024",
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Manage subscription billing and revenue and expense recognition",
+        "description": "",
+        "link": "manage-subscription-billing-revenue-expense-recognition",
+        "publicPreview": "Sep 2, 2024",
+        "generalAvailability": "Oct 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Integrate Field Service and Business Central",
+        "description": "",
+        "link": "manage-work-orders-field-service-invoice-them-business-central",
+        "publicPreview": "Mar 4, 2024",
+        "generalAvailability": "Apr 5, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Define a service invoice posting policy for various users",
+        "description": "",
+        "link": "define-service-invoice-posting-policy-various-users",
+        "publicPreview": "Mar 1, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Manage document attachments in service items and documents",
+        "description": "",
+        "link": "manage-document-attachments-service-items-documents",
+        "publicPreview": "Mar 2, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Define default location for project or project phase",
+        "description": "",
+        "link": "define-default-location-project-or-project-phase",
+        "publicPreview": "Mar 1, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Block items or variants from service transactions",
+        "description": "",
+        "link": "block-item-item-variant-or-service-item-being-used-service-management-transactions",
+        "publicPreview": "Mar 1, 2024",
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Connect Business Central with Shopify B2B",
+        "description": "",
+        "link": "connect-business-central-shopify-b2b",
+        "publicPreview": "Mar 1, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Set up financial consolidation runs more efficiently",
+        "description": "",
+        "link": "set-up-financial-consolidation-runs-more-efficiently",
+        "publicPreview": "Mar 1, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use Excel reports for consolidation and fixed assets",
+        "description": "",
+        "link": "use-excel-reports-consolidation-fixed-assets",
+        "publicPreview": "Sep 2, 2024",
+        "generalAvailability": "Oct 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Include multiline texts in configuration packages",
+        "description": "",
+        "link": "export-import-multiline-text-using-configuration-packages",
+        "publicPreview": "Mar 4, 2024",
+        "generalAvailability": "Apr 5, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Simpler Shopify connection",
+        "description": "",
+        "link": "simpler-shopify-connection",
+        "publicPreview": "Mar 2, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Enable sustainability features for integrations with APIs",
+        "description": "",
+        "link": "enable-sustainability-features-integrations-apis",
+        "publicPreview": "Jun 1, 2024",
+        "generalAvailability": "Jul 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Correct errors in service invoices",
+        "description": "",
+        "link": "correct-errors-service-invoices",
+        "publicPreview": "Mar 1, 2024",
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Prevent editing number series on service documents, cards",
+        "description": "",
+        "link": "prevent-editing-number-series-service-documents-cards",
+        "publicPreview": "Mar 2, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Improve accuracy with general ledger account revaluation",
+        "description": "",
+        "link": "use-general-ledger-account-revaluation-more-accurate-financial-statements",
+        "publicPreview": "Mar 1, 2024",
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Allow lines with amounts of zero on recurring general journals",
+        "description": "",
+        "link": "allow-lines-amounts-zero-recurring-general-journals",
+        "publicPreview": "Mar 1, 2024",
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Be more productive when entering time sheets",
+        "description": "",
+        "link": "get-more-productive-while-entering-time-sheets",
+        "publicPreview": "Mar 4, 2024",
+        "generalAvailability": "Apr 5, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Be more productive when approving time sheets",
+        "description": "",
+        "link": "get-more-productive-while-approving-time-sheets",
+        "publicPreview": "Mar 4, 2024",
+        "generalAvailability": "Apr 5, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Automate the reminders process in collections",
+        "description": "",
+        "link": "automate-reminders-process-collections",
+        "publicPreview": "Mar 1, 2024",
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use package numbers as item tracking dimensions",
+        "description": "",
+        "link": "package-numbers-physical-inventory-lines-work-like-other-item-tracking-dimensions",
+        "publicPreview": "Mar 2, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Create projects you can invoice to multiple customers",
+        "description": "",
+        "link": "create-projects-that-be-invoiced-multiple-customers",
+        "publicPreview": "Mar 1, 2024",
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Assign salesperson to customer ship-to addresses",
+        "description": "",
+        "link": "assign-salesperson-customer-ship-to-addresses",
+        "publicPreview": "Mar 4, 2024",
+        "generalAvailability": "Apr 5, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "View incoming documents in archived quotes and orders",
+        "description": "",
+        "link": "view-incoming-documents-archived-quotes-orders",
+        "publicPreview": "Mar 4, 2024",
+        "generalAvailability": "Apr 5, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Assemble to project",
+        "description": "",
+        "link": "assemble-project",
+        "publicPreview": "Mar 1, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Invoice a customer for multiple projects",
+        "description": "",
+        "link": "invoice-customer-multiple-projects",
+        "publicPreview": "Mar 1, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use new Excel layouts for 35 selected reports",
+        "description": "",
+        "link": "use-new-excel-layouts-35-selected-reports",
+        "publicPreview": "Mar 4, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use standard terminology for project management",
+        "description": "",
+        "link": "use-standard-terminology-project-management",
+        "publicPreview": "Mar 1, 2024",
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "See improved usability for warehouse and inventory",
+        "description": "",
+        "link": "usability-improves-warehouse-inventory",
+        "publicPreview": "Mar 2, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Ensure accurate inventory valuation by controlling cost adjustment",
+        "description": "",
+        "link": "ensure-accurate-inventory-valuation-controlling-cost-adjustment",
+        "publicPreview": "Mar 2, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use a default quantity of 1 for accounts on documents",
+        "description": "",
+        "link": "use-default-quantity-1-accounts-documents",
+        "publicPreview": "Sep 6, 2024",
+        "generalAvailability": "Oct 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use a new role center for collection management",
+        "description": "",
+        "link": "use-new-rolecenter-collection-management",
+        "publicPreview": "Mar 1, 2024",
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use currencies when posting employee transactions",
+        "description": "",
+        "link": "use-currencies-when-posting-employee-transactions",
+        "publicPreview": "Mar 1, 2024",
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Install Field Service Integration with Business Central from AppSource",
+        "description": "",
+        "link": "install-field-service-integration-business-central-appsource",
+        "publicPreview": null,
+        "generalAvailability": "Jul 5, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Chat with Copilot to find records or learn new skills",
+        "description": "",
+        "link": "chat-copilot",
+        "publicPreview": "Apr 2, 2024",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Application features",
+        "Title": "Map e-documents to purchase order lines with Copilot",
+        "description": "",
+        "link": "map-e-documents-purchase-order-lines-copilot",
+        "publicPreview": "Apr 1, 2024",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Application features",
+        "Title": "Extend Copilot using richer development tools",
+        "description": "",
+        "link": "extend-copilot-using-richer-development-tools",
+        "publicPreview": null,
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Get to insights fast with Copilot-created analysis tabs",
+        "description": "",
+        "link": "get-insights-faster-copilot-generated-analysis-tabs",
+        "publicPreview": "Apr 2, 2024",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Application features",
+        "Title": "Simplify collections with Copilot for Finance and Business Central",
+        "description": "",
+        "link": "empower-collections-team-copilot-finance-business-central",
+        "publicPreview": "Jun 30, 2024",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Application features",
+        "Title": "Ask Copilot for help with fields",
+        "description": "",
+        "link": "learn-more-about-fields-copilot",
+        "publicPreview": "Apr 1, 2024",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Application features",
+        "Title": "Automate IRS 1099 form submission",
+        "description": "",
+        "link": "automate-irs-1099-form-submission-us",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Enable additional countries and regions",
+        "description": "",
+        "link": "enable-additional-countries-regions",
+        "publicPreview": "Jul 1, 2024",
+        "generalAvailability": "Aug 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Process Czech bank statements and payment orders more productively",
+        "description": "",
+        "link": "more-productive-processing-czech-bank-statements-payment-orders",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Improvement of Czech localization reports",
+        "description": "",
+        "link": "improvement-czech-localization-reports",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Report explorer has additional outputs in the Czech version",
+        "description": "",
+        "link": "report-explorer-has-additional-outputs-czech-version",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Improved updates of ARES data in the Czech version",
+        "description": "",
+        "link": "improved-updates-ares-data-czech-version",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Allow more extendability of advance payments in the Czech version",
+        "description": "",
+        "link": "allow-more-extendibility-advance-payments-czech-version",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Print QR codes on sales invoices in the Czech version",
+        "description": "",
+        "link": "print-qr-codes-sales-invoices-czech-version",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use Excel layouts for Czech reports",
+        "description": "",
+        "link": "excel-layouts-czech-reports",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use in-client page scripting tool for acceptance testing",
+        "description": "",
+        "link": "use-in-client-page-scripting-tool-acceptance-testing",
+        "publicPreview": "Apr 1, 2024",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use AL-controlled barcode scanning for all scenarios",
+        "description": "",
+        "link": "use-al-controlled-barcode-scanning-all-scenarios-business-central-online",
+        "publicPreview": "Apr 2, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Write flexible and performant code with NumberSequences",
+        "description": "",
+        "link": "write-more-flexible-performant-code-using-numbersequences",
+        "publicPreview": "Apr 1, 2024",
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Handle multiple file uploads",
+        "description": "",
+        "link": "handle-multiple-file-uploads-file-drop-zones",
+        "publicPreview": "Apr 5, 2024",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Application features",
+        "Title": "Debug the System application",
+        "description": "",
+        "link": "debug-system-application",
+        "publicPreview": "Apr 1, 2024",
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use cookies in HTTP calls from Business Central",
+        "description": "",
+        "link": "use-cookies-http-calls-business-central",
+        "publicPreview": "Mar 1, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Define tooltips on table fields",
+        "description": "",
+        "link": "define-tooltips-table-fields",
+        "publicPreview": "Apr 1, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use the OData V4 IN operator in web service queries",
+        "description": "",
+        "link": "use-odata-v4-operator-web-service-queries",
+        "publicPreview": "Apr 1, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Define extension objects in same app as their base object",
+        "description": "",
+        "link": "define-extension-objects-same-app-as-their-base-object",
+        "publicPreview": "Apr 1, 2024",
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use linked environments in Dataverse integration",
+        "description": "",
+        "link": "use-linked-environment-dataverse-integration",
+        "publicPreview": null,
+        "generalAvailability": "Jun 18, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Copy companies with Dataverse integration safely",
+        "description": "",
+        "link": "copy-companies-dataverse-integration-safely",
+        "publicPreview": "Mar 4, 2024",
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Audit Business Central operations in Microsoft Purview",
+        "description": "",
+        "link": "audit-business-central-operations-purview",
+        "publicPreview": "May 15, 2024",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Application features",
+        "Title": "Analyze telemetry events across browser and server for a session or user",
+        "description": "",
+        "link": "analyze-telemetry-events-across-browser-server-session-or-user",
+        "publicPreview": "Mar 31, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "View and filter users with additional user details",
+        "description": "",
+        "link": "view-filter-users-using-additional-user-details",
+        "publicPreview": "Mar 4, 2024",
+        "generalAvailability": "Apr 5, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use Premium license to sign in to environment with Essentials licenses",
+        "description": "",
+        "link": "use-premium-license-log-into-environment-essentials-licenses",
+        "publicPreview": null,
+        "generalAvailability": "Apr 5, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Experience the new embedded AppSource marketplace page",
+        "description": "",
+        "link": "experience-new-embedded-appsource-marketplace-page",
+        "publicPreview": "Apr 1, 2024",
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Allow customers to consent to Microsoft Support accessing their data",
+        "description": "",
+        "link": "allow-customers-consent-support-accessing-their-data",
+        "publicPreview": null,
+        "generalAvailability": "May 15, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Link Business Central environments to Power Platform environments",
+        "description": "",
+        "link": "link-business-central-environments-power-platform-environments",
+        "publicPreview": null,
+        "generalAvailability": "May 15, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "See VAT date in posting previews",
+        "description": "",
+        "link": "see-vat-date-posting-previews",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Automate country of origin listed for item tracking code in Intrastat reporting",
+        "description": "",
+        "link": "automate-country-origin-listed-item-tracking-code-intrastat-reporting",
+        "publicPreview": null,
+        "generalAvailability": "Sep 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Achieve sustainable compliance with Business Central",
+        "description": "",
+        "link": "achieving-sustainable-compliance-business-central",
+        "publicPreview": "Mar 1, 2024",
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Enable sustainability features for integrations with APIs",
+        "description": "",
+        "link": "enable-sustainability-features-integrations-apis",
+        "publicPreview": "Jun 1, 2024",
+        "generalAvailability": "Sep 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Go to pages that contain a field that's causing a platform error",
+        "description": "",
+        "link": "use-actions-navigate-highlight-or-fix-platform-generated-errors",
+        "publicPreview": "Mar 4, 2024",
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Access worksheet pages from mobile phones",
+        "description": "",
+        "link": "access-worksheet-pages-mobile-phones",
+        "publicPreview": "Apr 2, 2024",
+        "generalAvailability": "Apr 2, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Boost productivity with the modern action bar",
+        "description": "",
+        "link": "boost-productivity-modern-action-bar",
+        "publicPreview": null,
+        "generalAvailability": "Apr 5, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Share error details to get help from another user",
+        "description": "",
+        "link": "share-error-details-get-help-another-user",
+        "publicPreview": "Mar 4, 2024",
+        "generalAvailability": "Apr 1, 2024"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Enhance user interface for better experience",
+        "description": "",
+        "link": "enhancements-user-experience",
+        "publicPreview": null,
+        "generalAvailability": "Apr 2, 2024"
+      }
+    ]
+  }
+}

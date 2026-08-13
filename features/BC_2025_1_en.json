@@ -1,15 +1,1031 @@
 {
   "BusinessCentralVersion": {
-    "Version": "BC 25.1 (EN)",
-    "VersionII": "Business Central 2025 Wave 1 (EN) - April 2025",
+    "Version": "BC 25.0",
+    "VersionII": "Business Central Version 2025 Wave 1",
     "Feature": [
       {
-        "Title": "2025 release wave 2 plan",
-        "Area": "Application Features",
+        "Area": "Application features",
+        "Title": "Integrate Field Service with service management",
         "description": "",
-        "link": "planned-features",
+        "link": "integrate-field-service-service-management",
         "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "View item availability in Field Service work orders",
+        "description": "",
+        "link": "view-item-availability-field-service-work-orders",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Edit price lists in Excel",
+        "description": "",
+        "link": "edit-price-lists-excel",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use SecretText with control add-ins and in JSON objects",
+        "description": "",
+        "link": "use-secrettext-control-add-ins-json-objects",
+        "publicPreview": "May 2, 2025",
+        "generalAvailability": "May 2, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use improved troubleshooting options for cost adjustments",
+        "description": "",
+        "link": "improved-performance-enhanced-troubleshooting-options-cost-adjustment-runs",
+        "publicPreview": "Mar 14, 2025",
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Capture more sales with enhanced Sales Order Agent",
+        "description": "",
+        "link": "capture-more-sales-enhanced-sales-order-agent",
+        "publicPreview": "Sep 2, 2025",
+        "generalAvailability": "Nov 7, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Chat with Copilot to learn how to use installed add-on apps",
+        "description": "",
+        "link": "chat-copilot-learn-use-installed-add-on-apps",
+        "publicPreview": "Sep 7, 2025",
         "generalAvailability": null
+      },
+      {
+        "Area": "Application features",
+        "Title": "Summarize with Copilot",
+        "description": "",
+        "link": "summarize-record-copilot",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Application features",
+        "Title": "Enhance purchase order line matching with Copilot",
+        "description": "",
+        "link": "enhance-purchase-order-line-matching-copilot",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Application features",
+        "Title": "Automate tests for Copilot extensions with Business Central Test Toolkit",
+        "description": "",
+        "link": "automate-tests-copilot-extensions-business-central-test-toolkit",
+        "publicPreview": "May 1, 2025",
+        "generalAvailability": "May 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use AI resources for your Copilot extensions",
+        "description": "",
+        "link": "use-business-central-ai-resources-copilot-features-business-central",
+        "publicPreview": "Jun 6, 2025",
+        "generalAvailability": "Sep 2026"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use autofill with Copilot to suggest field values",
+        "description": "",
+        "link": "autofill-fields-copilot",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": null
+      },
+      {
+        "Area": "Application features",
+        "Title": "Automate payables processes with the Payables Agent",
+        "description": "",
+        "link": "automate-payables-processes-payables-agent",
+        "publicPreview": "Jul 4, 2025",
+        "generalAvailability": "Nov 7, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Post cash documents to projects in Czech localization",
+        "description": "",
+        "link": "post-cash-documents-projects-czech-localization",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Add more text in cash documents in Czech localization",
+        "description": "",
+        "link": "add-more-text-cash-documents-czech-localization",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Calculate and post VAT settlement by Activity Code - Italy",
+        "description": "",
+        "link": "allowing-calculation-posting-vat-settlement-activity-code-italy",
+        "publicPreview": null,
+        "generalAvailability": "Jul 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Get UI improvements for Unreliable Payer for Czechia",
+        "description": "",
+        "link": "unreliable-payer-user-interface-improvements-czechia",
+        "publicPreview": "Sep 1, 2025",
+        "generalAvailability": "Oct 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use Peppol PINT A-NZ format for e-documents in AU and NZ",
+        "description": "",
+        "link": "use-peppol-a-nz-format-e-documents-australia-new-zealand",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Define allowed languages per environment",
+        "description": "",
+        "link": "define-allowed-languages-per-environment",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Check total amounts on purchase advances for Czechia",
+        "description": "",
+        "link": "check-total-amounts-purchase-advances-czechia",
+        "publicPreview": "Sep 1, 2025",
+        "generalAvailability": "Oct 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Reconciliation feature in cash documents for Czechia",
+        "description": "",
+        "link": "reconciliation-feature-cash-documents-czechia",
+        "publicPreview": "Sep 1, 2025",
+        "generalAvailability": "Oct 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Showcase Business Central with Czech localization demos",
+        "description": "",
+        "link": "showcase-business-central-czech-localization-demos",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use ZUGFeRD format for E-Documents in Germany",
+        "description": "",
+        "link": "use-zugferd-format-e-documents-germany",
+        "publicPreview": "Jul 1, 2025",
+        "generalAvailability": "Aug 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "New Contoso Coffee Demo Dataset for Intrastat in Czechia",
+        "description": "",
+        "link": "new-contoso-coffee-demo-dataset-intrastat-czechia",
+        "publicPreview": "Sep 1, 2025",
+        "generalAvailability": "Oct 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "New pages for purchase and sales advance entries for Czechia",
+        "description": "",
+        "link": "new-pages-purchase-sales-advance-lines-czechia",
+        "publicPreview": "Sep 1, 2025",
+        "generalAvailability": "Oct 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use VAT Return to report VAT in local and functional currencies in Czech Republic",
+        "description": "",
+        "link": "use-vat-return-report-vat-local-functional-currencies-czech-republic",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use modern search to access data in Czech localization",
+        "description": "",
+        "link": "use-modern-search-access-data-czech-localization",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Hide lines with zero quantity in Czech document reports",
+        "description": "",
+        "link": "hide-lines-zero-quantity-czech-document-reports",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Alternative posting groups for employees in Czechia",
+        "description": "",
+        "link": "alternative-posting-groups-employees-czechia",
+        "publicPreview": "Sep 1, 2025",
+        "generalAvailability": "Oct 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Overloaded JsonObject data type GetValue method",
+        "description": "",
+        "link": "overloaded-jsonobject-data-type-getvalue-method",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Move tables and fields with data across extensions as part of refactoring",
+        "description": "",
+        "link": "move-tables-fields-data-across-extensions-as-part-refactoring",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Extend CardPageId on list and listpart pages",
+        "description": "",
+        "link": "extend-cardpageid-list-listpart-pages",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Experience user-friendly client activity descriptions in performance profiles",
+        "description": "",
+        "link": "experience-user-friendly-client-activity-descriptions-performance-profiles",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use the new continue keyword for AL loops",
+        "description": "",
+        "link": "use-new-continue-keyword-al-loops",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Manage external files more easily through unified API in External File Storage module",
+        "description": "",
+        "link": "manage-external-files-more-easily-through-unified-api-external-file-storage-module",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Read and write YAML in AL using JsonObject",
+        "description": "",
+        "link": "read-write-yaml-al-using-jsonobject",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Select extensions to open in Visual Studio Code from the web client",
+        "description": "",
+        "link": "select-extensions-open-visual-studio-code-web-client",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Troubleshoot clients, apps, and add-ins with telemetry",
+        "description": "",
+        "link": "troubleshoot-clients-apps-add-ins-telemetry",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Mock outbound HttpClient web service calls during testing",
+        "description": "",
+        "link": "mock-outbound-httpclient-web-service-calls-during-testing",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Search, navigate and use app symbols as context for GitHub Copilot",
+        "description": "",
+        "link": "search-navigate-use-app-symbols-as-context-github-copilot",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "View build metadata in Extension Management page",
+        "description": "",
+        "link": "view-build-metadata-extension-management-page",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Validate certificates on external web service endpoints called from AL HttpClient",
+        "description": "",
+        "link": "validating-certificates-external-web-service-endpoints-called-al-httpclient",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Work with multiline strings in AL",
+        "description": "",
+        "link": "work-multiline-strings-al",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use new AL project templates for creating Copilot features in Visual Studio Code",
+        "description": "",
+        "link": "use-new-al-project-templates-creating-copilot-features-visual-studio-code",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use new properties on a report layout",
+        "description": "",
+        "link": "use-new-properties-report-layout",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Self-service App Key Vault onboarding for AppSource apps",
+        "description": "",
+        "link": "self-service-app-key-vault-onboarding-appsource-apps",
+        "publicPreview": "Apr 7, 2025",
+        "generalAvailability": "Apr 7, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use new IncStr parameter to change integers by more than 1 in string variables",
+        "description": "",
+        "link": "use-new-incstr-parameter-change-integers-more-than-1-string-variables",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Embed Power BI content in web client with new page type",
+        "description": "",
+        "link": "embed-power-bi-content-web-client-new-page-type",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Convert simple type values to text using new ToText method",
+        "description": "",
+        "link": "convert-simple-type-values-text-using-new-totext-method",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Create lists and dictionaries of interfaces in AL",
+        "description": "",
+        "link": "create-list-dictionary-interfaces-al",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Generate launch json file from the web client",
+        "description": "",
+        "link": "generate-launchjson-file-web-clientjson-file-from-the-web-client",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Running objects in actions defaults to UI descriptors on target object",
+        "description": "",
+        "link": "running-objects-actions-defaults-caption-tooltip-abouttext-abouttitle-target-object",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Import and export more data for Shopify B2B companies and company locations",
+        "description": "",
+        "link": "import-export-more-data-shopify-b2b-companies-company-locations",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Activate sales channels in Shopify Connector",
+        "description": "",
+        "link": "activate-sales-channels-shopify-connector",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Import and export more data using Shopify metafields",
+        "description": "",
+        "link": "import-export-more-data-using-shopify-metafields",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Troubleshoot export issues on Shopify Skipped Records page",
+        "description": "",
+        "link": "troubleshoot-export-issues-shopify-skipped-records-page",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use the latest update for the Shopify connector",
+        "description": "",
+        "link": "use-latest-update-shopify-connector",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Delete incorrect e-documents and avoid duplicates",
+        "description": "",
+        "link": "delete-incorrect-e-documents-avoid-duplicates",
+        "publicPreview": null,
+        "generalAvailability": "May 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Generate multiple incoming e-documents for multiple attachments",
+        "description": "",
+        "link": "generate-multiple-incoming-e-documents-multiple-attachments",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use B2B Router as a service provider for e-documents",
+        "description": "",
+        "link": "use-b2b-router-as-service-provider-e-documents",
+        "publicPreview": "May 1, 2025",
+        "generalAvailability": "Jun 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Automate embedded attachments in PEPPOL",
+        "description": "",
+        "link": "automate-embedded-attachments-peppol",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Jun 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use Logiq as a service provider for e-documents",
+        "description": "",
+        "link": "use-new-service-providers-e-documents-framework",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "May 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use ExFlow by SignUp connector for e-documents",
+        "description": "",
+        "link": "use-exflow-signup-connector-e-documents",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "May 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Process e-documents in two steps",
+        "description": "",
+        "link": "process-e-documents-two-steps",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Preview incoming e-invoices prior to processing",
+        "description": "",
+        "link": "preview-incoming-e-invoices-prior-processing",
+        "publicPreview": null,
+        "generalAvailability": "May 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use Continia as a service provider for e-documents",
+        "description": "",
+        "link": "use-continia-as-service-provider-e-documents",
+        "publicPreview": "Jun 1, 2025",
+        "generalAvailability": "Jul 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use e-documents to fix unposted purchase documents",
+        "description": "",
+        "link": "use-e-documents-fix-unposted-purchase-credit-memos",
+        "publicPreview": null,
+        "generalAvailability": "May 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Extend E-Documents features using a new interface",
+        "description": "",
+        "link": "extend-e-documents-features-using-new-interface",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Analyze subscription billing data with Power BI reports",
+        "description": "",
+        "link": "analyze-subscription-billing-data-power-bi-reports",
+        "publicPreview": null,
+        "generalAvailability": "Jun 15, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Require Intrastat classifications on documents",
+        "description": "",
+        "link": "require-intrastat-classifications-documents",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Check total purchase amounts on documents",
+        "description": "",
+        "link": "check-total-purchase-amounts-documents",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Add support for MultiSubnetFailover",
+        "description": "",
+        "link": "add-support-multisubnetfailover",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Manage environment updates more flexibly",
+        "description": "",
+        "link": "manage-environment-updates-more-flexibly",
+        "publicPreview": "Oct 1, 2024",
+        "generalAvailability": "Apr 30, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Enhanced index troubleshooting",
+        "description": "",
+        "link": "enhanced-index-troubleshooting",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Support IPv6 for enhanced security and scalability",
+        "description": "",
+        "link": "support-ipv6-enhanced-security-scalability",
+        "publicPreview": null,
+        "generalAvailability": "May 31, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Update sandbox environments to preview versions",
+        "description": "",
+        "link": "update-sandbox-environments-preview-versions",
+        "publicPreview": null,
+        "generalAvailability": "Sep 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Link to Power Platform to use Copilot Studio messages",
+        "description": "",
+        "link": "link-power-platform-use-copilot-studio-messages",
+        "publicPreview": "Mar 1, 2025",
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use enhanced analytics for inventory",
+        "description": "",
+        "link": "use-enhanced-analytics-inventory",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use enhanced analytics for sales",
+        "description": "",
+        "link": "use-enhanced-analytics-sales",
+        "publicPreview": null,
+        "generalAvailability": "Jun 15, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use enhanced analytics for purchasing",
+        "description": "",
+        "link": "use-enhanced-analytics-purchasing",
+        "publicPreview": null,
+        "generalAvailability": "Jun 15, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use enhanced analytics for projects",
+        "description": "",
+        "link": "use-enhanced-analytics-projects",
+        "publicPreview": null,
+        "generalAvailability": "Jun 15, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use enhanced Excel reports for sustainability",
+        "description": "",
+        "link": "use-enhanced-excel-reports-sustainability",
+        "publicPreview": null,
+        "generalAvailability": "Jun 15, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Enhance reports with PDF post-processing capabilities",
+        "description": "",
+        "link": "enhance-reports-pdf-post-processing-capabilities",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Validate report layouts for errors as an admin",
+        "description": "",
+        "link": "validate-report-layouts-errors-as-admin",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Add fields from related tables in analysis mode",
+        "description": "",
+        "link": "add-fields-related-tables-analysis-mode",
+        "publicPreview": "Jun 6, 2025",
+        "generalAvailability": "Jun 6, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use enhanced analytics for manufacturing (updated Power BI app)",
+        "description": "",
+        "link": "use-enhanced-analytics-manufacturing",
+        "publicPreview": null,
+        "generalAvailability": "Jun 15, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Access report and request metadata in Word layouts",
+        "description": "",
+        "link": "access-report-request-metadata-word-layouts",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use enhanced Financial Reporting capabilities",
+        "description": "",
+        "link": "use-enhanced-financial-reporting-capabilities",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use enhanced analytics for finance",
+        "description": "",
+        "link": "use-enhanced-analytics-finance",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Calculate values only for visible FlowFields",
+        "description": "",
+        "link": "calculate-values-only-visible-flowfields",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Reschedule production orders within a safety lead time",
+        "description": "",
+        "link": "reschedule-production-orders-within-safety-lead-time",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use enhanced customer document layout for service management",
+        "description": "",
+        "link": "use-enhanced-customer-document-layout-service-management",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Cancel production orders that have consumption",
+        "description": "",
+        "link": "cancel-production-orders-that-have-consumption",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Add more columns to various pages to gain more insight",
+        "description": "",
+        "link": "add-more-columns-various-pages-gain-more-insight",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Allow multiple people to post inventory at the same time",
+        "description": "",
+        "link": "allow-multiple-people-post-inventory-at-same-time",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Experience improved usability in manufacturing",
+        "description": "",
+        "link": "experience-improved-usability-manufacturing",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Enable overpicking for production orders",
+        "description": "",
+        "link": "enable-over-picking-production-orders",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Achieve greater accuracy in manufacturing costing",
+        "description": "",
+        "link": "achieve-greater-accuracy-manufacturing-costing",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Omit warehouse pick for manual flushing methods",
+        "description": "",
+        "link": "omit-warehouse-pick-manual-flushing-methods",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Create demo data for Subscription Billing with demo data tool",
+        "description": "",
+        "link": "create-demo-data-subscription-billing-contoso-demo-data-tool",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Create subscription contract lines manually",
+        "description": "",
+        "link": "create-subscription-contract-lines-manually",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Add unit cost in subscription lines",
+        "description": "",
+        "link": "add-unit-cost-subscription-lines",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Track and rebill quantity changes in subscriptions",
+        "description": "",
+        "link": "track-rebill-quantity-changes-subscriptions",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Align Subscription Billing with standard user experience and terminology",
+        "description": "",
+        "link": "align-subscription-billing-standard-user-experience-terminology",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Receive project items with receipts or put-aways",
+        "description": "",
+        "link": "receive-project-items-receipts-or-put-aways",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Block items or variants from production output",
+        "description": "",
+        "link": "block-items-or-variants-production-output",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Avoid document number errors when you post project journals",
+        "description": "",
+        "link": "avoid-document-number-errors-when-post-project-journals",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Handle production output with warehouse put-aways",
+        "description": "",
+        "link": "handle-production-output-warehouse-put-aways",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Reopen finished production orders",
+        "description": "",
+        "link": "reopen-finished-production-orders",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use streamlined product design tools in manufacturing",
+        "description": "",
+        "link": "use-streamlined-product-design-tools-manufacturing",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Print barcodes from production orders",
+        "description": "",
+        "link": "print-barcodes-production-orders",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Manage document attachments in manufacturing",
+        "description": "",
+        "link": "manage-document-attachments-manufacturing",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use Edit in Excel on output, consumption, and item journals",
+        "description": "",
+        "link": "edit-item-tracked-items-excel-output-consumption-item-journals",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Combine service shipments on a single service invoice",
+        "description": "",
+        "link": "combine-service-shipments-single-service-invoice",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Specify default sustainability values for various entities",
+        "description": "",
+        "link": "specify-default-sustainability-values-various-entities",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use enhanced analytics for Sustainability",
+        "description": "",
+        "link": "use-enhanced-analytics-sustainability",
+        "publicPreview": null,
+        "generalAvailability": "Jun 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Capture sustainability data with general journals",
+        "description": "",
+        "link": "capture-sustainability-data-general-journals",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use water and waste management with sustainability",
+        "description": "",
+        "link": "use-water-waste-management-sustainability",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "May 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use sustainability Scope 3 value chain for assembly and transfers",
+        "description": "",
+        "link": "enable-sustainability-scope-3-value-chain-assembly-transfers",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Dec 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Provide carbon equivalent data for sales based on Scope 3 automation",
+        "description": "",
+        "link": "provide-carbon-equivalent-data-sales-based-scope-3-automation",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Dec 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Start value chain in purchase process for Scope 3 in sustainability",
+        "description": "",
+        "link": "start-value-chain-purchase-process-scope-3-sustainability",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Dec 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use refreshed demo data for Sustainability",
+        "description": "",
+        "link": "use-refreshed-demo-data-sustainability",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use sustainability Scope 3 value chain in manufacturing",
+        "description": "",
+        "link": "use-sustainability-scope-3-value-chain-manufacturing",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Dec 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use the new Out of Scope emission category",
+        "description": "",
+        "link": "use-new-out-scope-emission-category",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "May 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Preview PDF attachments directly in web client",
+        "description": "",
+        "link": "preview-pdf-attachments-directly-web-client",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Optimize screen estate usage on the web",
+        "description": "",
+        "link": "optimize-screen-estate-usage-web",
+        "publicPreview": "Apr 7, 2025",
+        "generalAvailability": "Apr 22, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Adjust the FactBox pane width",
+        "description": "",
+        "link": "allow-adjusting-factbox-pane-width",
+        "publicPreview": null,
+        "generalAvailability": "Apr 1, 2025"
+      },
+      {
+        "Area": "Application features",
+        "Title": "Use user interface enhancements for better experience",
+        "description": "",
+        "link": "use-user-interface-enhancements-better-experience",
+        "publicPreview": "Apr 1, 2025",
+        "generalAvailability": "Apr 7, 2025"
       }
     ]
   }
